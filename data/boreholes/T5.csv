@@ -1,0 +1,1537 @@
+"","borehole","Depth","Description","Unit","Valid","campaign","DEPTH","x","y","z"
+"1","T5","0","Terra nera organica.","T","1","Botticelli","20",528439.4418,4566311.39,570
+"2","T5","0.05","Terra nera organica.","T","1","Botticelli","20",528439.4418,4566311.39,570
+"3","T5","0.1","Terra nera organica.","T","1","Botticelli","20",528439.4418,4566311.39,570
+"4","T5","0.15","Terra nera organica.","T","1","Botticelli","20",528439.4418,4566311.39,570
+"5","T5","0.2","Terra nera organica.","T","1","Botticelli","20",528439.4418,4566311.39,570
+"6","T5","0.25","Terra nera organica.","T","1","Botticelli","20",528439.4418,4566311.39,570
+"7","T5","0.3","Terra nera organica.","T","1","Botticelli","20",528439.4418,4566311.39,570
+"8","T5","0.35","Terra nera organica.","T","1","Botticelli","20",528439.4418,4566311.39,570
+"9","T5","0.4","Terra nera organica.","T","1","Botticelli","20",528439.4418,4566311.39,570
+"10","T5","0.45","Terra nera organica.","T","1","Botticelli","20",528439.4418,4566311.39,570
+"11","T5","0.5","Terra nera organica.","T","1","Botticelli","20",528439.4418,4566311.39,570
+"12","T5","0.55","Terra nera organica.","T","1","Botticelli","20",528439.4418,4566311.39,570
+"13","T5","0.6","Terra nera organica.","T","1","Botticelli","20",528439.4418,4566311.39,570
+"14","T5","0.65","Terra nera organica.","T","1","Botticelli","20",528439.4418,4566311.39,570
+"15","T5","0.7","Terra nera organica.","T","1","Botticelli","20",528439.4418,4566311.39,570
+"16","T5","0.75","Terra nera organica.","T","1","Botticelli","20",528439.4418,4566311.39,570
+"17","T5","0.8","Terra nera organica.","T","1","Botticelli","20",528439.4418,4566311.39,570
+"18","T5","0.85","Terra nera organica.","T","1","Botticelli","20",528439.4418,4566311.39,570
+"19","T5","0.9","Terra nera organica.","T","1","Botticelli","20",528439.4418,4566311.39,570
+"20","T5","0.95","Terra nera organica.","T","1","Botticelli","20",528439.4418,4566311.39,570
+"21","T5","1","Terra nera organica.","T","1","Botticelli","20",528439.4418,4566311.39,570
+"22","T5","1.05","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"23","T5","1.1","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"24","T5","1.15","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"25","T5","1.2","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"26","T5","1.25","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"27","T5","1.3","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"28","T5","1.35","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"29","T5","1.4","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"30","T5","1.45","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"31","T5","1.5","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"32","T5","1.55","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"33","T5","1.6","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"34","T5","1.65","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"35","T5","1.7","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"36","T5","1.75","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"37","T5","1.8","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"38","T5","1.85","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"39","T5","1.9","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"40","T5","1.95","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"41","T5","2","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"42","T5","2.05","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"43","T5","2.1","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"44","T5","2.15","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"45","T5","2.2","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"46","T5","2.25","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"47","T5","2.3","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"48","T5","2.35","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"49","T5","2.4","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"50","T5","2.45","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"51","T5","2.5","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"52","T5","2.55","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"53","T5","2.6","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"54","T5","2.65","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"55","T5","2.7","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"56","T5","2.75","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"57","T5","2.8","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"58","T5","2.85","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"59","T5","2.9","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"60","T5","2.95","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"61","T5","3","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"62","T5","3.05","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"63","T5","3.1","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"64","T5","3.15","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"65","T5","3.2","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"66","T5","3.25","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"67","T5","3.3","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"68","T5","3.35","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"69","T5","3.4","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"70","T5","3.45","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"71","T5","3.5","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"72","T5","3.55","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"73","T5","3.6","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"74","T5","3.65","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"75","T5","3.7","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"76","T5","3.75","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"77","T5","3.8","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"78","T5","3.85","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"79","T5","3.9","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"80","T5","3.95","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"81","T5","4","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"82","T5","4.05","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"83","T5","4.1","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"84","T5","4.15","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"85","T5","4.2","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"86","T5","4.25","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"87","T5","4.3","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"88","T5","4.35","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"89","T5","4.4","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"90","T5","4.45","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"91","T5","4.5","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"92","T5","4.55","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"93","T5","4.6","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"94","T5","4.65","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"95","T5","4.7","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"96","T5","4.75","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"97","T5","4.8","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"98","T5","4.85","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"99","T5","4.9","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"100","T5","4.95","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"101","T5","5","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"102","T5","5.05","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"103","T5","5.1","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"104","T5","5.15","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"105","T5","5.2","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"106","T5","5.25","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"107","T5","5.3","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"108","T5","5.35","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"109","T5","5.4","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"110","T5","5.45","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"111","T5","5.5","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"112","T5","5.55","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"113","T5","5.6","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"114","T5","5.65","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"115","T5","5.7","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"116","T5","5.75","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"117","T5","5.8","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"118","T5","5.85","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"119","T5","5.9","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"120","T5","5.95","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"121","T5","6","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"122","T5","6.05","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"123","T5","6.1","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"124","T5","6.15","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"125","T5","6.2","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"126","T5","6.25","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"127","T5","6.3","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"128","T5","6.35","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"129","T5","6.4","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"130","T5","6.45","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"131","T5","6.5","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"132","T5","6.55","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"133","T5","6.6","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"134","T5","6.65","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"135","T5","6.7","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"136","T5","6.75","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"137","T5","6.8","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"138","T5","6.85","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"139","T5","6.9","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"140","T5","6.95","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"141","T5","7","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"142","T5","7.05","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"143","T5","7.1","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"144","T5","7.15","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"145","T5","7.2","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"146","T5","7.25","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"147","T5","7.3","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"148","T5","7.35","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"149","T5","7.4","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"150","T5","7.45","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"151","T5","7.5","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"152","T5","7.55","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"153","T5","7.6","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"154","T5","7.65","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"155","T5","7.7","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"156","T5","7.75","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"157","T5","7.8","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"158","T5","7.85","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"159","T5","7.9","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"160","T5","7.95","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"161","T5","8","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"162","T5","8.05","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"163","T5","8.1","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"164","T5","8.15","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"165","T5","8.2","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"166","T5","8.25","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"167","T5","8.3","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"168","T5","8.35","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"169","T5","8.4","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"170","T5","8.45","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"171","T5","8.5","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"172","T5","8.55","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"173","T5","8.6","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"174","T5","8.65","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"175","T5","8.7","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"176","T5","8.75","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"177","T5","8.8","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"178","T5","8.85","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"179","T5","8.9","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"180","T5","8.95","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"181","T5","9","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"182","T5","9.05","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"183","T5","9.1","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"184","T5","9.15","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"185","T5","9.2","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"186","T5","9.25","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"187","T5","9.3","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"188","T5","9.35","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"189","T5","9.4","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"190","T5","9.45","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"191","T5","9.5","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"192","T5","9.55","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"193","T5","9.6","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"194","T5","9.65","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"195","T5","9.7","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"196","T5","9.75","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"197","T5","9.8","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"198","T5","9.85","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"199","T5","9.9","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"200","T5","9.95","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"201","T5","10","Limo.","4","1","Botticelli","20",528439.4418,4566311.39,570
+"202","T5","10.05","Argilla varicolori gialla grigio-verde marroncina.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"203","T5","10.1","Argilla varicolori gialla grigio-verde marroncina.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"204","T5","10.15","Argilla varicolori gialla grigio-verde marroncina.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"205","T5","10.2","Argilla varicolori gialla grigio-verde marroncina.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"206","T5","10.25","Argilla varicolori gialla grigio-verde marroncina.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"207","T5","10.3","Argilla varicolori gialla grigio-verde marroncina.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"208","T5","10.35","Argilla varicolori gialla grigio-verde marroncina.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"209","T5","10.4","Argilla varicolori gialla grigio-verde marroncina.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"210","T5","10.45","Argilla varicolori gialla grigio-verde marroncina.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"211","T5","10.5","Argilla varicolori gialla grigio-verde marroncina.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"212","T5","10.55","Argilla varicolori gialla grigio-verde marroncina.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"213","T5","10.6","Argilla varicolori gialla grigio-verde marroncina.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"214","T5","10.65","Argilla varicolori gialla grigio-verde marroncina.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"215","T5","10.7","Argilla varicolori gialla grigio-verde marroncina.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"216","T5","10.75","Argilla varicolori gialla grigio-verde marroncina.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"217","T5","10.8","Argilla varicolori gialla grigio-verde marroncina.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"218","T5","10.85","Argilla varicolori gialla grigio-verde marroncina.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"219","T5","10.9","Argilla varicolori gialla grigio-verde marroncina.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"220","T5","10.95","Argilla varicolori gialla grigio-verde marroncina.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"221","T5","11","Argilla varicolori gialla grigio-verde marroncina.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"222","T5","11.05","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"223","T5","11.1","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"224","T5","11.15","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"225","T5","11.2","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"226","T5","11.25","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"227","T5","11.3","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"228","T5","11.35","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"229","T5","11.4","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"230","T5","11.45","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"231","T5","11.5","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"232","T5","11.55","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"233","T5","11.6","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"234","T5","11.65","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"235","T5","11.7","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"236","T5","11.75","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"237","T5","11.8","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"238","T5","11.85","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"239","T5","11.9","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"240","T5","11.95","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"241","T5","12","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"242","T5","12.05","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"243","T5","12.1","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"244","T5","12.15","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"245","T5","12.2","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"246","T5","12.25","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"247","T5","12.3","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"248","T5","12.35","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"249","T5","12.4","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"250","T5","12.45","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"251","T5","12.5","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"252","T5","12.55","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"253","T5","12.6","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"254","T5","12.65","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"255","T5","12.7","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"256","T5","12.75","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"257","T5","12.8","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"258","T5","12.85","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"259","T5","12.9","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"260","T5","12.95","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"261","T5","13","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"262","T5","13.05","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"263","T5","13.1","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"264","T5","13.15","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"265","T5","13.2","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"266","T5","13.25","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"267","T5","13.3","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"268","T5","13.35","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"269","T5","13.4","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"270","T5","13.45","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"271","T5","13.5","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"272","T5","13.55","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"273","T5","13.6","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"274","T5","13.65","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"275","T5","13.7","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"276","T5","13.75","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"277","T5","13.8","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"278","T5","13.85","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"279","T5","13.9","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"280","T5","13.95","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"281","T5","14","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"282","T5","14.05","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"283","T5","14.1","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"284","T5","14.15","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"285","T5","14.2","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"286","T5","14.25","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"287","T5","14.3","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"288","T5","14.35","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"289","T5","14.4","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"290","T5","14.45","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"291","T5","14.5","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"292","T5","14.55","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"293","T5","14.6","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"294","T5","14.65","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"295","T5","14.7","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"296","T5","14.75","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"297","T5","14.8","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"298","T5","14.85","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"299","T5","14.9","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"300","T5","14.95","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"301","T5","15","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"302","T5","15.05","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"303","T5","15.1","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"304","T5","15.15","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"305","T5","15.2","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"306","T5","15.25","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"307","T5","15.3","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"308","T5","15.35","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"309","T5","15.4","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"310","T5","15.45","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"311","T5","15.5","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"312","T5","15.55","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"313","T5","15.6","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"314","T5","15.65","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"315","T5","15.7","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"316","T5","15.75","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"317","T5","15.8","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"318","T5","15.85","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"319","T5","15.9","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"320","T5","15.95","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"321","T5","16","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"322","T5","16.05","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"323","T5","16.1","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"324","T5","16.15","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"325","T5","16.2","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"326","T5","16.25","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"327","T5","16.3","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"328","T5","16.35","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"329","T5","16.4","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"330","T5","16.45","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"331","T5","16.5","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"332","T5","16.55","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"333","T5","16.6","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"334","T5","16.65","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"335","T5","16.7","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"336","T5","16.75","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"337","T5","16.8","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"338","T5","16.85","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"339","T5","16.9","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"340","T5","16.95","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"341","T5","17","Argilla varicolori compatta.","3","1","Botticelli","20",528439.4418,4566311.39,570
+"342","T5","17.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"343","T5","17.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"344","T5","17.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"345","T5","17.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"346","T5","17.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"347","T5","17.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"348","T5","17.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"349","T5","17.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"350","T5","17.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"351","T5","17.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"352","T5","17.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"353","T5","17.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"354","T5","17.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"355","T5","17.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"356","T5","17.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"357","T5","17.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"358","T5","17.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"359","T5","17.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"360","T5","17.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"361","T5","18","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"362","T5","18.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"363","T5","18.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"364","T5","18.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"365","T5","18.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"366","T5","18.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"367","T5","18.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"368","T5","18.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"369","T5","18.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"370","T5","18.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"371","T5","18.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"372","T5","18.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"373","T5","18.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"374","T5","18.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"375","T5","18.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"376","T5","18.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"377","T5","18.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"378","T5","18.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"379","T5","18.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"380","T5","18.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"381","T5","19","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"382","T5","19.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"383","T5","19.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"384","T5","19.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"385","T5","19.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"386","T5","19.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"387","T5","19.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"388","T5","19.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"389","T5","19.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"390","T5","19.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"391","T5","19.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"392","T5","19.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"393","T5","19.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"394","T5","19.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"395","T5","19.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"396","T5","19.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"397","T5","19.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"398","T5","19.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"399","T5","19.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"400","T5","19.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"401","T5","20","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","1","Botticelli","20",528439.4418,4566311.39,570
+"402","T5","20","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"403","T5","20.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"404","T5","20.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"405","T5","20.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"406","T5","20.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"407","T5","20.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"408","T5","20.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"409","T5","20.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"410","T5","20.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"411","T5","20.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"412","T5","20.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"413","T5","20.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"414","T5","20.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"415","T5","20.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"416","T5","20.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"417","T5","20.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"418","T5","20.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"419","T5","20.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"420","T5","20.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"421","T5","20.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"422","T5","21","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"423","T5","21.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"424","T5","21.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"425","T5","21.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"426","T5","21.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"427","T5","21.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"428","T5","21.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"429","T5","21.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"430","T5","21.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"431","T5","21.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"432","T5","21.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"433","T5","21.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"434","T5","21.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"435","T5","21.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"436","T5","21.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"437","T5","21.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"438","T5","21.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"439","T5","21.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"440","T5","21.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"441","T5","21.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"442","T5","22","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"443","T5","22.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"444","T5","22.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"445","T5","22.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"446","T5","22.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"447","T5","22.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"448","T5","22.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"449","T5","22.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"450","T5","22.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"451","T5","22.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"452","T5","22.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"453","T5","22.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"454","T5","22.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"455","T5","22.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"456","T5","22.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"457","T5","22.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"458","T5","22.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"459","T5","22.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"460","T5","22.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"461","T5","22.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"462","T5","23","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"463","T5","23.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"464","T5","23.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"465","T5","23.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"466","T5","23.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"467","T5","23.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"468","T5","23.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"469","T5","23.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"470","T5","23.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"471","T5","23.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"472","T5","23.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"473","T5","23.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"474","T5","23.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"475","T5","23.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"476","T5","23.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"477","T5","23.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"478","T5","23.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"479","T5","23.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"480","T5","23.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"481","T5","23.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"482","T5","24","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"483","T5","24.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"484","T5","24.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"485","T5","24.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"486","T5","24.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"487","T5","24.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"488","T5","24.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"489","T5","24.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"490","T5","24.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"491","T5","24.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"492","T5","24.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"493","T5","24.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"494","T5","24.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"495","T5","24.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"496","T5","24.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"497","T5","24.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"498","T5","24.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"499","T5","24.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"500","T5","24.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"501","T5","24.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"502","T5","25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"503","T5","25.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"504","T5","25.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"505","T5","25.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"506","T5","25.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"507","T5","25.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"508","T5","25.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"509","T5","25.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"510","T5","25.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"511","T5","25.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"512","T5","25.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"513","T5","25.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"514","T5","25.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"515","T5","25.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"516","T5","25.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"517","T5","25.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"518","T5","25.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"519","T5","25.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"520","T5","25.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"521","T5","25.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"522","T5","26","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"523","T5","26.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"524","T5","26.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"525","T5","26.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"526","T5","26.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"527","T5","26.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"528","T5","26.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"529","T5","26.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"530","T5","26.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"531","T5","26.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"532","T5","26.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"533","T5","26.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"534","T5","26.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"535","T5","26.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"536","T5","26.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"537","T5","26.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"538","T5","26.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"539","T5","26.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"540","T5","26.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"541","T5","26.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"542","T5","27","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"543","T5","27.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"544","T5","27.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"545","T5","27.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"546","T5","27.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"547","T5","27.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"548","T5","27.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"549","T5","27.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"550","T5","27.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"551","T5","27.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"552","T5","27.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"553","T5","27.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"554","T5","27.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"555","T5","27.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"556","T5","27.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"557","T5","27.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"558","T5","27.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"559","T5","27.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"560","T5","27.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"561","T5","27.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"562","T5","28","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"563","T5","28.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"564","T5","28.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"565","T5","28.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"566","T5","28.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"567","T5","28.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"568","T5","28.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"569","T5","28.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"570","T5","28.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"571","T5","28.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"572","T5","28.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"573","T5","28.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"574","T5","28.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"575","T5","28.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"576","T5","28.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"577","T5","28.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"578","T5","28.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"579","T5","28.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"580","T5","28.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"581","T5","28.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"582","T5","29","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"583","T5","29.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"584","T5","29.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"585","T5","29.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"586","T5","29.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"587","T5","29.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"588","T5","29.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"589","T5","29.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"590","T5","29.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"591","T5","29.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"592","T5","29.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"593","T5","29.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"594","T5","29.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"595","T5","29.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"596","T5","29.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"597","T5","29.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"598","T5","29.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"599","T5","29.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"600","T5","29.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"601","T5","29.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"602","T5","30","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"603","T5","30.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"604","T5","30.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"605","T5","30.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"606","T5","30.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"607","T5","30.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"608","T5","30.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"609","T5","30.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"610","T5","30.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"611","T5","30.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"612","T5","30.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"613","T5","30.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"614","T5","30.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"615","T5","30.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"616","T5","30.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"617","T5","30.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"618","T5","30.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"619","T5","30.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"620","T5","30.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"621","T5","30.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"622","T5","31","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"623","T5","31.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"624","T5","31.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"625","T5","31.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"626","T5","31.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"627","T5","31.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"628","T5","31.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"629","T5","31.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"630","T5","31.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"631","T5","31.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"632","T5","31.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"633","T5","31.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"634","T5","31.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"635","T5","31.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"636","T5","31.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"637","T5","31.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"638","T5","31.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"639","T5","31.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"640","T5","31.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"641","T5","31.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"642","T5","32","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"643","T5","32.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"644","T5","32.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"645","T5","32.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"646","T5","32.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"647","T5","32.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"648","T5","32.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"649","T5","32.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"650","T5","32.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"651","T5","32.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"652","T5","32.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"653","T5","32.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"654","T5","32.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"655","T5","32.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"656","T5","32.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"657","T5","32.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"658","T5","32.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"659","T5","32.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"660","T5","32.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"661","T5","32.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"662","T5","33","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"663","T5","33.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"664","T5","33.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"665","T5","33.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"666","T5","33.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"667","T5","33.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"668","T5","33.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"669","T5","33.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"670","T5","33.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"671","T5","33.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"672","T5","33.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"673","T5","33.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"674","T5","33.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"675","T5","33.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"676","T5","33.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"677","T5","33.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"678","T5","33.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"679","T5","33.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"680","T5","33.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"681","T5","33.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"682","T5","34","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"683","T5","34.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"684","T5","34.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"685","T5","34.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"686","T5","34.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"687","T5","34.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"688","T5","34.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"689","T5","34.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"690","T5","34.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"691","T5","34.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"692","T5","34.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"693","T5","34.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"694","T5","34.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"695","T5","34.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"696","T5","34.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"697","T5","34.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"698","T5","34.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"699","T5","34.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"700","T5","34.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"701","T5","34.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"702","T5","35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"703","T5","35.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"704","T5","35.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"705","T5","35.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"706","T5","35.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"707","T5","35.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"708","T5","35.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"709","T5","35.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"710","T5","35.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"711","T5","35.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"712","T5","35.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"713","T5","35.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"714","T5","35.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"715","T5","35.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"716","T5","35.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"717","T5","35.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"718","T5","35.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"719","T5","35.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"720","T5","35.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"721","T5","35.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"722","T5","36","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"723","T5","36.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"724","T5","36.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"725","T5","36.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"726","T5","36.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"727","T5","36.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"728","T5","36.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"729","T5","36.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"730","T5","36.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"731","T5","36.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"732","T5","36.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"733","T5","36.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"734","T5","36.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"735","T5","36.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"736","T5","36.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"737","T5","36.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"738","T5","36.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"739","T5","36.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"740","T5","36.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"741","T5","36.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"742","T5","37","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"743","T5","37.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"744","T5","37.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"745","T5","37.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"746","T5","37.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"747","T5","37.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"748","T5","37.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"749","T5","37.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"750","T5","37.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"751","T5","37.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"752","T5","37.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"753","T5","37.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"754","T5","37.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"755","T5","37.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"756","T5","37.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"757","T5","37.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"758","T5","37.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"759","T5","37.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"760","T5","37.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"761","T5","37.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"762","T5","38","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"763","T5","38.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"764","T5","38.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"765","T5","38.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"766","T5","38.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"767","T5","38.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"768","T5","38.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"769","T5","38.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"770","T5","38.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"771","T5","38.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"772","T5","38.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"773","T5","38.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"774","T5","38.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"775","T5","38.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"776","T5","38.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"777","T5","38.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"778","T5","38.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"779","T5","38.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"780","T5","38.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"781","T5","38.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"782","T5","39","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"783","T5","39.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"784","T5","39.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"785","T5","39.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"786","T5","39.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"787","T5","39.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"788","T5","39.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"789","T5","39.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"790","T5","39.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"791","T5","39.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"792","T5","39.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"793","T5","39.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"794","T5","39.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"795","T5","39.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"796","T5","39.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"797","T5","39.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"798","T5","39.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"799","T5","39.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"800","T5","39.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"801","T5","39.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"802","T5","40","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"803","T5","40.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"804","T5","40.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"805","T5","40.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"806","T5","40.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"807","T5","40.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"808","T5","40.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"809","T5","40.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"810","T5","40.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"811","T5","40.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"812","T5","40.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"813","T5","40.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"814","T5","40.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"815","T5","40.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"816","T5","40.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"817","T5","40.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"818","T5","40.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"819","T5","40.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"820","T5","40.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"821","T5","40.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"822","T5","41","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"823","T5","41.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"824","T5","41.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"825","T5","41.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"826","T5","41.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"827","T5","41.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"828","T5","41.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"829","T5","41.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"830","T5","41.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"831","T5","41.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"832","T5","41.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"833","T5","41.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"834","T5","41.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"835","T5","41.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"836","T5","41.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"837","T5","41.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"838","T5","41.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"839","T5","41.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"840","T5","41.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"841","T5","41.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"842","T5","42","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"843","T5","42.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"844","T5","42.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"845","T5","42.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"846","T5","42.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"847","T5","42.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"848","T5","42.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"849","T5","42.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"850","T5","42.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"851","T5","42.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"852","T5","42.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"853","T5","42.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"854","T5","42.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"855","T5","42.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"856","T5","42.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"857","T5","42.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"858","T5","42.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"859","T5","42.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"860","T5","42.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"861","T5","42.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"862","T5","43","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"863","T5","43.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"864","T5","43.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"865","T5","43.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"866","T5","43.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"867","T5","43.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"868","T5","43.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"869","T5","43.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"870","T5","43.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"871","T5","43.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"872","T5","43.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"873","T5","43.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"874","T5","43.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"875","T5","43.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"876","T5","43.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"877","T5","43.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"878","T5","43.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"879","T5","43.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"880","T5","43.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"881","T5","43.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"882","T5","44","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"883","T5","44.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"884","T5","44.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"885","T5","44.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"886","T5","44.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"887","T5","44.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"888","T5","44.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"889","T5","44.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"890","T5","44.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"891","T5","44.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"892","T5","44.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"893","T5","44.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"894","T5","44.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"895","T5","44.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"896","T5","44.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"897","T5","44.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"898","T5","44.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"899","T5","44.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"900","T5","44.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"901","T5","44.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"902","T5","45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"903","T5","45.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"904","T5","45.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"905","T5","45.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"906","T5","45.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"907","T5","45.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"908","T5","45.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"909","T5","45.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"910","T5","45.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"911","T5","45.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"912","T5","45.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"913","T5","45.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"914","T5","45.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"915","T5","45.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"916","T5","45.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"917","T5","45.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"918","T5","45.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"919","T5","45.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"920","T5","45.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"921","T5","45.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"922","T5","46","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"923","T5","46.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"924","T5","46.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"925","T5","46.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"926","T5","46.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"927","T5","46.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"928","T5","46.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"929","T5","46.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"930","T5","46.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"931","T5","46.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"932","T5","46.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"933","T5","46.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"934","T5","46.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"935","T5","46.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"936","T5","46.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"937","T5","46.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"938","T5","46.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"939","T5","46.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"940","T5","46.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"941","T5","46.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"942","T5","47","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"943","T5","47.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"944","T5","47.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"945","T5","47.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"946","T5","47.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"947","T5","47.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"948","T5","47.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"949","T5","47.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"950","T5","47.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"951","T5","47.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"952","T5","47.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"953","T5","47.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"954","T5","47.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"955","T5","47.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"956","T5","47.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"957","T5","47.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"958","T5","47.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"959","T5","47.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"960","T5","47.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"961","T5","47.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"962","T5","48","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"963","T5","48.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"964","T5","48.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"965","T5","48.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"966","T5","48.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"967","T5","48.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"968","T5","48.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"969","T5","48.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"970","T5","48.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"971","T5","48.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"972","T5","48.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"973","T5","48.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"974","T5","48.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"975","T5","48.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"976","T5","48.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"977","T5","48.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"978","T5","48.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"979","T5","48.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"980","T5","48.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"981","T5","48.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"982","T5","49","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"983","T5","49.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"984","T5","49.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"985","T5","49.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"986","T5","49.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"987","T5","49.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"988","T5","49.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"989","T5","49.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"990","T5","49.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"991","T5","49.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"992","T5","49.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"993","T5","49.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"994","T5","49.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"995","T5","49.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"996","T5","49.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"997","T5","49.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"998","T5","49.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"999","T5","49.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1000","T5","49.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1001","T5","49.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1002","T5","50","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1003","T5","50.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1004","T5","50.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1005","T5","50.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1006","T5","50.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1007","T5","50.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1008","T5","50.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1009","T5","50.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1010","T5","50.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1011","T5","50.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1012","T5","50.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1013","T5","50.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1014","T5","50.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1015","T5","50.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1016","T5","50.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1017","T5","50.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1018","T5","50.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1019","T5","50.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1020","T5","50.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1021","T5","50.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1022","T5","51","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1023","T5","51.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1024","T5","51.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1025","T5","51.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1026","T5","51.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1027","T5","51.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1028","T5","51.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1029","T5","51.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1030","T5","51.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1031","T5","51.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1032","T5","51.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1033","T5","51.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1034","T5","51.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1035","T5","51.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1036","T5","51.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1037","T5","51.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1038","T5","51.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1039","T5","51.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1040","T5","51.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1041","T5","51.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1042","T5","52","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1043","T5","52.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1044","T5","52.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1045","T5","52.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1046","T5","52.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1047","T5","52.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1048","T5","52.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1049","T5","52.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1050","T5","52.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1051","T5","52.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1052","T5","52.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1053","T5","52.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1054","T5","52.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1055","T5","52.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1056","T5","52.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1057","T5","52.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1058","T5","52.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1059","T5","52.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1060","T5","52.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1061","T5","52.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1062","T5","53","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1063","T5","53.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1064","T5","53.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1065","T5","53.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1066","T5","53.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1067","T5","53.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1068","T5","53.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1069","T5","53.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1070","T5","53.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1071","T5","53.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1072","T5","53.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1073","T5","53.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1074","T5","53.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1075","T5","53.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1076","T5","53.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1077","T5","53.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1078","T5","53.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1079","T5","53.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1080","T5","53.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1081","T5","53.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1082","T5","54","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1083","T5","54.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1084","T5","54.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1085","T5","54.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1086","T5","54.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1087","T5","54.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1088","T5","54.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1089","T5","54.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1090","T5","54.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1091","T5","54.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1092","T5","54.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1093","T5","54.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1094","T5","54.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1095","T5","54.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1096","T5","54.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1097","T5","54.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1098","T5","54.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1099","T5","54.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1100","T5","54.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1101","T5","54.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1102","T5","55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1103","T5","55.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1104","T5","55.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1105","T5","55.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1106","T5","55.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1107","T5","55.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1108","T5","55.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1109","T5","55.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1110","T5","55.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1111","T5","55.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1112","T5","55.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1113","T5","55.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1114","T5","55.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1115","T5","55.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1116","T5","55.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1117","T5","55.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1118","T5","55.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1119","T5","55.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1120","T5","55.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1121","T5","55.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1122","T5","56","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1123","T5","56.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1124","T5","56.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1125","T5","56.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1126","T5","56.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1127","T5","56.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1128","T5","56.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1129","T5","56.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1130","T5","56.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1131","T5","56.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1132","T5","56.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1133","T5","56.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1134","T5","56.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1135","T5","56.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1136","T5","56.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1137","T5","56.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1138","T5","56.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1139","T5","56.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1140","T5","56.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1141","T5","56.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1142","T5","57","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1143","T5","57.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1144","T5","57.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1145","T5","57.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1146","T5","57.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1147","T5","57.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1148","T5","57.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1149","T5","57.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1150","T5","57.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1151","T5","57.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1152","T5","57.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1153","T5","57.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1154","T5","57.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1155","T5","57.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1156","T5","57.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1157","T5","57.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1158","T5","57.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1159","T5","57.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1160","T5","57.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1161","T5","57.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1162","T5","58","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1163","T5","58.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1164","T5","58.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1165","T5","58.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1166","T5","58.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1167","T5","58.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1168","T5","58.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1169","T5","58.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1170","T5","58.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1171","T5","58.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1172","T5","58.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1173","T5","58.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1174","T5","58.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1175","T5","58.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1176","T5","58.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1177","T5","58.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1178","T5","58.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1179","T5","58.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1180","T5","58.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1181","T5","58.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1182","T5","59","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1183","T5","59.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1184","T5","59.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1185","T5","59.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1186","T5","59.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1187","T5","59.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1188","T5","59.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1189","T5","59.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1190","T5","59.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1191","T5","59.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1192","T5","59.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1193","T5","59.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1194","T5","59.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1195","T5","59.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1196","T5","59.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1197","T5","59.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1198","T5","59.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1199","T5","59.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1200","T5","59.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1201","T5","59.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1202","T5","60","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1203","T5","60.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1204","T5","60.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1205","T5","60.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1206","T5","60.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1207","T5","60.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1208","T5","60.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1209","T5","60.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1210","T5","60.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1211","T5","60.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1212","T5","60.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1213","T5","60.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1214","T5","60.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1215","T5","60.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1216","T5","60.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1217","T5","60.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1218","T5","60.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1219","T5","60.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1220","T5","60.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1221","T5","60.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1222","T5","61","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1223","T5","61.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1224","T5","61.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1225","T5","61.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1226","T5","61.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1227","T5","61.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1228","T5","61.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1229","T5","61.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1230","T5","61.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1231","T5","61.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1232","T5","61.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1233","T5","61.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1234","T5","61.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1235","T5","61.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1236","T5","61.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1237","T5","61.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1238","T5","61.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1239","T5","61.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1240","T5","61.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1241","T5","61.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1242","T5","62","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1243","T5","62.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1244","T5","62.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1245","T5","62.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1246","T5","62.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1247","T5","62.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1248","T5","62.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1249","T5","62.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1250","T5","62.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1251","T5","62.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1252","T5","62.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1253","T5","62.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1254","T5","62.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1255","T5","62.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1256","T5","62.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1257","T5","62.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1258","T5","62.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1259","T5","62.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1260","T5","62.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1261","T5","62.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1262","T5","63","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1263","T5","63.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1264","T5","63.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1265","T5","63.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1266","T5","63.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1267","T5","63.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1268","T5","63.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1269","T5","63.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1270","T5","63.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1271","T5","63.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1272","T5","63.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1273","T5","63.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1274","T5","63.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1275","T5","63.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1276","T5","63.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1277","T5","63.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1278","T5","63.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1279","T5","63.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1280","T5","63.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1281","T5","63.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1282","T5","64","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1283","T5","64.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1284","T5","64.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1285","T5","64.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1286","T5","64.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1287","T5","64.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1288","T5","64.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1289","T5","64.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1290","T5","64.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1291","T5","64.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1292","T5","64.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1293","T5","64.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1294","T5","64.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1295","T5","64.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1296","T5","64.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1297","T5","64.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1298","T5","64.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1299","T5","64.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1300","T5","64.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1301","T5","64.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1302","T5","65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1303","T5","65.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1304","T5","65.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1305","T5","65.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1306","T5","65.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1307","T5","65.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1308","T5","65.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1309","T5","65.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1310","T5","65.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1311","T5","65.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1312","T5","65.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1313","T5","65.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1314","T5","65.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1315","T5","65.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1316","T5","65.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1317","T5","65.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1318","T5","65.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1319","T5","65.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1320","T5","65.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1321","T5","65.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1322","T5","66","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1323","T5","66.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1324","T5","66.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1325","T5","66.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1326","T5","66.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1327","T5","66.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1328","T5","66.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1329","T5","66.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1330","T5","66.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1331","T5","66.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1332","T5","66.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1333","T5","66.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1334","T5","66.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1335","T5","66.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1336","T5","66.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1337","T5","66.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1338","T5","66.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1339","T5","66.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1340","T5","66.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1341","T5","66.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1342","T5","67","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1343","T5","67.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1344","T5","67.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1345","T5","67.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1346","T5","67.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1347","T5","67.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1348","T5","67.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1349","T5","67.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1350","T5","67.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1351","T5","67.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1352","T5","67.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1353","T5","67.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1354","T5","67.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1355","T5","67.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1356","T5","67.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1357","T5","67.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1358","T5","67.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1359","T5","67.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1360","T5","67.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1361","T5","67.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1362","T5","68","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1363","T5","68.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1364","T5","68.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1365","T5","68.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1366","T5","68.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1367","T5","68.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1368","T5","68.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1369","T5","68.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1370","T5","68.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1371","T5","68.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1372","T5","68.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1373","T5","68.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1374","T5","68.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1375","T5","68.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1376","T5","68.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1377","T5","68.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1378","T5","68.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1379","T5","68.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1380","T5","68.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1381","T5","68.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1382","T5","69","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1383","T5","69.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1384","T5","69.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1385","T5","69.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1386","T5","69.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1387","T5","69.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1388","T5","69.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1389","T5","69.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1390","T5","69.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1391","T5","69.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1392","T5","69.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1393","T5","69.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1394","T5","69.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1395","T5","69.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1396","T5","69.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1397","T5","69.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1398","T5","69.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1399","T5","69.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1400","T5","69.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1401","T5","69.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1402","T5","70","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1403","T5","70.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1404","T5","70.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1405","T5","70.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1406","T5","70.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1407","T5","70.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1408","T5","70.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1409","T5","70.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1410","T5","70.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1411","T5","70.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1412","T5","70.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1413","T5","70.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1414","T5","70.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1415","T5","70.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1416","T5","70.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1417","T5","70.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1418","T5","70.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1419","T5","70.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1420","T5","70.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1421","T5","70.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1422","T5","71","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1423","T5","71.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1424","T5","71.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1425","T5","71.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1426","T5","71.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1427","T5","71.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1428","T5","71.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1429","T5","71.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1430","T5","71.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1431","T5","71.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1432","T5","71.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1433","T5","71.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1434","T5","71.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1435","T5","71.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1436","T5","71.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1437","T5","71.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1438","T5","71.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1439","T5","71.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1440","T5","71.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1441","T5","71.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1442","T5","72","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1443","T5","72.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1444","T5","72.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1445","T5","72.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1446","T5","72.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1447","T5","72.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1448","T5","72.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1449","T5","72.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1450","T5","72.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1451","T5","72.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1452","T5","72.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1453","T5","72.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1454","T5","72.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1455","T5","72.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1456","T5","72.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1457","T5","72.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1458","T5","72.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1459","T5","72.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1460","T5","72.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1461","T5","72.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1462","T5","73","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1463","T5","73.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1464","T5","73.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1465","T5","73.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1466","T5","73.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1467","T5","73.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1468","T5","73.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1469","T5","73.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1470","T5","73.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1471","T5","73.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1472","T5","73.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1473","T5","73.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1474","T5","73.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1475","T5","73.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1476","T5","73.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1477","T5","73.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1478","T5","73.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1479","T5","73.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1480","T5","73.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1481","T5","73.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1482","T5","74","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1483","T5","74.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1484","T5","74.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1485","T5","74.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1486","T5","74.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1487","T5","74.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1488","T5","74.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1489","T5","74.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1490","T5","74.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1491","T5","74.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1492","T5","74.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1493","T5","74.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1494","T5","74.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1495","T5","74.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1496","T5","74.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1497","T5","74.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1498","T5","74.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1499","T5","74.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1500","T5","74.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1501","T5","74.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1502","T5","75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1503","T5","75.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1504","T5","75.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1505","T5","75.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1506","T5","75.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1507","T5","75.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1508","T5","75.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1509","T5","75.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1510","T5","75.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1511","T5","75.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1512","T5","75.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1513","T5","75.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1514","T5","75.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1515","T5","75.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1516","T5","75.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1517","T5","75.75","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1518","T5","75.8","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1519","T5","75.85","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1520","T5","75.9","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1521","T5","75.95","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1522","T5","76","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1523","T5","76.05","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1524","T5","76.1","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1525","T5","76.15","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1526","T5","76.2","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1527","T5","76.25","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1528","T5","76.3","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1529","T5","76.35","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1530","T5","76.4","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1531","T5","76.45","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1532","T5","76.5","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1533","T5","76.55","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1534","T5","76.6","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1535","T5","76.65","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570
+"1536","T5","76.7","Argilla marnosa grigio azzurra con inclusi ciottoli.","2a","0","Botticelli","20",528439.4418,4566311.39,570

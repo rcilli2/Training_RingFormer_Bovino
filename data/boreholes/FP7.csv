@@ -1,0 +1,1537 @@
+"","borehole","Depth","Description","Unit","Valid","campaign","DEPTH","x","y","z"
+"1","FP7","0","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"2","FP7","0.05","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"3","FP7","0.1","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"4","FP7","0.15","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"5","FP7","0.2","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"6","FP7","0.25","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"7","FP7","0.3","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"8","FP7","0.35","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"9","FP7","0.4","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"10","FP7","0.45","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"11","FP7","0.5","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"12","FP7","0.55","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"13","FP7","0.6","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"14","FP7","0.65","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"15","FP7","0.7","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"16","FP7","0.75","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"17","FP7","0.8","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"18","FP7","0.85","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"19","FP7","0.9","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"20","FP7","0.95","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"21","FP7","1","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"22","FP7","1.05","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"23","FP7","1.1","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"24","FP7","1.15","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"25","FP7","1.2","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"26","FP7","1.25","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"27","FP7","1.3","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"28","FP7","1.35","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"29","FP7","1.4","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"30","FP7","1.45","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"31","FP7","1.5","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"32","FP7","1.55","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"33","FP7","1.6","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"34","FP7","1.65","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"35","FP7","1.7","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"36","FP7","1.75","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"37","FP7","1.8","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"38","FP7","1.85","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"39","FP7","1.9","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"40","FP7","1.95","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"41","FP7","2","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"42","FP7","2.05","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"43","FP7","2.1","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"44","FP7","2.15","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"45","FP7","2.2","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"46","FP7","2.25","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"47","FP7","2.3","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"48","FP7","2.35","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"49","FP7","2.4","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"50","FP7","2.45","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"51","FP7","2.5","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"52","FP7","2.55","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"53","FP7","2.6","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"54","FP7","2.65","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"55","FP7","2.7","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"56","FP7","2.75","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"57","FP7","2.8","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"58","FP7","2.85","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"59","FP7","2.9","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"60","FP7","2.95","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"61","FP7","3","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"62","FP7","3.05","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"63","FP7","3.1","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"64","FP7","3.15","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"65","FP7","3.2","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"66","FP7","3.25","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"67","FP7","3.3","Terreno organico.","T","1","Geoconsul","25",528460.8491,4566301.763,567
+"68","FP7","3.35","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"69","FP7","3.4","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"70","FP7","3.45","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"71","FP7","3.5","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"72","FP7","3.55","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"73","FP7","3.6","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"74","FP7","3.65","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"75","FP7","3.7","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"76","FP7","3.75","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"77","FP7","3.8","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"78","FP7","3.85","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"79","FP7","3.9","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"80","FP7","3.95","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"81","FP7","4","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"82","FP7","4.05","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"83","FP7","4.1","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"84","FP7","4.15","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"85","FP7","4.2","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"86","FP7","4.25","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"87","FP7","4.3","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"88","FP7","4.35","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"89","FP7","4.4","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"90","FP7","4.45","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"91","FP7","4.5","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"92","FP7","4.55","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"93","FP7","4.6","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"94","FP7","4.65","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"95","FP7","4.7","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"96","FP7","4.75","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"97","FP7","4.8","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"98","FP7","4.85","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"99","FP7","4.9","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"100","FP7","4.95","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"101","FP7","5","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"102","FP7","5.05","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"103","FP7","5.1","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"104","FP7","5.15","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"105","FP7","5.2","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"106","FP7","5.25","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"107","FP7","5.3","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"108","FP7","5.35","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"109","FP7","5.4","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"110","FP7","5.45","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"111","FP7","5.5","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"112","FP7","5.55","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"113","FP7","5.6","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"114","FP7","5.65","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"115","FP7","5.7","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"116","FP7","5.75","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"117","FP7","5.8","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"118","FP7","5.85","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"119","FP7","5.9","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"120","FP7","5.95","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"121","FP7","6","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"122","FP7","6.05","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"123","FP7","6.1","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"124","FP7","6.15","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"125","FP7","6.2","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"126","FP7","6.25","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"127","FP7","6.3","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"128","FP7","6.35","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"129","FP7","6.4","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"130","FP7","6.45","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"131","FP7","6.5","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"132","FP7","6.55","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"133","FP7","6.6","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"134","FP7","6.65","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"135","FP7","6.7","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"136","FP7","6.75","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"137","FP7","6.8","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"138","FP7","6.85","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"139","FP7","6.9","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"140","FP7","6.95","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"141","FP7","7","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"142","FP7","7.05","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"143","FP7","7.1","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"144","FP7","7.15","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"145","FP7","7.2","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"146","FP7","7.25","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"147","FP7","7.3","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"148","FP7","7.35","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"149","FP7","7.4","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"150","FP7","7.45","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"151","FP7","7.5","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"152","FP7","7.55","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"153","FP7","7.6","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"154","FP7","7.65","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"155","FP7","7.7","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"156","FP7","7.75","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"157","FP7","7.8","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"158","FP7","7.85","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"159","FP7","7.9","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"160","FP7","7.95","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"161","FP7","8","Limo sabbioso a luoghi argilloso avana. Sono presenti concrezioni calcaree sparse con zone rossicce.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"162","FP7","8.05"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"163","FP7","8.1"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"164","FP7","8.15"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"165","FP7","8.2"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"166","FP7","8.25"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"167","FP7","8.3"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"168","FP7","8.35"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"169","FP7","8.4"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"170","FP7","8.45"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"171","FP7","8.5"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"172","FP7","8.55"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"173","FP7","8.6"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"174","FP7","8.65"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"175","FP7","8.7"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"176","FP7","8.75"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"177","FP7","8.8"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"178","FP7","8.85"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"179","FP7","8.9"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"180","FP7","8.95"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"181","FP7","9"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"182","FP7","9.05"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"183","FP7","9.1"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"184","FP7","9.15"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"185","FP7","9.2"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"186","FP7","9.25"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"187","FP7","9.3"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"188","FP7","9.35"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"189","FP7","9.4"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"190","FP7","9.45"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"191","FP7","9.5"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"192","FP7","9.55"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"193","FP7","9.6"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"194","FP7","9.65"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"195","FP7","9.7"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"196","FP7","9.75"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"197","FP7","9.8"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"198","FP7","9.85"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"199","FP7","9.9"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"200","FP7","9.95"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"201","FP7","10"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"202","FP7","10.05"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"203","FP7","10.1"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"204","FP7","10.15"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"205","FP7","10.2"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"206","FP7","10.25"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"207","FP7","10.3"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"208","FP7","10.35"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"209","FP7","10.4"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"210","FP7","10.45"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"211","FP7","10.5"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"212","FP7","10.55"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"213","FP7","10.6"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"214","FP7","10.65"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"215","FP7","10.7"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"216","FP7","10.75"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"217","FP7","10.8"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"218","FP7","10.85"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"219","FP7","10.9"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"220","FP7","10.95"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"221","FP7","11"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"222","FP7","11.05"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"223","FP7","11.1"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"224","FP7","11.15"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"225","FP7","11.2"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"226","FP7","11.25"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"227","FP7","11.3"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"228","FP7","11.35"," Limo argilloso talora sabbioso avana e avana-verdastro con zone rossicce. Presenza di materiale evaporitico sparso.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"229","FP7","11.4","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"230","FP7","11.45","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"231","FP7","11.5","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"232","FP7","11.55","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"233","FP7","11.6","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"234","FP7","11.65","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"235","FP7","11.7","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"236","FP7","11.75","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"237","FP7","11.8","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"238","FP7","11.85","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"239","FP7","11.9","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"240","FP7","11.95","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"241","FP7","12","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"242","FP7","12.05","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"243","FP7","12.1","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"244","FP7","12.15","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"245","FP7","12.2","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"246","FP7","12.25","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"247","FP7","12.3","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"248","FP7","12.35","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"249","FP7","12.4","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"250","FP7","12.45","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"251","FP7","12.5","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"252","FP7","12.55","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"253","FP7","12.6","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"254","FP7","12.65","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"255","FP7","12.7","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"256","FP7","12.75","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"257","FP7","12.8","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"258","FP7","12.85","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"259","FP7","12.9","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"260","FP7","12.95","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"261","FP7","13","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"262","FP7","13.05","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"263","FP7","13.1","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"264","FP7","13.15","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"265","FP7","13.2","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"266","FP7","13.25","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"267","FP7","13.3","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"268","FP7","13.35","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"269","FP7","13.4","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"270","FP7","13.45","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"271","FP7","13.5","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"272","FP7","13.55","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"273","FP7","13.6","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"274","FP7","13.65","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"275","FP7","13.7","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"276","FP7","13.75","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"277","FP7","13.8","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"278","FP7","13.85","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"279","FP7","13.9","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"280","FP7","13.95","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"281","FP7","14","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"282","FP7","14.05","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"283","FP7","14.1","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"284","FP7","14.15","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"285","FP7","14.2","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"286","FP7","14.25","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"287","FP7","14.3","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"288","FP7","14.35","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"289","FP7","14.4","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"290","FP7","14.45","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"291","FP7","14.5","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"292","FP7","14.55","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"293","FP7","14.6","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"294","FP7","14.65","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"295","FP7","14.7","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"296","FP7","14.75","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"297","FP7","14.8","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"298","FP7","14.85","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"299","FP7","14.9","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"300","FP7","14.95","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"301","FP7","15","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"302","FP7","15.05","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"303","FP7","15.1","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"304","FP7","15.15","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"305","FP7","15.2","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"306","FP7","15.25","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"307","FP7","15.3","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"308","FP7","15.35","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"309","FP7","15.4","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"310","FP7","15.45","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"311","FP7","15.5","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"312","FP7","15.55","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"313","FP7","15.6","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"314","FP7","15.65","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"315","FP7","15.7","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"316","FP7","15.75","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"317","FP7","15.8","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"318","FP7","15.85","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"319","FP7","15.9","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"320","FP7","15.95","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"321","FP7","16","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"322","FP7","16.05","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"323","FP7","16.1","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"324","FP7","16.15","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"325","FP7","16.2","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"326","FP7","16.25","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"327","FP7","16.3","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"328","FP7","16.35","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"329","FP7","16.4","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"330","FP7","16.45","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"331","FP7","16.5","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"332","FP7","16.55","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"333","FP7","16.6","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"334","FP7","16.65","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"335","FP7","16.7","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"336","FP7","16.75","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"337","FP7","16.8","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"338","FP7","16.85","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"339","FP7","16.9","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"340","FP7","16.95","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"341","FP7","17","Limo sabbioso argilloso grigiastro e marroncino, a metri 16 presenza di inclusi calcarei.","4","1","Geoconsul","25",528460.8491,4566301.763,567
+"342","FP7","17.05","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"343","FP7","17.1","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"344","FP7","17.15","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"345","FP7","17.2","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"346","FP7","17.25","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"347","FP7","17.3","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"348","FP7","17.35","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"349","FP7","17.4","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"350","FP7","17.45","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"351","FP7","17.5","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"352","FP7","17.55","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"353","FP7","17.6","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"354","FP7","17.65","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"355","FP7","17.7","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"356","FP7","17.75","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"357","FP7","17.8","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"358","FP7","17.85","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"359","FP7","17.9","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"360","FP7","17.95","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"361","FP7","18","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"362","FP7","18.05","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"363","FP7","18.1","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"364","FP7","18.15","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"365","FP7","18.2","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"366","FP7","18.25","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"367","FP7","18.3","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"368","FP7","18.35","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"369","FP7","18.4","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"370","FP7","18.45","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"371","FP7","18.5","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"372","FP7","18.55","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"373","FP7","18.6","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"374","FP7","18.65","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"375","FP7","18.7","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"376","FP7","18.75","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"377","FP7","18.8","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"378","FP7","18.85","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"379","FP7","18.9","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"380","FP7","18.95","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"381","FP7","19","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"382","FP7","19.05","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"383","FP7","19.1","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"384","FP7","19.15","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"385","FP7","19.2","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"386","FP7","19.25","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"387","FP7","19.3","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"388","FP7","19.35","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"389","FP7","19.4","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"390","FP7","19.45","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"391","FP7","19.5","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"392","FP7","19.55","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"393","FP7","19.6","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"394","FP7","19.65","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"395","FP7","19.7","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"396","FP7","19.75","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"397","FP7","19.8","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"398","FP7","19.85","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"399","FP7","19.9","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"400","FP7","19.95","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"401","FP7","20","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"402","FP7","20.05","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"403","FP7","20.1","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"404","FP7","20.15","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"405","FP7","20.2","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"406","FP7","20.25","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"407","FP7","20.3","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"408","FP7","20.35","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"409","FP7","20.4","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"410","FP7","20.45","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"411","FP7","20.5","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"412","FP7","20.55","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"413","FP7","20.6","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"414","FP7","20.65","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"415","FP7","20.7","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"416","FP7","20.75","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"417","FP7","20.8","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"418","FP7","20.85","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"419","FP7","20.9","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"420","FP7","20.95","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"421","FP7","21","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"422","FP7","21.05","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"423","FP7","21.1","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"424","FP7","21.15","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"425","FP7","21.2","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"426","FP7","21.25","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"427","FP7","21.3","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"428","FP7","21.35","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"429","FP7","21.4","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"430","FP7","21.45","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"431","FP7","21.5","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"432","FP7","21.55","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"433","FP7","21.6","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"434","FP7","21.65","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"435","FP7","21.7","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"436","FP7","21.75","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"437","FP7","21.8","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"438","FP7","21.85","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"439","FP7","21.9","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"440","FP7","21.95","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"441","FP7","22","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"442","FP7","22.05","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"443","FP7","22.1","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"444","FP7","22.15","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"445","FP7","22.2","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"446","FP7","22.25","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"447","FP7","22.3","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"448","FP7","22.35","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"449","FP7","22.4","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"450","FP7","22.45","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"451","FP7","22.5","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"452","FP7","22.55","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"453","FP7","22.6","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"454","FP7","22.65","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"455","FP7","22.7","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"456","FP7","22.75","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"457","FP7","22.8","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"458","FP7","22.85","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"459","FP7","22.9","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"460","FP7","22.95","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"461","FP7","23","Limo argilloso avana-verdastro con zone rossicce. Da m 21.35 a m 21.80 la colorazione diventa biancastra. (Bentonite)","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"462","FP7","23.05","Argilla debolmente marnosa scagliettata verdone e grigiastra. Da m 24.60 a m 25.60 piccole intercalazioni color biancastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"463","FP7","23.1","Argilla debolmente marnosa scagliettata verdone e grigiastra. Da m 24.60 a m 25.60 piccole intercalazioni color biancastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"464","FP7","23.15","Argilla debolmente marnosa scagliettata verdone e grigiastra. Da m 24.60 a m 25.60 piccole intercalazioni color biancastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"465","FP7","23.2","Argilla debolmente marnosa scagliettata verdone e grigiastra. Da m 24.60 a m 25.60 piccole intercalazioni color biancastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"466","FP7","23.25","Argilla debolmente marnosa scagliettata verdone e grigiastra. Da m 24.60 a m 25.60 piccole intercalazioni color biancastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"467","FP7","23.3","Argilla debolmente marnosa scagliettata verdone e grigiastra. Da m 24.60 a m 25.60 piccole intercalazioni color biancastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"468","FP7","23.35","Argilla debolmente marnosa scagliettata verdone e grigiastra. Da m 24.60 a m 25.60 piccole intercalazioni color biancastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"469","FP7","23.4","Argilla debolmente marnosa scagliettata verdone e grigiastra. Da m 24.60 a m 25.60 piccole intercalazioni color biancastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"470","FP7","23.45","Argilla debolmente marnosa scagliettata verdone e grigiastra. Da m 24.60 a m 25.60 piccole intercalazioni color biancastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"471","FP7","23.5","Argilla debolmente marnosa scagliettata verdone e grigiastra. Da m 24.60 a m 25.60 piccole intercalazioni color biancastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"472","FP7","23.55","Argilla debolmente marnosa scagliettata verdone e grigiastra. Da m 24.60 a m 25.60 piccole intercalazioni color biancastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"473","FP7","23.6","Argilla debolmente marnosa scagliettata verdone e grigiastra. Da m 24.60 a m 25.60 piccole intercalazioni color biancastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"474","FP7","23.65","Argilla debolmente marnosa scagliettata verdone e grigiastra. Da m 24.60 a m 25.60 piccole intercalazioni color biancastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"475","FP7","23.7","Argilla debolmente marnosa scagliettata verdone e grigiastra. Da m 24.60 a m 25.60 piccole intercalazioni color biancastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"476","FP7","23.75","Argilla debolmente marnosa scagliettata verdone e grigiastra. Da m 24.60 a m 25.60 piccole intercalazioni color biancastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"477","FP7","23.8","Argilla debolmente marnosa scagliettata verdone e grigiastra. Da m 24.60 a m 25.60 piccole intercalazioni color biancastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"478","FP7","23.85","Argilla debolmente marnosa scagliettata verdone e grigiastra. Da m 24.60 a m 25.60 piccole intercalazioni color biancastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"479","FP7","23.9","Argilla debolmente marnosa scagliettata verdone e grigiastra. Da m 24.60 a m 25.60 piccole intercalazioni color biancastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"480","FP7","23.95","Argilla debolmente marnosa scagliettata verdone e grigiastra. Da m 24.60 a m 25.60 piccole intercalazioni color biancastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"481","FP7","24","Argilla debolmente marnosa scagliettata verdone e grigiastra. Da m 24.60 a m 25.60 piccole intercalazioni color biancastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"482","FP7","24.05","Argilla debolmente marnosa scagliettata verdone e grigiastra. Da m 24.60 a m 25.60 piccole intercalazioni color biancastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"483","FP7","24.1","Argilla debolmente marnosa scagliettata verdone e grigiastra. Da m 24.60 a m 25.60 piccole intercalazioni color biancastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"484","FP7","24.15","Argilla debolmente marnosa scagliettata verdone e grigiastra. Da m 24.60 a m 25.60 piccole intercalazioni color biancastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"485","FP7","24.2","Argilla debolmente marnosa scagliettata verdone e grigiastra. Da m 24.60 a m 25.60 piccole intercalazioni color biancastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"486","FP7","24.25","Argilla debolmente marnosa scagliettata verdone e grigiastra. Da m 24.60 a m 25.60 piccole intercalazioni color biancastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"487","FP7","24.3","Argilla debolmente marnosa scagliettata verdone e grigiastra. Da m 24.60 a m 25.60 piccole intercalazioni color biancastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"488","FP7","24.35","Argilla debolmente marnosa scagliettata verdone e grigiastra. Da m 24.60 a m 25.60 piccole intercalazioni color biancastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"489","FP7","24.4","Argilla debolmente marnosa scagliettata verdone e grigiastra. Da m 24.60 a m 25.60 piccole intercalazioni color biancastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"490","FP7","24.45","Argilla debolmente marnosa scagliettata verdone e grigiastra. Da m 24.60 a m 25.60 piccole intercalazioni color biancastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"491","FP7","24.5","Argilla debolmente marnosa scagliettata verdone e grigiastra. Da m 24.60 a m 25.60 piccole intercalazioni color biancastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"492","FP7","24.55","Argilla debolmente marnosa scagliettata verdone e grigiastra. Da m 24.60 a m 25.60 piccole intercalazioni color biancastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"493","FP7","24.6","Argilla debolmente marnosa scagliettata verdone e grigiastra. Da m 24.60 a m 25.60 piccole intercalazioni color biancastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"494","FP7","24.65","Argilla debolmente marnosa scagliettata verdone e grigiastra. Da m 24.60 a m 25.60 piccole intercalazioni color biancastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"495","FP7","24.7","Argilla debolmente marnosa scagliettata verdone e grigiastra. Da m 24.60 a m 25.60 piccole intercalazioni color biancastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"496","FP7","24.75","Argilla debolmente marnosa scagliettata verdone e grigiastra. Da m 24.60 a m 25.60 piccole intercalazioni color biancastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"497","FP7","24.8","Argilla debolmente marnosa scagliettata verdone e grigiastra. Da m 24.60 a m 25.60 piccole intercalazioni color biancastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"498","FP7","24.85","Argilla debolmente marnosa scagliettata verdone e grigiastra. Da m 24.60 a m 25.60 piccole intercalazioni color biancastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"499","FP7","24.9","Argilla debolmente marnosa scagliettata verdone e grigiastra. Da m 24.60 a m 25.60 piccole intercalazioni color biancastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"500","FP7","24.95","Argilla debolmente marnosa scagliettata verdone e grigiastra. Da m 24.60 a m 25.60 piccole intercalazioni color biancastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"501","FP7","25","Argilla debolmente marnosa scagliettata verdone e grigiastra. Da m 24.60 a m 25.60 piccole intercalazioni color biancastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"502","FP7","25.05","Argilla debolmente marnosa scagliettata verdone e grigiastra. Da m 24.60 a m 25.60 piccole intercalazioni color biancastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"503","FP7","25.1","Argilla debolmente marnosa scagliettata verdone e grigiastra. Da m 24.60 a m 25.60 piccole intercalazioni color biancastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"504","FP7","25.15","Argilla debolmente marnosa scagliettata verdone e grigiastra. Da m 24.60 a m 25.60 piccole intercalazioni color biancastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"505","FP7","25.2","Argilla debolmente marnosa scagliettata verdone e grigiastra. Da m 24.60 a m 25.60 piccole intercalazioni color biancastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"506","FP7","25.25","Argilla debolmente marnosa scagliettata verdone e grigiastra. Da m 24.60 a m 25.60 piccole intercalazioni color biancastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"507","FP7","25.3","Argilla debolmente marnosa scagliettata verdone e grigiastra. Da m 24.60 a m 25.60 piccole intercalazioni color biancastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"508","FP7","25.35","Argilla debolmente marnosa scagliettata verdone e grigiastra. Da m 24.60 a m 25.60 piccole intercalazioni color biancastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"509","FP7","25.4","Argilla debolmente marnosa scagliettata verdone e grigiastra. Da m 24.60 a m 25.60 piccole intercalazioni color biancastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"510","FP7","25.45","Argilla debolmente marnosa scagliettata verdone e grigiastra. Da m 24.60 a m 25.60 piccole intercalazioni color biancastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"511","FP7","25.5","Argilla debolmente marnosa scagliettata verdone e grigiastra. Da m 24.60 a m 25.60 piccole intercalazioni color biancastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"512","FP7","25.55","Argilla debolmente marnosa scagliettata verdone e grigiastra. Da m 24.60 a m 25.60 piccole intercalazioni color biancastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"513","FP7","25.6","Argilla debolmente marnosa scagliettata verdone e grigiastra. Da m 24.60 a m 25.60 piccole intercalazioni color biancastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"514","FP7","25.65","Calcare grigiastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"515","FP7","25.7","Calcare grigiastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"516","FP7","25.75","Calcare grigiastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"517","FP7","25.8","Calcare grigiastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"518","FP7","25.85","Calcare grigiastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"519","FP7","25.9","Calcare grigiastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"520","FP7","25.95","Calcare grigiastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"521","FP7","26","Calcare grigiastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"522","FP7","26.05","Calcare grigiastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"523","FP7","26.1","Calcare grigiastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"524","FP7","26.15","Calcare grigiastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"525","FP7","26.2","Calcare grigiastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"526","FP7","26.25","Calcare grigiastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"527","FP7","26.3","Calcare grigiastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"528","FP7","26.35","Calcare grigiastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"529","FP7","26.4","Calcare grigiastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"530","FP7","26.45","Calcare grigiastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"531","FP7","26.5","Calcare grigiastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"532","FP7","26.55","Calcare grigiastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"533","FP7","26.6","Calcare grigiastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"534","FP7","26.65","Calcare grigiastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"535","FP7","26.7","Calcare grigiastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"536","FP7","26.75","Calcare grigiastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"537","FP7","26.8","Calcare grigiastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"538","FP7","26.85","Calcare grigiastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"539","FP7","26.9","Calcare grigiastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"540","FP7","26.95","Calcare grigiastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"541","FP7","27","Calcare grigiastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"542","FP7","27.05","Argilla grigiastra.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"543","FP7","27.1","Argilla grigiastra.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"544","FP7","27.15","Argilla grigiastra.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"545","FP7","27.2","Argilla grigiastra.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"546","FP7","27.25","Argilla grigiastra.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"547","FP7","27.3","Argilla grigiastra.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"548","FP7","27.35","Argilla grigiastra.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"549","FP7","27.4","Argilla grigiastra.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"550","FP7","27.45","Argilla grigiastra.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"551","FP7","27.5","Argilla grigiastra.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"552","FP7","27.55","Argilla grigiastra.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"553","FP7","27.6","Argilla grigiastra.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"554","FP7","27.65","Argilla grigiastra.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"555","FP7","27.7","Calcare grigiastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"556","FP7","27.75","Calcare grigiastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"557","FP7","27.8","Calcare grigiastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"558","FP7","27.85","Calcare grigiastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"559","FP7","27.9","Calcare grigiastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"560","FP7","27.95","Calcare grigiastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"561","FP7","28","Calcare grigiastro.","3","1","Geoconsul","25",528460.8491,4566301.763,567
+"562","FP7","28","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"563","FP7","28.05","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"564","FP7","28.1","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"565","FP7","28.15","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"566","FP7","28.2","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"567","FP7","28.25","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"568","FP7","28.3","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"569","FP7","28.35","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"570","FP7","28.4","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"571","FP7","28.45","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"572","FP7","28.5","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"573","FP7","28.55","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"574","FP7","28.6","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"575","FP7","28.65","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"576","FP7","28.7","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"577","FP7","28.75","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"578","FP7","28.8","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"579","FP7","28.85","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"580","FP7","28.9","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"581","FP7","28.95","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"582","FP7","29","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"583","FP7","29.05","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"584","FP7","29.1","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"585","FP7","29.15","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"586","FP7","29.2","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"587","FP7","29.25","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"588","FP7","29.3","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"589","FP7","29.35","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"590","FP7","29.4","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"591","FP7","29.45","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"592","FP7","29.5","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"593","FP7","29.55","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"594","FP7","29.6","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"595","FP7","29.65","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"596","FP7","29.7","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"597","FP7","29.75","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"598","FP7","29.8","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"599","FP7","29.85","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"600","FP7","29.9","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"601","FP7","29.95","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"602","FP7","30","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"603","FP7","30.05","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"604","FP7","30.1","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"605","FP7","30.15","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"606","FP7","30.2","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"607","FP7","30.25","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"608","FP7","30.3","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"609","FP7","30.35","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"610","FP7","30.4","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"611","FP7","30.45","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"612","FP7","30.5","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"613","FP7","30.55","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"614","FP7","30.6","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"615","FP7","30.65","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"616","FP7","30.7","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"617","FP7","30.75","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"618","FP7","30.8","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"619","FP7","30.85","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"620","FP7","30.9","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"621","FP7","30.95","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"622","FP7","31","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"623","FP7","31.05","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"624","FP7","31.1","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"625","FP7","31.15","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"626","FP7","31.2","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"627","FP7","31.25","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"628","FP7","31.3","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"629","FP7","31.35","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"630","FP7","31.4","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"631","FP7","31.45","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"632","FP7","31.5","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"633","FP7","31.55","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"634","FP7","31.6","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"635","FP7","31.65","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"636","FP7","31.7","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"637","FP7","31.75","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"638","FP7","31.8","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"639","FP7","31.85","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"640","FP7","31.9","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"641","FP7","31.95","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"642","FP7","32","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"643","FP7","32.05","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"644","FP7","32.1","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"645","FP7","32.15","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"646","FP7","32.2","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"647","FP7","32.25","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"648","FP7","32.3","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"649","FP7","32.35","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"650","FP7","32.4","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"651","FP7","32.45","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"652","FP7","32.5","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"653","FP7","32.55","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"654","FP7","32.6","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"655","FP7","32.65","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"656","FP7","32.7","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"657","FP7","32.75","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"658","FP7","32.8","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"659","FP7","32.85","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"660","FP7","32.9","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"661","FP7","32.95","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"662","FP7","33","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"663","FP7","33.05","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"664","FP7","33.1","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"665","FP7","33.15","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"666","FP7","33.2","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"667","FP7","33.25","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"668","FP7","33.3","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"669","FP7","33.35","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"670","FP7","33.4","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"671","FP7","33.45","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"672","FP7","33.5","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"673","FP7","33.55","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"674","FP7","33.6","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"675","FP7","33.65","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"676","FP7","33.7","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"677","FP7","33.75","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"678","FP7","33.8","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"679","FP7","33.85","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"680","FP7","33.9","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"681","FP7","33.95","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"682","FP7","34","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"683","FP7","34.05","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"684","FP7","34.1","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"685","FP7","34.15","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"686","FP7","34.2","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"687","FP7","34.25","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"688","FP7","34.3","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"689","FP7","34.35","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"690","FP7","34.4","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"691","FP7","34.45","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"692","FP7","34.5","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"693","FP7","34.55","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"694","FP7","34.6","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"695","FP7","34.65","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"696","FP7","34.7","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"697","FP7","34.75","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"698","FP7","34.8","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"699","FP7","34.85","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"700","FP7","34.9","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"701","FP7","34.95","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"702","FP7","35","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"703","FP7","35.05","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"704","FP7","35.1","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"705","FP7","35.15","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"706","FP7","35.2","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"707","FP7","35.25","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"708","FP7","35.3","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"709","FP7","35.35","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"710","FP7","35.4","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"711","FP7","35.45","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"712","FP7","35.5","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"713","FP7","35.55","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"714","FP7","35.6","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"715","FP7","35.65","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"716","FP7","35.7","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"717","FP7","35.75","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"718","FP7","35.8","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"719","FP7","35.85","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"720","FP7","35.9","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"721","FP7","35.95","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"722","FP7","36","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"723","FP7","36.05","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"724","FP7","36.1","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"725","FP7","36.15","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"726","FP7","36.2","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"727","FP7","36.25","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"728","FP7","36.3","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"729","FP7","36.35","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"730","FP7","36.4","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"731","FP7","36.45","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"732","FP7","36.5","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"733","FP7","36.55","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"734","FP7","36.6","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"735","FP7","36.65","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"736","FP7","36.7","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"737","FP7","36.75","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"738","FP7","36.8","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"739","FP7","36.85","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"740","FP7","36.9","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"741","FP7","36.95","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"742","FP7","37","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"743","FP7","37.05","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"744","FP7","37.1","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"745","FP7","37.15","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"746","FP7","37.2","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"747","FP7","37.25","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"748","FP7","37.3","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"749","FP7","37.35","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"750","FP7","37.4","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"751","FP7","37.45","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"752","FP7","37.5","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"753","FP7","37.55","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"754","FP7","37.6","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"755","FP7","37.65","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"756","FP7","37.7","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"757","FP7","37.75","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"758","FP7","37.8","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"759","FP7","37.85","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"760","FP7","37.9","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"761","FP7","37.95","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"762","FP7","38","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"763","FP7","38.05","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"764","FP7","38.1","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"765","FP7","38.15","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"766","FP7","38.2","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"767","FP7","38.25","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"768","FP7","38.3","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"769","FP7","38.35","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"770","FP7","38.4","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"771","FP7","38.45","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"772","FP7","38.5","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"773","FP7","38.55","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"774","FP7","38.6","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"775","FP7","38.65","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"776","FP7","38.7","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"777","FP7","38.75","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"778","FP7","38.8","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"779","FP7","38.85","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"780","FP7","38.9","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"781","FP7","38.95","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"782","FP7","39","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"783","FP7","39.05","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"784","FP7","39.1","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"785","FP7","39.15","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"786","FP7","39.2","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"787","FP7","39.25","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"788","FP7","39.3","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"789","FP7","39.35","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"790","FP7","39.4","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"791","FP7","39.45","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"792","FP7","39.5","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"793","FP7","39.55","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"794","FP7","39.6","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"795","FP7","39.65","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"796","FP7","39.7","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"797","FP7","39.75","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"798","FP7","39.8","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"799","FP7","39.85","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"800","FP7","39.9","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"801","FP7","39.95","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"802","FP7","40","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"803","FP7","40.05","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"804","FP7","40.1","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"805","FP7","40.15","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"806","FP7","40.2","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"807","FP7","40.25","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"808","FP7","40.3","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"809","FP7","40.35","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"810","FP7","40.4","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"811","FP7","40.45","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"812","FP7","40.5","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"813","FP7","40.55","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"814","FP7","40.6","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"815","FP7","40.65","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"816","FP7","40.7","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"817","FP7","40.75","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"818","FP7","40.8","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"819","FP7","40.85","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"820","FP7","40.9","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"821","FP7","40.95","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"822","FP7","41","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"823","FP7","41.05","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"824","FP7","41.1","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"825","FP7","41.15","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"826","FP7","41.2","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"827","FP7","41.25","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"828","FP7","41.3","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"829","FP7","41.35","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"830","FP7","41.4","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"831","FP7","41.45","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"832","FP7","41.5","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"833","FP7","41.55","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"834","FP7","41.6","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"835","FP7","41.65","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"836","FP7","41.7","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"837","FP7","41.75","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"838","FP7","41.8","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"839","FP7","41.85","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"840","FP7","41.9","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"841","FP7","41.95","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"842","FP7","42","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"843","FP7","42.05","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"844","FP7","42.1","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"845","FP7","42.15","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"846","FP7","42.2","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"847","FP7","42.25","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"848","FP7","42.3","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"849","FP7","42.35","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"850","FP7","42.4","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"851","FP7","42.45","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"852","FP7","42.5","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"853","FP7","42.55","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"854","FP7","42.6","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"855","FP7","42.65","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"856","FP7","42.7","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"857","FP7","42.75","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"858","FP7","42.8","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"859","FP7","42.85","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"860","FP7","42.9","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"861","FP7","42.95","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"862","FP7","43","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"863","FP7","43.05","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"864","FP7","43.1","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"865","FP7","43.15","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"866","FP7","43.2","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"867","FP7","43.25","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"868","FP7","43.3","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"869","FP7","43.35","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"870","FP7","43.4","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"871","FP7","43.45","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"872","FP7","43.5","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"873","FP7","43.55","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"874","FP7","43.6","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"875","FP7","43.65","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"876","FP7","43.7","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"877","FP7","43.75","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"878","FP7","43.8","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"879","FP7","43.85","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"880","FP7","43.9","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"881","FP7","43.95","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"882","FP7","44","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"883","FP7","44.05","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"884","FP7","44.1","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"885","FP7","44.15","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"886","FP7","44.2","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"887","FP7","44.25","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"888","FP7","44.3","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"889","FP7","44.35","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"890","FP7","44.4","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"891","FP7","44.45","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"892","FP7","44.5","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"893","FP7","44.55","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"894","FP7","44.6","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"895","FP7","44.65","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"896","FP7","44.7","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"897","FP7","44.75","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"898","FP7","44.8","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"899","FP7","44.85","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"900","FP7","44.9","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"901","FP7","44.95","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"902","FP7","45","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"903","FP7","45.05","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"904","FP7","45.1","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"905","FP7","45.15","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"906","FP7","45.2","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"907","FP7","45.25","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"908","FP7","45.3","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"909","FP7","45.35","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"910","FP7","45.4","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"911","FP7","45.45","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"912","FP7","45.5","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"913","FP7","45.55","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"914","FP7","45.6","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"915","FP7","45.65","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"916","FP7","45.7","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"917","FP7","45.75","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"918","FP7","45.8","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"919","FP7","45.85","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"920","FP7","45.9","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"921","FP7","45.95","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"922","FP7","46","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"923","FP7","46.05","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"924","FP7","46.1","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"925","FP7","46.15","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"926","FP7","46.2","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"927","FP7","46.25","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"928","FP7","46.3","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"929","FP7","46.35","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"930","FP7","46.4","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"931","FP7","46.45","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"932","FP7","46.5","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"933","FP7","46.55","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"934","FP7","46.6","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"935","FP7","46.65","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"936","FP7","46.7","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"937","FP7","46.75","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"938","FP7","46.8","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"939","FP7","46.85","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"940","FP7","46.9","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"941","FP7","46.95","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"942","FP7","47","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"943","FP7","47.05","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"944","FP7","47.1","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"945","FP7","47.15","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"946","FP7","47.2","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"947","FP7","47.25","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"948","FP7","47.3","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"949","FP7","47.35","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"950","FP7","47.4","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"951","FP7","47.45","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"952","FP7","47.5","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"953","FP7","47.55","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"954","FP7","47.6","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"955","FP7","47.65","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"956","FP7","47.7","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"957","FP7","47.75","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"958","FP7","47.8","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"959","FP7","47.85","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"960","FP7","47.9","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"961","FP7","47.95","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"962","FP7","48","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"963","FP7","48.05","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"964","FP7","48.1","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"965","FP7","48.15","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"966","FP7","48.2","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"967","FP7","48.25","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"968","FP7","48.3","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"969","FP7","48.35","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"970","FP7","48.4","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"971","FP7","48.45","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"972","FP7","48.5","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"973","FP7","48.55","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"974","FP7","48.6","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"975","FP7","48.65","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"976","FP7","48.7","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"977","FP7","48.75","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"978","FP7","48.8","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"979","FP7","48.85","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"980","FP7","48.9","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"981","FP7","48.95","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"982","FP7","49","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"983","FP7","49.05","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"984","FP7","49.1","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"985","FP7","49.15","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"986","FP7","49.2","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"987","FP7","49.25","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"988","FP7","49.3","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"989","FP7","49.35","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"990","FP7","49.4","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"991","FP7","49.45","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"992","FP7","49.5","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"993","FP7","49.55","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"994","FP7","49.6","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"995","FP7","49.65","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"996","FP7","49.7","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"997","FP7","49.75","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"998","FP7","49.8","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"999","FP7","49.85","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1000","FP7","49.9","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1001","FP7","49.95","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1002","FP7","50","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1003","FP7","50.05","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1004","FP7","50.1","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1005","FP7","50.15","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1006","FP7","50.2","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1007","FP7","50.25","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1008","FP7","50.3","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1009","FP7","50.35","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1010","FP7","50.4","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1011","FP7","50.45","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1012","FP7","50.5","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1013","FP7","50.55","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1014","FP7","50.6","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1015","FP7","50.65","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1016","FP7","50.7","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1017","FP7","50.75","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1018","FP7","50.8","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1019","FP7","50.85","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1020","FP7","50.9","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1021","FP7","50.95","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1022","FP7","51","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1023","FP7","51.05","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1024","FP7","51.1","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1025","FP7","51.15","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1026","FP7","51.2","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1027","FP7","51.25","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1028","FP7","51.3","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1029","FP7","51.35","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1030","FP7","51.4","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1031","FP7","51.45","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1032","FP7","51.5","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1033","FP7","51.55","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1034","FP7","51.6","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1035","FP7","51.65","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1036","FP7","51.7","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1037","FP7","51.75","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1038","FP7","51.8","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1039","FP7","51.85","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1040","FP7","51.9","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1041","FP7","51.95","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1042","FP7","52","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1043","FP7","52.05","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1044","FP7","52.1","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1045","FP7","52.15","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1046","FP7","52.2","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1047","FP7","52.25","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1048","FP7","52.3","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1049","FP7","52.35","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1050","FP7","52.4","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1051","FP7","52.45","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1052","FP7","52.5","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1053","FP7","52.55","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1054","FP7","52.6","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1055","FP7","52.65","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1056","FP7","52.7","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1057","FP7","52.75","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1058","FP7","52.8","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1059","FP7","52.85","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1060","FP7","52.9","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1061","FP7","52.95","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1062","FP7","53","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1063","FP7","53.05","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1064","FP7","53.1","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1065","FP7","53.15","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1066","FP7","53.2","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1067","FP7","53.25","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1068","FP7","53.3","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1069","FP7","53.35","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1070","FP7","53.4","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1071","FP7","53.45","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1072","FP7","53.5","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1073","FP7","53.55","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1074","FP7","53.6","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1075","FP7","53.65","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1076","FP7","53.7","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1077","FP7","53.75","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1078","FP7","53.8","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1079","FP7","53.85","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1080","FP7","53.9","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1081","FP7","53.95","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1082","FP7","54","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1083","FP7","54.05","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1084","FP7","54.1","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1085","FP7","54.15","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1086","FP7","54.2","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1087","FP7","54.25","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1088","FP7","54.3","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1089","FP7","54.35","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1090","FP7","54.4","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1091","FP7","54.45","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1092","FP7","54.5","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1093","FP7","54.55","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1094","FP7","54.6","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1095","FP7","54.65","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1096","FP7","54.7","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1097","FP7","54.75","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1098","FP7","54.8","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1099","FP7","54.85","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1100","FP7","54.9","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1101","FP7","54.95","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1102","FP7","55","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1103","FP7","55.05","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1104","FP7","55.1","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1105","FP7","55.15","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1106","FP7","55.2","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1107","FP7","55.25","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1108","FP7","55.3","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1109","FP7","55.35","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1110","FP7","55.4","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1111","FP7","55.45","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1112","FP7","55.5","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1113","FP7","55.55","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1114","FP7","55.6","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1115","FP7","55.65","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1116","FP7","55.7","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1117","FP7","55.75","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1118","FP7","55.8","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1119","FP7","55.85","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1120","FP7","55.9","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1121","FP7","55.95","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1122","FP7","56","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1123","FP7","56.05","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1124","FP7","56.1","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1125","FP7","56.15","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1126","FP7","56.2","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1127","FP7","56.25","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1128","FP7","56.3","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1129","FP7","56.35","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1130","FP7","56.4","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1131","FP7","56.45","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1132","FP7","56.5","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1133","FP7","56.55","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1134","FP7","56.6","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1135","FP7","56.65","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1136","FP7","56.7","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1137","FP7","56.75","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1138","FP7","56.8","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1139","FP7","56.85","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1140","FP7","56.9","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1141","FP7","56.95","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1142","FP7","57","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1143","FP7","57.05","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1144","FP7","57.1","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1145","FP7","57.15","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1146","FP7","57.2","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1147","FP7","57.25","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1148","FP7","57.3","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1149","FP7","57.35","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1150","FP7","57.4","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1151","FP7","57.45","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1152","FP7","57.5","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1153","FP7","57.55","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1154","FP7","57.6","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1155","FP7","57.65","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1156","FP7","57.7","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1157","FP7","57.75","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1158","FP7","57.8","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1159","FP7","57.85","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1160","FP7","57.9","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1161","FP7","57.95","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1162","FP7","58","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1163","FP7","58.05","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1164","FP7","58.1","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1165","FP7","58.15","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1166","FP7","58.2","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1167","FP7","58.25","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1168","FP7","58.3","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1169","FP7","58.35","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1170","FP7","58.4","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1171","FP7","58.45","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1172","FP7","58.5","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1173","FP7","58.55","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1174","FP7","58.6","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1175","FP7","58.65","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1176","FP7","58.7","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1177","FP7","58.75","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1178","FP7","58.8","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1179","FP7","58.85","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1180","FP7","58.9","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1181","FP7","58.95","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1182","FP7","59","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1183","FP7","59.05","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1184","FP7","59.1","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1185","FP7","59.15","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1186","FP7","59.2","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1187","FP7","59.25","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1188","FP7","59.3","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1189","FP7","59.35","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1190","FP7","59.4","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1191","FP7","59.45","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1192","FP7","59.5","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1193","FP7","59.55","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1194","FP7","59.6","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1195","FP7","59.65","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1196","FP7","59.7","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1197","FP7","59.75","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1198","FP7","59.8","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1199","FP7","59.85","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1200","FP7","59.9","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1201","FP7","59.95","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1202","FP7","60","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1203","FP7","60.05","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1204","FP7","60.1","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1205","FP7","60.15","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1206","FP7","60.2","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1207","FP7","60.25","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1208","FP7","60.3","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1209","FP7","60.35","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1210","FP7","60.4","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1211","FP7","60.45","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1212","FP7","60.5","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1213","FP7","60.55","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1214","FP7","60.6","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1215","FP7","60.65","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1216","FP7","60.7","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1217","FP7","60.75","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1218","FP7","60.8","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1219","FP7","60.85","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1220","FP7","60.9","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1221","FP7","60.95","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1222","FP7","61","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1223","FP7","61.05","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1224","FP7","61.1","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1225","FP7","61.15","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1226","FP7","61.2","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1227","FP7","61.25","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1228","FP7","61.3","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1229","FP7","61.35","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1230","FP7","61.4","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1231","FP7","61.45","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1232","FP7","61.5","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1233","FP7","61.55","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1234","FP7","61.6","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1235","FP7","61.65","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1236","FP7","61.7","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1237","FP7","61.75","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1238","FP7","61.8","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1239","FP7","61.85","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1240","FP7","61.9","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1241","FP7","61.95","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1242","FP7","62","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1243","FP7","62.05","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1244","FP7","62.1","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1245","FP7","62.15","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1246","FP7","62.2","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1247","FP7","62.25","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1248","FP7","62.3","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1249","FP7","62.35","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1250","FP7","62.4","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1251","FP7","62.45","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1252","FP7","62.5","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1253","FP7","62.55","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1254","FP7","62.6","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1255","FP7","62.65","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1256","FP7","62.7","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1257","FP7","62.75","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1258","FP7","62.8","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1259","FP7","62.85","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1260","FP7","62.9","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1261","FP7","62.95","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1262","FP7","63","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1263","FP7","63.05","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1264","FP7","63.1","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1265","FP7","63.15","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1266","FP7","63.2","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1267","FP7","63.25","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1268","FP7","63.3","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1269","FP7","63.35","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1270","FP7","63.4","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1271","FP7","63.45","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1272","FP7","63.5","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1273","FP7","63.55","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1274","FP7","63.6","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1275","FP7","63.65","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1276","FP7","63.7","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1277","FP7","63.75","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1278","FP7","63.8","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1279","FP7","63.85","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1280","FP7","63.9","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1281","FP7","63.95","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1282","FP7","64","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1283","FP7","64.05","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1284","FP7","64.1","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1285","FP7","64.15","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1286","FP7","64.2","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1287","FP7","64.25","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1288","FP7","64.3","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1289","FP7","64.35","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1290","FP7","64.4","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1291","FP7","64.45","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1292","FP7","64.5","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1293","FP7","64.55","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1294","FP7","64.6","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1295","FP7","64.65","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1296","FP7","64.7","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1297","FP7","64.75","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1298","FP7","64.8","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1299","FP7","64.85","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1300","FP7","64.9","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1301","FP7","64.95","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1302","FP7","65","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1303","FP7","65.05","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1304","FP7","65.1","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1305","FP7","65.15","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1306","FP7","65.2","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1307","FP7","65.25","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1308","FP7","65.3","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1309","FP7","65.35","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1310","FP7","65.4","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1311","FP7","65.45","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1312","FP7","65.5","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1313","FP7","65.55","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1314","FP7","65.6","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1315","FP7","65.65","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1316","FP7","65.7","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1317","FP7","65.75","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1318","FP7","65.8","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1319","FP7","65.85","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1320","FP7","65.9","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1321","FP7","65.95","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1322","FP7","66","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1323","FP7","66.05","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1324","FP7","66.1","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1325","FP7","66.15","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1326","FP7","66.2","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1327","FP7","66.25","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1328","FP7","66.3","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1329","FP7","66.35","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1330","FP7","66.4","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1331","FP7","66.45","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1332","FP7","66.5","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1333","FP7","66.55","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1334","FP7","66.6","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1335","FP7","66.65","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1336","FP7","66.7","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1337","FP7","66.75","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1338","FP7","66.8","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1339","FP7","66.85","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1340","FP7","66.9","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1341","FP7","66.95","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1342","FP7","67","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1343","FP7","67.05","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1344","FP7","67.1","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1345","FP7","67.15","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1346","FP7","67.2","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1347","FP7","67.25","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1348","FP7","67.3","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1349","FP7","67.35","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1350","FP7","67.4","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1351","FP7","67.45","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1352","FP7","67.5","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1353","FP7","67.55","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1354","FP7","67.6","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1355","FP7","67.65","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1356","FP7","67.7","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1357","FP7","67.75","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1358","FP7","67.8","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1359","FP7","67.85","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1360","FP7","67.9","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1361","FP7","67.95","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1362","FP7","68","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1363","FP7","68.05","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1364","FP7","68.1","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1365","FP7","68.15","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1366","FP7","68.2","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1367","FP7","68.25","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1368","FP7","68.3","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1369","FP7","68.35","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1370","FP7","68.4","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1371","FP7","68.45","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1372","FP7","68.5","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1373","FP7","68.55","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1374","FP7","68.6","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1375","FP7","68.65","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1376","FP7","68.7","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1377","FP7","68.75","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1378","FP7","68.8","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1379","FP7","68.85","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1380","FP7","68.9","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1381","FP7","68.95","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1382","FP7","69","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1383","FP7","69.05","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1384","FP7","69.1","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1385","FP7","69.15","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1386","FP7","69.2","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1387","FP7","69.25","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1388","FP7","69.3","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1389","FP7","69.35","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1390","FP7","69.4","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1391","FP7","69.45","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1392","FP7","69.5","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1393","FP7","69.55","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1394","FP7","69.6","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1395","FP7","69.65","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1396","FP7","69.7","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1397","FP7","69.75","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1398","FP7","69.8","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1399","FP7","69.85","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1400","FP7","69.9","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1401","FP7","69.95","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1402","FP7","70","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1403","FP7","70.05","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1404","FP7","70.1","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1405","FP7","70.15","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1406","FP7","70.2","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1407","FP7","70.25","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1408","FP7","70.3","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1409","FP7","70.35","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1410","FP7","70.4","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1411","FP7","70.45","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1412","FP7","70.5","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1413","FP7","70.55","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1414","FP7","70.6","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1415","FP7","70.65","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1416","FP7","70.7","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1417","FP7","70.75","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1418","FP7","70.8","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1419","FP7","70.85","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1420","FP7","70.9","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1421","FP7","70.95","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1422","FP7","71","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1423","FP7","71.05","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1424","FP7","71.1","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1425","FP7","71.15","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1426","FP7","71.2","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1427","FP7","71.25","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1428","FP7","71.3","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1429","FP7","71.35","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1430","FP7","71.4","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1431","FP7","71.45","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1432","FP7","71.5","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1433","FP7","71.55","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1434","FP7","71.6","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1435","FP7","71.65","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1436","FP7","71.7","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1437","FP7","71.75","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1438","FP7","71.8","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1439","FP7","71.85","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1440","FP7","71.9","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1441","FP7","71.95","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1442","FP7","72","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1443","FP7","72.05","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1444","FP7","72.1","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1445","FP7","72.15","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1446","FP7","72.2","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1447","FP7","72.25","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1448","FP7","72.3","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1449","FP7","72.35","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1450","FP7","72.4","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1451","FP7","72.45","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1452","FP7","72.5","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1453","FP7","72.55","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1454","FP7","72.6","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1455","FP7","72.65","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1456","FP7","72.7","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1457","FP7","72.75","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1458","FP7","72.8","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1459","FP7","72.85","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1460","FP7","72.9","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1461","FP7","72.95","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1462","FP7","73","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1463","FP7","73.05","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1464","FP7","73.1","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1465","FP7","73.15","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1466","FP7","73.2","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1467","FP7","73.25","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1468","FP7","73.3","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1469","FP7","73.35","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1470","FP7","73.4","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1471","FP7","73.45","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1472","FP7","73.5","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1473","FP7","73.55","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1474","FP7","73.6","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1475","FP7","73.65","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1476","FP7","73.7","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1477","FP7","73.75","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1478","FP7","73.8","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1479","FP7","73.85","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1480","FP7","73.9","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1481","FP7","73.95","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1482","FP7","74","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1483","FP7","74.05","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1484","FP7","74.1","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1485","FP7","74.15","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1486","FP7","74.2","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1487","FP7","74.25","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1488","FP7","74.3","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1489","FP7","74.35","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1490","FP7","74.4","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1491","FP7","74.45","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1492","FP7","74.5","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1493","FP7","74.55","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1494","FP7","74.6","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1495","FP7","74.65","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1496","FP7","74.7","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1497","FP7","74.75","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1498","FP7","74.8","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1499","FP7","74.85","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1500","FP7","74.9","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1501","FP7","74.95","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1502","FP7","75","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1503","FP7","75.05","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1504","FP7","75.1","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1505","FP7","75.15","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1506","FP7","75.2","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1507","FP7","75.25","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1508","FP7","75.3","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1509","FP7","75.35","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1510","FP7","75.4","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1511","FP7","75.45","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1512","FP7","75.5","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1513","FP7","75.55","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1514","FP7","75.6","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1515","FP7","75.65","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1516","FP7","75.7","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1517","FP7","75.75","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1518","FP7","75.8","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1519","FP7","75.85","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1520","FP7","75.9","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1521","FP7","75.95","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1522","FP7","76","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1523","FP7","76.05","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1524","FP7","76.1","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1525","FP7","76.15","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1526","FP7","76.2","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1527","FP7","76.25","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1528","FP7","76.3","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1529","FP7","76.35","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1530","FP7","76.4","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1531","FP7","76.45","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1532","FP7","76.5","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1533","FP7","76.55","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1534","FP7","76.6","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1535","FP7","76.65","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567
+"1536","FP7","76.7","Calcare grigiastro.","3","0","Geoconsul","25",528460.8491,4566301.763,567

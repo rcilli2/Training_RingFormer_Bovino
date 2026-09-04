@@ -1,0 +1,1537 @@
+"","borehole","Depth","Description","Unit","Valid","campaign","DEPTH","x","y","z"
+"1","P1","0","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"2","P1","0.05","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"3","P1","0.1","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"4","P1","0.15","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"5","P1","0.2","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"6","P1","0.25","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"7","P1","0.3","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"8","P1","0.35","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"9","P1","0.4","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"10","P1","0.45","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"11","P1","0.5","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"12","P1","0.55","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"13","P1","0.6","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"14","P1","0.65","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"15","P1","0.7","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"16","P1","0.75","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"17","P1","0.8","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"18","P1","0.85","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"19","P1","0.9","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"20","P1","0.95","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"21","P1","1","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"22","P1","1.05","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"23","P1","1.1","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"24","P1","1.15","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"25","P1","1.2","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"26","P1","1.25","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"27","P1","1.3","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"28","P1","1.35","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"29","P1","1.4","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"30","P1","1.45","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"31","P1","1.5","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"32","P1","1.55","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"33","P1","1.6","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"34","P1","1.65","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"35","P1","1.7","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"36","P1","1.75","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"37","P1","1.8","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"38","P1","1.85","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"39","P1","1.9","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"40","P1","1.95","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"41","P1","2","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"42","P1","2.05","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"43","P1","2.1","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"44","P1","2.15","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"45","P1","2.2","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"46","P1","2.25","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"47","P1","2.3","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"48","P1","2.35","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"49","P1","2.4","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"50","P1","2.45","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"51","P1","2.5","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"52","P1","2.55","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"53","P1","2.6","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"54","P1","2.65","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"55","P1","2.7","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"56","P1","2.75","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"57","P1","2.8","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"58","P1","2.85","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"59","P1","2.9","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"60","P1","2.95","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"61","P1","3","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"62","P1","3.05","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"63","P1","3.1","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"64","P1","3.15","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"65","P1","3.2","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"66","P1","3.25","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"67","P1","3.3","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"68","P1","3.35","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"69","P1","3.4","Ciottoli.","T","1","Troncone","30.000",528589.005,4566370.888,576
+"70","P1","3.45","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"71","P1","3.5","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"72","P1","3.55","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"73","P1","3.6","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"74","P1","3.65","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"75","P1","3.7","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"76","P1","3.75","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"77","P1","3.8","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"78","P1","3.85","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"79","P1","3.9","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"80","P1","3.95","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"81","P1","4","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"82","P1","4.05","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"83","P1","4.1","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"84","P1","4.15","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"85","P1","4.2","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"86","P1","4.25","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"87","P1","4.3","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"88","P1","4.35","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"89","P1","4.4","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"90","P1","4.45","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"91","P1","4.5","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"92","P1","4.55","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"93","P1","4.6","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"94","P1","4.65","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"95","P1","4.7","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"96","P1","4.75","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"97","P1","4.8","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"98","P1","4.85","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"99","P1","4.9","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"100","P1","4.95","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"101","P1","5","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"102","P1","5.05","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"103","P1","5.1","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"104","P1","5.15","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"105","P1","5.2","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"106","P1","5.25","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"107","P1","5.3","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"108","P1","5.35","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"109","P1","5.4","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"110","P1","5.45","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"111","P1","5.5","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"112","P1","5.55","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"113","P1","5.6","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"114","P1","5.65","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"115","P1","5.7","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"116","P1","5.75","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"117","P1","5.8","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"118","P1","5.85","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"119","P1","5.9","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"120","P1","5.95","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"121","P1","6","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"122","P1","6.05","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"123","P1","6.1","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"124","P1","6.15","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"125","P1","6.2","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"126","P1","6.25","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"127","P1","6.3","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"128","P1","6.35","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"129","P1","6.4","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"130","P1","6.45","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"131","P1","6.5","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"132","P1","6.55","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"133","P1","6.6","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"134","P1","6.65","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"135","P1","6.7","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"136","P1","6.75","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"137","P1","6.8","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"138","P1","6.85","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"139","P1","6.9","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"140","P1","6.95","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"141","P1","7","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"142","P1","7.05","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"143","P1","7.1","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"144","P1","7.15","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"145","P1","7.2","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"146","P1","7.25","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"147","P1","7.3","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"148","P1","7.35","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"149","P1","7.4","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"150","P1","7.45","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"151","P1","7.5","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"152","P1","7.55","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"153","P1","7.6","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"154","P1","7.65","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"155","P1","7.7","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"156","P1","7.75","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"157","P1","7.8","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"158","P1","7.85","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"159","P1","7.9","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"160","P1","7.95","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"161","P1","8","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"162","P1","8.05","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"163","P1","8.1","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"164","P1","8.15","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"165","P1","8.2","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"166","P1","8.25","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"167","P1","8.3","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"168","P1","8.35","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"169","P1","8.4","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"170","P1","8.45","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"171","P1","8.5","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"172","P1","8.55","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"173","P1","8.6","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"174","P1","8.65","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"175","P1","8.7","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"176","P1","8.75","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"177","P1","8.8","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"178","P1","8.85","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"179","P1","8.9","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"180","P1","8.95","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"181","P1","9","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"182","P1","9.05","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"183","P1","9.1","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"184","P1","9.15","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"185","P1","9.2","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"186","P1","9.25","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"187","P1","9.3","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"188","P1","9.35","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"189","P1","9.4","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"190","P1","9.45","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"191","P1","9.5","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"192","P1","9.55","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"193","P1","9.6","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"194","P1","9.65","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"195","P1","9.7","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"196","P1","9.75","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"197","P1","9.8","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"198","P1","9.85","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"199","P1","9.9","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"200","P1","9.95","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"201","P1","10","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"202","P1","10.05","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"203","P1","10.1","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"204","P1","10.15","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"205","P1","10.2","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"206","P1","10.25","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"207","P1","10.3","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"208","P1","10.35","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"209","P1","10.4","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"210","P1","10.45","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"211","P1","10.5","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"212","P1","10.55","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"213","P1","10.6","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"214","P1","10.65","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"215","P1","10.7","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"216","P1","10.75","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"217","P1","10.8","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"218","P1","10.85","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"219","P1","10.9","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"220","P1","10.95","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"221","P1","11","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"222","P1","11.05","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"223","P1","11.1","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"224","P1","11.15","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"225","P1","11.2","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"226","P1","11.25","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"227","P1","11.3","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"228","P1","11.35","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"229","P1","11.4","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"230","P1","11.45","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"231","P1","11.5","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"232","P1","11.55","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"233","P1","11.6","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"234","P1","11.65","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"235","P1","11.7","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"236","P1","11.75","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"237","P1","11.8","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"238","P1","11.85","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"239","P1","11.9","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"240","P1","11.95","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"241","P1","12","Argilla avana scagliosa con ciottolini inclusi in matrice limosa sabbiosa.","3","1","Troncone","30.000",528589.005,4566370.888,576
+"242","P1","12.05","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"243","P1","12.1","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"244","P1","12.15","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"245","P1","12.2","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"246","P1","12.25","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"247","P1","12.3","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"248","P1","12.35","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"249","P1","12.4","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"250","P1","12.45","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"251","P1","12.5","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"252","P1","12.55","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"253","P1","12.6","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"254","P1","12.65","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"255","P1","12.7","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"256","P1","12.75","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"257","P1","12.8","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"258","P1","12.85","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"259","P1","12.9","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"260","P1","12.95","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"261","P1","13","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"262","P1","13.05","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"263","P1","13.1","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"264","P1","13.15","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"265","P1","13.2","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"266","P1","13.25","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"267","P1","13.3","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"268","P1","13.35","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"269","P1","13.4","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"270","P1","13.45","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"271","P1","13.5","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"272","P1","13.55","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"273","P1","13.6","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"274","P1","13.65","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"275","P1","13.7","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"276","P1","13.75","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"277","P1","13.8","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"278","P1","13.85","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"279","P1","13.9","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"280","P1","13.95","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"281","P1","14","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"282","P1","14.05","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"283","P1","14.1","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"284","P1","14.15","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"285","P1","14.2","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"286","P1","14.25","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"287","P1","14.3","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"288","P1","14.35","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"289","P1","14.4","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"290","P1","14.45","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"291","P1","14.5","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"292","P1","14.55","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"293","P1","14.6","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"294","P1","14.65","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"295","P1","14.7","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"296","P1","14.75","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"297","P1","14.8","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"298","P1","14.85","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"299","P1","14.9","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"300","P1","14.95","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"301","P1","15","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"302","P1","15.05","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"303","P1","15.1","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"304","P1","15.15","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"305","P1","15.2","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"306","P1","15.25","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"307","P1","15.3","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"308","P1","15.35","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"309","P1","15.4","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"310","P1","15.45","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"311","P1","15.5","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"312","P1","15.55","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"313","P1","15.6","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"314","P1","15.65","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"315","P1","15.7","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"316","P1","15.75","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"317","P1","15.8","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"318","P1","15.85","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"319","P1","15.9","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"320","P1","15.95","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"321","P1","16","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"322","P1","16.05","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"323","P1","16.1","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"324","P1","16.15","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"325","P1","16.2","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"326","P1","16.25","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"327","P1","16.3","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"328","P1","16.35","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"329","P1","16.4","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"330","P1","16.45","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"331","P1","16.5","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"332","P1","16.55","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"333","P1","16.6","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"334","P1","16.65","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"335","P1","16.7","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"336","P1","16.75","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"337","P1","16.8","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"338","P1","16.85","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"339","P1","16.9","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"340","P1","16.95","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"341","P1","17","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"342","P1","17.05","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"343","P1","17.1","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"344","P1","17.15","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"345","P1","17.2","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"346","P1","17.25","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"347","P1","17.3","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"348","P1","17.35","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"349","P1","17.4","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"350","P1","17.45","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"351","P1","17.5","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"352","P1","17.55","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"353","P1","17.6","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"354","P1","17.65","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"355","P1","17.7","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"356","P1","17.75","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"357","P1","17.8","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"358","P1","17.85","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"359","P1","17.9","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"360","P1","17.95","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"361","P1","18","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"362","P1","18.05","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"363","P1","18.1","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"364","P1","18.15","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"365","P1","18.2","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"366","P1","18.25","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"367","P1","18.3","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"368","P1","18.35","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"369","P1","18.4","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"370","P1","18.45","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"371","P1","18.5","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"372","P1","18.55","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"373","P1","18.6","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"374","P1","18.65","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"375","P1","18.7","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"376","P1","18.75","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"377","P1","18.8","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"378","P1","18.85","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"379","P1","18.9","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"380","P1","18.95","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"381","P1","19","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"382","P1","19.05","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"383","P1","19.1","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"384","P1","19.15","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"385","P1","19.2","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"386","P1","19.25","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"387","P1","19.3","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"388","P1","19.35","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"389","P1","19.4","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"390","P1","19.45","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"391","P1","19.5","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"392","P1","19.55","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"393","P1","19.6","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"394","P1","19.65","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"395","P1","19.7","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"396","P1","19.75","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"397","P1","19.8","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"398","P1","19.85","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"399","P1","19.9","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"400","P1","19.95","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"401","P1","20","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"402","P1","20.05","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"403","P1","20.1","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"404","P1","20.15","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"405","P1","20.2","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"406","P1","20.25","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"407","P1","20.3","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"408","P1","20.35","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"409","P1","20.4","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"410","P1","20.45","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"411","P1","20.5","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"412","P1","20.55","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"413","P1","20.6","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"414","P1","20.65","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"415","P1","20.7","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"416","P1","20.75","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"417","P1","20.8","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"418","P1","20.85","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"419","P1","20.9","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"420","P1","20.95","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"421","P1","21","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"422","P1","21.05","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"423","P1","21.1","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"424","P1","21.15","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"425","P1","21.2","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"426","P1","21.25","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"427","P1","21.3","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"428","P1","21.35","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"429","P1","21.4","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"430","P1","21.45","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"431","P1","21.5","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"432","P1","21.55","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"433","P1","21.6","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"434","P1","21.65","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"435","P1","21.7","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"436","P1","21.75","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"437","P1","21.8","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"438","P1","21.85","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"439","P1","21.9","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"440","P1","21.95","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"441","P1","22","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"442","P1","22.05","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"443","P1","22.1","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"444","P1","22.15","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"445","P1","22.2","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"446","P1","22.25","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"447","P1","22.3","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"448","P1","22.35","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"449","P1","22.4","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"450","P1","22.45","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"451","P1","22.5","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"452","P1","22.55","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"453","P1","22.6","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"454","P1","22.65","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"455","P1","22.7","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"456","P1","22.75","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"457","P1","22.8","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"458","P1","22.85","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"459","P1","22.9","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"460","P1","22.95","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"461","P1","23","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"462","P1","23.05","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"463","P1","23.1","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"464","P1","23.15","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"465","P1","23.2","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"466","P1","23.25","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"467","P1","23.3","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"468","P1","23.35","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"469","P1","23.4","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"470","P1","23.45","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"471","P1","23.5","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"472","P1","23.55","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"473","P1","23.6","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"474","P1","23.65","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"475","P1","23.7","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"476","P1","23.75","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"477","P1","23.8","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"478","P1","23.85","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"479","P1","23.9","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"480","P1","23.95","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"481","P1","24","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"482","P1","24.05","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"483","P1","24.1","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"484","P1","24.15","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"485","P1","24.2","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"486","P1","24.25","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"487","P1","24.3","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"488","P1","24.35","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"489","P1","24.4","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"490","P1","24.45","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"491","P1","24.5","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"492","P1","24.55","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"493","P1","24.6","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"494","P1","24.65","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"495","P1","24.7","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"496","P1","24.75","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"497","P1","24.8","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"498","P1","24.85","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"499","P1","24.9","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"500","P1","24.95","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"501","P1","25","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"502","P1","25.05","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"503","P1","25.1","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"504","P1","25.15","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"505","P1","25.2","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"506","P1","25.25","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"507","P1","25.3","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"508","P1","25.35","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"509","P1","25.4","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"510","P1","25.45","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"511","P1","25.5","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"512","P1","25.55","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"513","P1","25.6","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"514","P1","25.65","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"515","P1","25.7","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"516","P1","25.75","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"517","P1","25.8","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"518","P1","25.85","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"519","P1","25.9","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"520","P1","25.95","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"521","P1","26","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"522","P1","26.05","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"523","P1","26.1","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"524","P1","26.15","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"525","P1","26.2","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"526","P1","26.25","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"527","P1","26.3","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"528","P1","26.35","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"529","P1","26.4","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"530","P1","26.45","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"531","P1","26.5","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"532","P1","26.55","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"533","P1","26.6","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"534","P1","26.65","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"535","P1","26.7","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"536","P1","26.75","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"537","P1","26.8","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"538","P1","26.85","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"539","P1","26.9","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"540","P1","26.95","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"541","P1","27","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"542","P1","27.05","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"543","P1","27.1","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"544","P1","27.15","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"545","P1","27.2","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"546","P1","27.25","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"547","P1","27.3","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"548","P1","27.35","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"549","P1","27.4","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"550","P1","27.45","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"551","P1","27.5","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"552","P1","27.55","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"553","P1","27.6","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"554","P1","27.65","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"555","P1","27.7","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"556","P1","27.75","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"557","P1","27.8","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"558","P1","27.85","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"559","P1","27.9","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"560","P1","27.95","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"561","P1","28","Argilla marnosa grigio azzurra con strati calcarenitici e argille grigio-azzurre. Strati di Ciottoli.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"562","P1","28.05","Argilla marnosa grigio azzurra.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"563","P1","28.1","Argilla marnosa grigio azzurra.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"564","P1","28.15","Argilla marnosa grigio azzurra.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"565","P1","28.2","Argilla marnosa grigio azzurra.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"566","P1","28.25","Argilla marnosa grigio azzurra.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"567","P1","28.3","Argilla marnosa grigio azzurra.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"568","P1","28.35","Argilla marnosa grigio azzurra.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"569","P1","28.4","Argilla marnosa grigio azzurra.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"570","P1","28.45","Argilla marnosa grigio azzurra.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"571","P1","28.5","Argilla marnosa grigio azzurra.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"572","P1","28.55","Argilla marnosa grigio azzurra.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"573","P1","28.6","Argilla marnosa grigio azzurra.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"574","P1","28.65","Argilla marnosa grigio azzurra.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"575","P1","28.7","Argilla marnosa grigio azzurra.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"576","P1","28.75","Argilla marnosa grigio azzurra.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"577","P1","28.8","Argilla marnosa grigio azzurra.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"578","P1","28.85","Argilla marnosa grigio azzurra.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"579","P1","28.9","Argilla marnosa grigio azzurra.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"580","P1","28.95","Argilla marnosa grigio azzurra.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"581","P1","29","Argilla marnosa grigio azzurra.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"582","P1","29.05","Argilla marnosa grigio azzurra.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"583","P1","29.1","Argilla marnosa grigio azzurra.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"584","P1","29.15","Argilla marnosa grigio azzurra.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"585","P1","29.2","Argilla marnosa grigio azzurra.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"586","P1","29.25","Argilla marnosa grigio azzurra.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"587","P1","29.3","Argilla marnosa grigio azzurra.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"588","P1","29.35","Argilla marnosa grigio azzurra.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"589","P1","29.4","Argilla marnosa grigio azzurra.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"590","P1","29.45","Argilla marnosa grigio azzurra.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"591","P1","29.5","Argilla marnosa grigio azzurra.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"592","P1","29.55","Argilla marnosa grigio azzurra.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"593","P1","29.6","Argilla marnosa grigio azzurra.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"594","P1","29.65","Argilla marnosa grigio azzurra.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"595","P1","29.7","Argilla marnosa grigio azzurra.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"596","P1","29.75","Argilla marnosa grigio azzurra.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"597","P1","29.8","Argilla marnosa grigio azzurra.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"598","P1","29.85","Argilla marnosa grigio azzurra.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"599","P1","29.9","Argilla marnosa grigio azzurra.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"600","P1","29.95","Argilla marnosa grigio azzurra.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"601","P1","30","Argilla marnosa grigio azzurra.","2b","1","Troncone","30.000",528589.005,4566370.888,576
+"602","P1","30","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"603","P1","30.05","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"604","P1","30.1","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"605","P1","30.15","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"606","P1","30.2","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"607","P1","30.25","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"608","P1","30.3","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"609","P1","30.35","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"610","P1","30.4","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"611","P1","30.45","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"612","P1","30.5","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"613","P1","30.55","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"614","P1","30.6","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"615","P1","30.65","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"616","P1","30.7","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"617","P1","30.75","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"618","P1","30.8","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"619","P1","30.85","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"620","P1","30.9","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"621","P1","30.95","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"622","P1","31","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"623","P1","31.05","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"624","P1","31.1","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"625","P1","31.15","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"626","P1","31.2","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"627","P1","31.25","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"628","P1","31.3","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"629","P1","31.35","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"630","P1","31.4","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"631","P1","31.45","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"632","P1","31.5","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"633","P1","31.55","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"634","P1","31.6","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"635","P1","31.65","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"636","P1","31.7","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"637","P1","31.75","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"638","P1","31.8","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"639","P1","31.85","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"640","P1","31.9","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"641","P1","31.95","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"642","P1","32","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"643","P1","32.05","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"644","P1","32.1","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"645","P1","32.15","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"646","P1","32.2","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"647","P1","32.25","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"648","P1","32.3","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"649","P1","32.35","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"650","P1","32.4","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"651","P1","32.45","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"652","P1","32.5","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"653","P1","32.55","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"654","P1","32.6","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"655","P1","32.65","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"656","P1","32.7","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"657","P1","32.75","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"658","P1","32.8","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"659","P1","32.85","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"660","P1","32.9","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"661","P1","32.95","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"662","P1","33","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"663","P1","33.05","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"664","P1","33.1","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"665","P1","33.15","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"666","P1","33.2","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"667","P1","33.25","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"668","P1","33.3","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"669","P1","33.35","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"670","P1","33.4","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"671","P1","33.45","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"672","P1","33.5","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"673","P1","33.55","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"674","P1","33.6","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"675","P1","33.65","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"676","P1","33.7","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"677","P1","33.75","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"678","P1","33.8","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"679","P1","33.85","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"680","P1","33.9","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"681","P1","33.95","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"682","P1","34","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"683","P1","34.05","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"684","P1","34.1","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"685","P1","34.15","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"686","P1","34.2","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"687","P1","34.25","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"688","P1","34.3","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"689","P1","34.35","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"690","P1","34.4","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"691","P1","34.45","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"692","P1","34.5","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"693","P1","34.55","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"694","P1","34.6","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"695","P1","34.65","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"696","P1","34.7","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"697","P1","34.75","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"698","P1","34.8","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"699","P1","34.85","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"700","P1","34.9","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"701","P1","34.95","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"702","P1","35","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"703","P1","35.05","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"704","P1","35.1","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"705","P1","35.15","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"706","P1","35.2","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"707","P1","35.25","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"708","P1","35.3","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"709","P1","35.35","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"710","P1","35.4","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"711","P1","35.45","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"712","P1","35.5","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"713","P1","35.55","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"714","P1","35.6","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"715","P1","35.65","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"716","P1","35.7","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"717","P1","35.75","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"718","P1","35.8","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"719","P1","35.85","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"720","P1","35.9","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"721","P1","35.95","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"722","P1","36","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"723","P1","36.05","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"724","P1","36.1","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"725","P1","36.15","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"726","P1","36.2","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"727","P1","36.25","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"728","P1","36.3","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"729","P1","36.35","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"730","P1","36.4","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"731","P1","36.45","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"732","P1","36.5","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"733","P1","36.55","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"734","P1","36.6","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"735","P1","36.65","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"736","P1","36.7","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"737","P1","36.75","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"738","P1","36.8","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"739","P1","36.85","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"740","P1","36.9","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"741","P1","36.95","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"742","P1","37","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"743","P1","37.05","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"744","P1","37.1","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"745","P1","37.15","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"746","P1","37.2","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"747","P1","37.25","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"748","P1","37.3","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"749","P1","37.35","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"750","P1","37.4","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"751","P1","37.45","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"752","P1","37.5","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"753","P1","37.55","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"754","P1","37.6","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"755","P1","37.65","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"756","P1","37.7","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"757","P1","37.75","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"758","P1","37.8","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"759","P1","37.85","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"760","P1","37.9","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"761","P1","37.95","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"762","P1","38","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"763","P1","38.05","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"764","P1","38.1","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"765","P1","38.15","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"766","P1","38.2","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"767","P1","38.25","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"768","P1","38.3","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"769","P1","38.35","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"770","P1","38.4","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"771","P1","38.45","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"772","P1","38.5","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"773","P1","38.55","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"774","P1","38.6","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"775","P1","38.65","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"776","P1","38.7","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"777","P1","38.75","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"778","P1","38.8","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"779","P1","38.85","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"780","P1","38.9","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"781","P1","38.95","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"782","P1","39","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"783","P1","39.05","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"784","P1","39.1","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"785","P1","39.15","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"786","P1","39.2","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"787","P1","39.25","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"788","P1","39.3","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"789","P1","39.35","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"790","P1","39.4","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"791","P1","39.45","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"792","P1","39.5","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"793","P1","39.55","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"794","P1","39.6","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"795","P1","39.65","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"796","P1","39.7","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"797","P1","39.75","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"798","P1","39.8","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"799","P1","39.85","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"800","P1","39.9","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"801","P1","39.95","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"802","P1","40","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"803","P1","40.05","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"804","P1","40.1","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"805","P1","40.15","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"806","P1","40.2","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"807","P1","40.25","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"808","P1","40.3","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"809","P1","40.35","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"810","P1","40.4","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"811","P1","40.45","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"812","P1","40.5","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"813","P1","40.55","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"814","P1","40.6","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"815","P1","40.65","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"816","P1","40.7","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"817","P1","40.75","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"818","P1","40.8","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"819","P1","40.85","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"820","P1","40.9","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"821","P1","40.95","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"822","P1","41","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"823","P1","41.05","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"824","P1","41.1","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"825","P1","41.15","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"826","P1","41.2","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"827","P1","41.25","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"828","P1","41.3","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"829","P1","41.35","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"830","P1","41.4","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"831","P1","41.45","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"832","P1","41.5","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"833","P1","41.55","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"834","P1","41.6","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"835","P1","41.65","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"836","P1","41.7","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"837","P1","41.75","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"838","P1","41.8","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"839","P1","41.85","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"840","P1","41.9","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"841","P1","41.95","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"842","P1","42","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"843","P1","42.05","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"844","P1","42.1","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"845","P1","42.15","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"846","P1","42.2","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"847","P1","42.25","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"848","P1","42.3","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"849","P1","42.35","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"850","P1","42.4","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"851","P1","42.45","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"852","P1","42.5","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"853","P1","42.55","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"854","P1","42.6","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"855","P1","42.65","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"856","P1","42.7","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"857","P1","42.75","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"858","P1","42.8","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"859","P1","42.85","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"860","P1","42.9","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"861","P1","42.95","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"862","P1","43","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"863","P1","43.05","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"864","P1","43.1","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"865","P1","43.15","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"866","P1","43.2","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"867","P1","43.25","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"868","P1","43.3","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"869","P1","43.35","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"870","P1","43.4","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"871","P1","43.45","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"872","P1","43.5","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"873","P1","43.55","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"874","P1","43.6","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"875","P1","43.65","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"876","P1","43.7","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"877","P1","43.75","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"878","P1","43.8","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"879","P1","43.85","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"880","P1","43.9","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"881","P1","43.95","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"882","P1","44","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"883","P1","44.05","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"884","P1","44.1","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"885","P1","44.15","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"886","P1","44.2","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"887","P1","44.25","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"888","P1","44.3","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"889","P1","44.35","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"890","P1","44.4","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"891","P1","44.45","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"892","P1","44.5","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"893","P1","44.55","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"894","P1","44.6","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"895","P1","44.65","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"896","P1","44.7","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"897","P1","44.75","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"898","P1","44.8","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"899","P1","44.85","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"900","P1","44.9","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"901","P1","44.95","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"902","P1","45","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"903","P1","45.05","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"904","P1","45.1","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"905","P1","45.15","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"906","P1","45.2","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"907","P1","45.25","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"908","P1","45.3","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"909","P1","45.35","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"910","P1","45.4","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"911","P1","45.45","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"912","P1","45.5","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"913","P1","45.55","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"914","P1","45.6","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"915","P1","45.65","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"916","P1","45.7","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"917","P1","45.75","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"918","P1","45.8","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"919","P1","45.85","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"920","P1","45.9","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"921","P1","45.95","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"922","P1","46","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"923","P1","46.05","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"924","P1","46.1","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"925","P1","46.15","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"926","P1","46.2","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"927","P1","46.25","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"928","P1","46.3","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"929","P1","46.35","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"930","P1","46.4","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"931","P1","46.45","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"932","P1","46.5","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"933","P1","46.55","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"934","P1","46.6","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"935","P1","46.65","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"936","P1","46.7","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"937","P1","46.75","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"938","P1","46.8","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"939","P1","46.85","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"940","P1","46.9","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"941","P1","46.95","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"942","P1","47","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"943","P1","47.05","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"944","P1","47.1","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"945","P1","47.15","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"946","P1","47.2","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"947","P1","47.25","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"948","P1","47.3","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"949","P1","47.35","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"950","P1","47.4","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"951","P1","47.45","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"952","P1","47.5","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"953","P1","47.55","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"954","P1","47.6","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"955","P1","47.65","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"956","P1","47.7","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"957","P1","47.75","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"958","P1","47.8","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"959","P1","47.85","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"960","P1","47.9","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"961","P1","47.95","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"962","P1","48","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"963","P1","48.05","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"964","P1","48.1","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"965","P1","48.15","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"966","P1","48.2","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"967","P1","48.25","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"968","P1","48.3","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"969","P1","48.35","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"970","P1","48.4","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"971","P1","48.45","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"972","P1","48.5","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"973","P1","48.55","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"974","P1","48.6","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"975","P1","48.65","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"976","P1","48.7","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"977","P1","48.75","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"978","P1","48.8","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"979","P1","48.85","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"980","P1","48.9","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"981","P1","48.95","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"982","P1","49","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"983","P1","49.05","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"984","P1","49.1","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"985","P1","49.15","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"986","P1","49.2","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"987","P1","49.25","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"988","P1","49.3","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"989","P1","49.35","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"990","P1","49.4","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"991","P1","49.45","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"992","P1","49.5","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"993","P1","49.55","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"994","P1","49.6","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"995","P1","49.65","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"996","P1","49.7","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"997","P1","49.75","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"998","P1","49.8","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"999","P1","49.85","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1000","P1","49.9","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1001","P1","49.95","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1002","P1","50","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1003","P1","50.05","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1004","P1","50.1","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1005","P1","50.15","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1006","P1","50.2","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1007","P1","50.25","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1008","P1","50.3","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1009","P1","50.35","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1010","P1","50.4","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1011","P1","50.45","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1012","P1","50.5","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1013","P1","50.55","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1014","P1","50.6","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1015","P1","50.65","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1016","P1","50.7","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1017","P1","50.75","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1018","P1","50.8","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1019","P1","50.85","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1020","P1","50.9","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1021","P1","50.95","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1022","P1","51","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1023","P1","51.05","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1024","P1","51.1","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1025","P1","51.15","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1026","P1","51.2","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1027","P1","51.25","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1028","P1","51.3","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1029","P1","51.35","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1030","P1","51.4","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1031","P1","51.45","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1032","P1","51.5","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1033","P1","51.55","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1034","P1","51.6","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1035","P1","51.65","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1036","P1","51.7","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1037","P1","51.75","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1038","P1","51.8","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1039","P1","51.85","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1040","P1","51.9","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1041","P1","51.95","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1042","P1","52","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1043","P1","52.05","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1044","P1","52.1","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1045","P1","52.15","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1046","P1","52.2","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1047","P1","52.25","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1048","P1","52.3","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1049","P1","52.35","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1050","P1","52.4","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1051","P1","52.45","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1052","P1","52.5","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1053","P1","52.55","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1054","P1","52.6","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1055","P1","52.65","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1056","P1","52.7","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1057","P1","52.75","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1058","P1","52.8","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1059","P1","52.85","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1060","P1","52.9","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1061","P1","52.95","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1062","P1","53","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1063","P1","53.05","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1064","P1","53.1","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1065","P1","53.15","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1066","P1","53.2","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1067","P1","53.25","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1068","P1","53.3","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1069","P1","53.35","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1070","P1","53.4","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1071","P1","53.45","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1072","P1","53.5","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1073","P1","53.55","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1074","P1","53.6","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1075","P1","53.65","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1076","P1","53.7","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1077","P1","53.75","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1078","P1","53.8","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1079","P1","53.85","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1080","P1","53.9","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1081","P1","53.95","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1082","P1","54","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1083","P1","54.05","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1084","P1","54.1","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1085","P1","54.15","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1086","P1","54.2","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1087","P1","54.25","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1088","P1","54.3","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1089","P1","54.35","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1090","P1","54.4","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1091","P1","54.45","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1092","P1","54.5","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1093","P1","54.55","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1094","P1","54.6","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1095","P1","54.65","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1096","P1","54.7","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1097","P1","54.75","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1098","P1","54.8","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1099","P1","54.85","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1100","P1","54.9","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1101","P1","54.95","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1102","P1","55","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1103","P1","55.05","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1104","P1","55.1","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1105","P1","55.15","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1106","P1","55.2","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1107","P1","55.25","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1108","P1","55.3","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1109","P1","55.35","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1110","P1","55.4","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1111","P1","55.45","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1112","P1","55.5","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1113","P1","55.55","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1114","P1","55.6","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1115","P1","55.65","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1116","P1","55.7","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1117","P1","55.75","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1118","P1","55.8","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1119","P1","55.85","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1120","P1","55.9","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1121","P1","55.95","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1122","P1","56","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1123","P1","56.05","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1124","P1","56.1","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1125","P1","56.15","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1126","P1","56.2","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1127","P1","56.25","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1128","P1","56.3","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1129","P1","56.35","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1130","P1","56.4","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1131","P1","56.45","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1132","P1","56.5","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1133","P1","56.55","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1134","P1","56.6","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1135","P1","56.65","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1136","P1","56.7","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1137","P1","56.75","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1138","P1","56.8","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1139","P1","56.85","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1140","P1","56.9","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1141","P1","56.95","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1142","P1","57","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1143","P1","57.05","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1144","P1","57.1","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1145","P1","57.15","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1146","P1","57.2","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1147","P1","57.25","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1148","P1","57.3","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1149","P1","57.35","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1150","P1","57.4","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1151","P1","57.45","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1152","P1","57.5","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1153","P1","57.55","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1154","P1","57.6","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1155","P1","57.65","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1156","P1","57.7","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1157","P1","57.75","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1158","P1","57.8","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1159","P1","57.85","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1160","P1","57.9","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1161","P1","57.95","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1162","P1","58","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1163","P1","58.05","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1164","P1","58.1","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1165","P1","58.15","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1166","P1","58.2","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1167","P1","58.25","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1168","P1","58.3","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1169","P1","58.35","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1170","P1","58.4","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1171","P1","58.45","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1172","P1","58.5","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1173","P1","58.55","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1174","P1","58.6","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1175","P1","58.65","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1176","P1","58.7","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1177","P1","58.75","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1178","P1","58.8","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1179","P1","58.85","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1180","P1","58.9","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1181","P1","58.95","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1182","P1","59","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1183","P1","59.05","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1184","P1","59.1","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1185","P1","59.15","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1186","P1","59.2","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1187","P1","59.25","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1188","P1","59.3","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1189","P1","59.35","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1190","P1","59.4","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1191","P1","59.45","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1192","P1","59.5","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1193","P1","59.55","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1194","P1","59.6","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1195","P1","59.65","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1196","P1","59.7","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1197","P1","59.75","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1198","P1","59.8","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1199","P1","59.85","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1200","P1","59.9","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1201","P1","59.95","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1202","P1","60","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1203","P1","60.05","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1204","P1","60.1","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1205","P1","60.15","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1206","P1","60.2","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1207","P1","60.25","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1208","P1","60.3","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1209","P1","60.35","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1210","P1","60.4","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1211","P1","60.45","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1212","P1","60.5","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1213","P1","60.55","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1214","P1","60.6","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1215","P1","60.65","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1216","P1","60.7","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1217","P1","60.75","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1218","P1","60.8","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1219","P1","60.85","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1220","P1","60.9","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1221","P1","60.95","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1222","P1","61","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1223","P1","61.05","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1224","P1","61.1","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1225","P1","61.15","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1226","P1","61.2","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1227","P1","61.25","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1228","P1","61.3","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1229","P1","61.35","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1230","P1","61.4","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1231","P1","61.45","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1232","P1","61.5","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1233","P1","61.55","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1234","P1","61.6","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1235","P1","61.65","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1236","P1","61.7","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1237","P1","61.75","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1238","P1","61.8","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1239","P1","61.85","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1240","P1","61.9","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1241","P1","61.95","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1242","P1","62","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1243","P1","62.05","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1244","P1","62.1","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1245","P1","62.15","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1246","P1","62.2","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1247","P1","62.25","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1248","P1","62.3","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1249","P1","62.35","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1250","P1","62.4","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1251","P1","62.45","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1252","P1","62.5","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1253","P1","62.55","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1254","P1","62.6","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1255","P1","62.65","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1256","P1","62.7","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1257","P1","62.75","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1258","P1","62.8","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1259","P1","62.85","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1260","P1","62.9","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1261","P1","62.95","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1262","P1","63","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1263","P1","63.05","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1264","P1","63.1","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1265","P1","63.15","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1266","P1","63.2","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1267","P1","63.25","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1268","P1","63.3","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1269","P1","63.35","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1270","P1","63.4","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1271","P1","63.45","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1272","P1","63.5","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1273","P1","63.55","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1274","P1","63.6","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1275","P1","63.65","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1276","P1","63.7","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1277","P1","63.75","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1278","P1","63.8","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1279","P1","63.85","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1280","P1","63.9","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1281","P1","63.95","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1282","P1","64","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1283","P1","64.05","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1284","P1","64.1","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1285","P1","64.15","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1286","P1","64.2","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1287","P1","64.25","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1288","P1","64.3","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1289","P1","64.35","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1290","P1","64.4","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1291","P1","64.45","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1292","P1","64.5","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1293","P1","64.55","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1294","P1","64.6","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1295","P1","64.65","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1296","P1","64.7","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1297","P1","64.75","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1298","P1","64.8","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1299","P1","64.85","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1300","P1","64.9","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1301","P1","64.95","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1302","P1","65","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1303","P1","65.05","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1304","P1","65.1","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1305","P1","65.15","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1306","P1","65.2","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1307","P1","65.25","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1308","P1","65.3","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1309","P1","65.35","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1310","P1","65.4","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1311","P1","65.45","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1312","P1","65.5","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1313","P1","65.55","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1314","P1","65.6","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1315","P1","65.65","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1316","P1","65.7","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1317","P1","65.75","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1318","P1","65.8","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1319","P1","65.85","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1320","P1","65.9","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1321","P1","65.95","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1322","P1","66","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1323","P1","66.05","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1324","P1","66.1","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1325","P1","66.15","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1326","P1","66.2","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1327","P1","66.25","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1328","P1","66.3","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1329","P1","66.35","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1330","P1","66.4","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1331","P1","66.45","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1332","P1","66.5","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1333","P1","66.55","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1334","P1","66.6","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1335","P1","66.65","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1336","P1","66.7","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1337","P1","66.75","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1338","P1","66.8","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1339","P1","66.85","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1340","P1","66.9","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1341","P1","66.95","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1342","P1","67","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1343","P1","67.05","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1344","P1","67.1","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1345","P1","67.15","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1346","P1","67.2","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1347","P1","67.25","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1348","P1","67.3","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1349","P1","67.35","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1350","P1","67.4","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1351","P1","67.45","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1352","P1","67.5","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1353","P1","67.55","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1354","P1","67.6","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1355","P1","67.65","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1356","P1","67.7","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1357","P1","67.75","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1358","P1","67.8","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1359","P1","67.85","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1360","P1","67.9","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1361","P1","67.95","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1362","P1","68","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1363","P1","68.05","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1364","P1","68.1","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1365","P1","68.15","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1366","P1","68.2","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1367","P1","68.25","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1368","P1","68.3","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1369","P1","68.35","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1370","P1","68.4","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1371","P1","68.45","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1372","P1","68.5","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1373","P1","68.55","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1374","P1","68.6","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1375","P1","68.65","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1376","P1","68.7","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1377","P1","68.75","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1378","P1","68.8","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1379","P1","68.85","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1380","P1","68.9","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1381","P1","68.95","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1382","P1","69","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1383","P1","69.05","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1384","P1","69.1","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1385","P1","69.15","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1386","P1","69.2","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1387","P1","69.25","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1388","P1","69.3","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1389","P1","69.35","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1390","P1","69.4","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1391","P1","69.45","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1392","P1","69.5","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1393","P1","69.55","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1394","P1","69.6","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1395","P1","69.65","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1396","P1","69.7","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1397","P1","69.75","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1398","P1","69.8","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1399","P1","69.85","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1400","P1","69.9","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1401","P1","69.95","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1402","P1","70","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1403","P1","70.05","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1404","P1","70.1","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1405","P1","70.15","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1406","P1","70.2","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1407","P1","70.25","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1408","P1","70.3","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1409","P1","70.35","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1410","P1","70.4","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1411","P1","70.45","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1412","P1","70.5","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1413","P1","70.55","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1414","P1","70.6","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1415","P1","70.65","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1416","P1","70.7","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1417","P1","70.75","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1418","P1","70.8","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1419","P1","70.85","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1420","P1","70.9","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1421","P1","70.95","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1422","P1","71","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1423","P1","71.05","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1424","P1","71.1","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1425","P1","71.15","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1426","P1","71.2","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1427","P1","71.25","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1428","P1","71.3","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1429","P1","71.35","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1430","P1","71.4","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1431","P1","71.45","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1432","P1","71.5","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1433","P1","71.55","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1434","P1","71.6","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1435","P1","71.65","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1436","P1","71.7","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1437","P1","71.75","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1438","P1","71.8","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1439","P1","71.85","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1440","P1","71.9","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1441","P1","71.95","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1442","P1","72","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1443","P1","72.05","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1444","P1","72.1","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1445","P1","72.15","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1446","P1","72.2","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1447","P1","72.25","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1448","P1","72.3","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1449","P1","72.35","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1450","P1","72.4","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1451","P1","72.45","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1452","P1","72.5","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1453","P1","72.55","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1454","P1","72.6","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1455","P1","72.65","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1456","P1","72.7","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1457","P1","72.75","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1458","P1","72.8","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1459","P1","72.85","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1460","P1","72.9","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1461","P1","72.95","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1462","P1","73","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1463","P1","73.05","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1464","P1","73.1","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1465","P1","73.15","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1466","P1","73.2","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1467","P1","73.25","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1468","P1","73.3","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1469","P1","73.35","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1470","P1","73.4","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1471","P1","73.45","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1472","P1","73.5","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1473","P1","73.55","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1474","P1","73.6","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1475","P1","73.65","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1476","P1","73.7","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1477","P1","73.75","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1478","P1","73.8","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1479","P1","73.85","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1480","P1","73.9","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1481","P1","73.95","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1482","P1","74","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1483","P1","74.05","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1484","P1","74.1","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1485","P1","74.15","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1486","P1","74.2","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1487","P1","74.25","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1488","P1","74.3","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1489","P1","74.35","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1490","P1","74.4","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1491","P1","74.45","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1492","P1","74.5","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1493","P1","74.55","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1494","P1","74.6","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1495","P1","74.65","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1496","P1","74.7","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1497","P1","74.75","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1498","P1","74.8","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1499","P1","74.85","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1500","P1","74.9","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1501","P1","74.95","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1502","P1","75","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1503","P1","75.05","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1504","P1","75.1","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1505","P1","75.15","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1506","P1","75.2","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1507","P1","75.25","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1508","P1","75.3","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1509","P1","75.35","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1510","P1","75.4","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1511","P1","75.45","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1512","P1","75.5","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1513","P1","75.55","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1514","P1","75.6","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1515","P1","75.65","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1516","P1","75.7","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1517","P1","75.75","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1518","P1","75.8","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1519","P1","75.85","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1520","P1","75.9","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1521","P1","75.95","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1522","P1","76","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1523","P1","76.05","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1524","P1","76.1","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1525","P1","76.15","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1526","P1","76.2","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1527","P1","76.25","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1528","P1","76.3","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1529","P1","76.35","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1530","P1","76.4","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1531","P1","76.45","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1532","P1","76.5","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1533","P1","76.55","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1534","P1","76.6","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1535","P1","76.65","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576
+"1536","P1","76.7","Argilla marnosa grigio azzurra.","2b","0","Troncone","30.000",528589.005,4566370.888,576

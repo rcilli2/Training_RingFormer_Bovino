@@ -1,0 +1,1537 @@
+"","borehole","Depth","Description","Unit","Valid","campaign","DEPTH","x","y","z"
+"1","L2","0","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"2","L2","0.05","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"3","L2","0.1","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"4","L2","0.15","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"5","L2","0.2","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"6","L2","0.25","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"7","L2","0.3","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"8","L2","0.35","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"9","L2","0.4","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"10","L2","0.45","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"11","L2","0.5","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"12","L2","0.55","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"13","L2","0.6","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"14","L2","0.65","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"15","L2","0.7","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"16","L2","0.75","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"17","L2","0.8","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"18","L2","0.85","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"19","L2","0.9","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"20","L2","0.95","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"21","L2","1","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"22","L2","1.05","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"23","L2","1.1","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"24","L2","1.15","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"25","L2","1.2","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"26","L2","1.25","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"27","L2","1.3","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"28","L2","1.35","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"29","L2","1.4","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"30","L2","1.45","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"31","L2","1.5","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"32","L2","1.55","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"33","L2","1.6","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"34","L2","1.65","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"35","L2","1.7","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"36","L2","1.75","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"37","L2","1.8","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"38","L2","1.85","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"39","L2","1.9","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"40","L2","1.95","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"41","L2","2","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"42","L2","2.05","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"43","L2","2.1","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"44","L2","2.15","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"45","L2","2.2","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"46","L2","2.25","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"47","L2","2.3","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"48","L2","2.35","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"49","L2","2.4","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"50","L2","2.45","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"51","L2","2.5","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"52","L2","2.55","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"53","L2","2.6","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"54","L2","2.65","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"55","L2","2.7","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"56","L2","2.75","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"57","L2","2.8","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"58","L2","2.85","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"59","L2","2.9","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"60","L2","2.95","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"61","L2","3","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"62","L2","3.05","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"63","L2","3.1","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"64","L2","3.15","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"65","L2","3.2","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"66","L2","3.25","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"67","L2","3.3","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"68","L2","3.35","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"69","L2","3.4","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"70","L2","3.45","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"71","L2","3.5","Terreno.","T","1","Troncone","24.000",528658.189,4566481.29,588
+"72","L2","3.55","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"73","L2","3.6","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"74","L2","3.65","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"75","L2","3.7","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"76","L2","3.75","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"77","L2","3.8","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"78","L2","3.85","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"79","L2","3.9","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"80","L2","3.95","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"81","L2","4","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"82","L2","4.05","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"83","L2","4.1","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"84","L2","4.15","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"85","L2","4.2","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"86","L2","4.25","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"87","L2","4.3","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"88","L2","4.35","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"89","L2","4.4","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"90","L2","4.45","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"91","L2","4.5","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"92","L2","4.55","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"93","L2","4.6","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"94","L2","4.65","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"95","L2","4.7","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"96","L2","4.75","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"97","L2","4.8","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"98","L2","4.85","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"99","L2","4.9","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"100","L2","4.95","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"101","L2","5","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"102","L2","5.05","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"103","L2","5.1","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"104","L2","5.15","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"105","L2","5.2","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"106","L2","5.25","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"107","L2","5.3","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"108","L2","5.35","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"109","L2","5.4","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"110","L2","5.45","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"111","L2","5.5","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"112","L2","5.55","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"113","L2","5.6","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"114","L2","5.65","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"115","L2","5.7","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"116","L2","5.75","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"117","L2","5.8","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"118","L2","5.85","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"119","L2","5.9","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"120","L2","5.95","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"121","L2","6","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"122","L2","6.05","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"123","L2","6.1","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"124","L2","6.15","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"125","L2","6.2","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"126","L2","6.25","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"127","L2","6.3","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"128","L2","6.35","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"129","L2","6.4","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"130","L2","6.45","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"131","L2","6.5","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"132","L2","6.55","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"133","L2","6.6","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"134","L2","6.65","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"135","L2","6.7","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"136","L2","6.75","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"137","L2","6.8","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"138","L2","6.85","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"139","L2","6.9","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"140","L2","6.95","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"141","L2","7","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"142","L2","7.05","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"143","L2","7.1","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"144","L2","7.15","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"145","L2","7.2","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"146","L2","7.25","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"147","L2","7.3","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"148","L2","7.35","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"149","L2","7.4","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"150","L2","7.45","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"151","L2","7.5","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"152","L2","7.55","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"153","L2","7.6","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"154","L2","7.65","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"155","L2","7.7","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"156","L2","7.75","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"157","L2","7.8","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"158","L2","7.85","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"159","L2","7.9","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"160","L2","7.95","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"161","L2","8","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"162","L2","8.05","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"163","L2","8.1","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"164","L2","8.15","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"165","L2","8.2","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"166","L2","8.25","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"167","L2","8.3","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"168","L2","8.35","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"169","L2","8.4","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"170","L2","8.45","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"171","L2","8.5","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"172","L2","8.55","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"173","L2","8.6","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"174","L2","8.65","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"175","L2","8.7","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"176","L2","8.75","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"177","L2","8.8","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"178","L2","8.85","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"179","L2","8.9","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"180","L2","8.95","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"181","L2","9","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"182","L2","9.05","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"183","L2","9.1","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"184","L2","9.15","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"185","L2","9.2","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"186","L2","9.25","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"187","L2","9.3","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"188","L2","9.35","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"189","L2","9.4","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"190","L2","9.45","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"191","L2","9.5","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"192","L2","9.55","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"193","L2","9.6","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"194","L2","9.65","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"195","L2","9.7","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"196","L2","9.75","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"197","L2","9.8","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"198","L2","9.85","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"199","L2","9.9","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"200","L2","9.95","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"201","L2","10","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"202","L2","10.05","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"203","L2","10.1","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"204","L2","10.15","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"205","L2","10.2","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"206","L2","10.25","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"207","L2","10.3","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"208","L2","10.35","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"209","L2","10.4","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"210","L2","10.45","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"211","L2","10.5","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"212","L2","10.55","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"213","L2","10.6","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"214","L2","10.65","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"215","L2","10.7","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"216","L2","10.75","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"217","L2","10.8","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"218","L2","10.85","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"219","L2","10.9","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"220","L2","10.95","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"221","L2","11","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"222","L2","11.05","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"223","L2","11.1","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"224","L2","11.15","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"225","L2","11.2","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"226","L2","11.25","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"227","L2","11.3","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"228","L2","11.35","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"229","L2","11.4","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"230","L2","11.45","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"231","L2","11.5","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"232","L2","11.55","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"233","L2","11.6","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"234","L2","11.65","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"235","L2","11.7","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"236","L2","11.75","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"237","L2","11.8","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"238","L2","11.85","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"239","L2","11.9","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"240","L2","11.95","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"241","L2","12","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"242","L2","12.05","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"243","L2","12.1","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"244","L2","12.15","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"245","L2","12.2","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"246","L2","12.25","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"247","L2","12.3","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"248","L2","12.35","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"249","L2","12.4","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"250","L2","12.45","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"251","L2","12.5","Ciottoli.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"252","L2","12.55","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"253","L2","12.6","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"254","L2","12.65","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"255","L2","12.7","Argilla a luoghi limosa e sabbiosa giallastra talora plastica; presenza di calcinelli o lapidei.","3","1","Troncone","24.000",528658.189,4566481.29,588
+"256","L2","12.75","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"257","L2","12.8","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"258","L2","12.85","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"259","L2","12.9","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"260","L2","12.95","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"261","L2","13","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"262","L2","13.05","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"263","L2","13.1","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"264","L2","13.15","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"265","L2","13.2","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"266","L2","13.25","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"267","L2","13.3","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"268","L2","13.35","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"269","L2","13.4","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"270","L2","13.45","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"271","L2","13.5","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"272","L2","13.55","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"273","L2","13.6","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"274","L2","13.65","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"275","L2","13.7","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"276","L2","13.75","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"277","L2","13.8","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"278","L2","13.85","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"279","L2","13.9","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"280","L2","13.95","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"281","L2","14","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"282","L2","14.05","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"283","L2","14.1","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"284","L2","14.15","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"285","L2","14.2","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"286","L2","14.25","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"287","L2","14.3","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"288","L2","14.35","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"289","L2","14.4","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"290","L2","14.45","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"291","L2","14.5","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"292","L2","14.55","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"293","L2","14.6","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"294","L2","14.65","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"295","L2","14.7","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"296","L2","14.75","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"297","L2","14.8","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"298","L2","14.85","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"299","L2","14.9","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"300","L2","14.95","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"301","L2","15","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"302","L2","15.05","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"303","L2","15.1","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"304","L2","15.15","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"305","L2","15.2","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"306","L2","15.25","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"307","L2","15.3","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"308","L2","15.35","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"309","L2","15.4","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"310","L2","15.45","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"311","L2","15.5","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"312","L2","15.55","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"313","L2","15.6","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"314","L2","15.65","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"315","L2","15.7","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"316","L2","15.75","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"317","L2","15.8","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"318","L2","15.85","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"319","L2","15.9","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"320","L2","15.95","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"321","L2","16","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"322","L2","16.05","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"323","L2","16.1","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"324","L2","16.15","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"325","L2","16.2","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"326","L2","16.25","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"327","L2","16.3","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"328","L2","16.35","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"329","L2","16.4","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"330","L2","16.45","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"331","L2","16.5","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"332","L2","16.55","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"333","L2","16.6","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"334","L2","16.65","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"335","L2","16.7","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"336","L2","16.75","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"337","L2","16.8","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"338","L2","16.85","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"339","L2","16.9","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"340","L2","16.95","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"341","L2","17","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"342","L2","17.05","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"343","L2","17.1","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"344","L2","17.15","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"345","L2","17.2","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"346","L2","17.25","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"347","L2","17.3","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"348","L2","17.35","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"349","L2","17.4","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"350","L2","17.45","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"351","L2","17.5","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"352","L2","17.55","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"353","L2","17.6","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"354","L2","17.65","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"355","L2","17.7","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"356","L2","17.75","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"357","L2","17.8","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"358","L2","17.85","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"359","L2","17.9","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"360","L2","17.95","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"361","L2","18","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"362","L2","18.05","Marna argillosa grigio verdastra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"363","L2","18.1","Marna argillosa grigio verdastra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"364","L2","18.15","Marna argillosa grigio verdastra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"365","L2","18.2","Marna argillosa grigio verdastra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"366","L2","18.25","Marna argillosa grigio verdastra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"367","L2","18.3","Marna argillosa grigio verdastra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"368","L2","18.35","Marna argillosa grigio verdastra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"369","L2","18.4","Marna argillosa grigio verdastra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"370","L2","18.45","Marna argillosa grigio verdastra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"371","L2","18.5","Marna argillosa grigio verdastra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"372","L2","18.55","Marna argillosa grigio verdastra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"373","L2","18.6","Marna argillosa grigio verdastra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"374","L2","18.65","Marna argillosa grigio verdastra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"375","L2","18.7","Marna argillosa grigio verdastra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"376","L2","18.75","Marna argillosa grigio verdastra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"377","L2","18.8","Marna argillosa grigio verdastra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"378","L2","18.85","Marna argillosa grigio verdastra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"379","L2","18.9","Marna argillosa grigio verdastra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"380","L2","18.95","Marna argillosa grigio verdastra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"381","L2","19","Marna argillosa grigio verdastra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"382","L2","19.05","Marna argillosa grigio verdastra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"383","L2","19.1","Marna argillosa grigio verdastra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"384","L2","19.15","Marna argillosa grigio verdastra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"385","L2","19.2","Marna argillosa grigio verdastra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"386","L2","19.25","Marna argillosa grigio verdastra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"387","L2","19.3","Marna argillosa grigio verdastra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"388","L2","19.35","Marna argillosa grigio verdastra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"389","L2","19.4","Marna argillosa grigio verdastra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"390","L2","19.45","Marna argillosa grigio verdastra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"391","L2","19.5","Marna argillosa grigio verdastra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"392","L2","19.55","Marna argillosa grigio verdastra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"393","L2","19.6","Marna argillosa grigio verdastra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"394","L2","19.65","Marna argillosa grigio verdastra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"395","L2","19.7","Marna argillosa grigio verdastra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"396","L2","19.75","Marna argillosa grigio verdastra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"397","L2","19.8","Marna argillosa grigio verdastra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"398","L2","19.85","Marna argillosa grigio verdastra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"399","L2","19.9","Marna argillosa grigio verdastra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"400","L2","19.95","Marna argillosa grigio verdastra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"401","L2","20","Marna argillosa grigio verdastra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"402","L2","20.05","Argilla marnosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"403","L2","20.1","Argilla marnosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"404","L2","20.15","Argilla marnosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"405","L2","20.2","Argilla marnosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"406","L2","20.25","Argilla marnosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"407","L2","20.3","Argilla marnosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"408","L2","20.35","Argilla marnosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"409","L2","20.4","Argilla marnosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"410","L2","20.45","Argilla marnosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"411","L2","20.5","Argilla marnosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"412","L2","20.55","Argilla marnosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"413","L2","20.6","Argilla marnosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"414","L2","20.65","Argilla marnosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"415","L2","20.7","Argilla marnosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"416","L2","20.75","Argilla marnosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"417","L2","20.8","Argilla marnosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"418","L2","20.85","Argilla marnosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"419","L2","20.9","Argilla marnosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"420","L2","20.95","Argilla marnosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"421","L2","21","Argilla marnosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"422","L2","21.05","Argilla marnosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"423","L2","21.1","Argilla marnosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"424","L2","21.15","Argilla marnosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"425","L2","21.2","Argilla marnosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"426","L2","21.25","Argilla marnosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"427","L2","21.3","Argilla marnosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"428","L2","21.35","Argilla marnosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"429","L2","21.4","Argilla marnosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"430","L2","21.45","Argilla marnosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"431","L2","21.5","Argilla marnosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"432","L2","21.55","Argilla marnosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"433","L2","21.6","Argilla marnosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"434","L2","21.65","Argilla marnosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"435","L2","21.7","Argilla marnosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"436","L2","21.75","Argilla marnosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"437","L2","21.8","Argilla marnosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"438","L2","21.85","Argilla marnosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"439","L2","21.9","Argilla marnosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"440","L2","21.95","Argilla marnosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"441","L2","22","Argilla marnosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"442","L2","22.05","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"443","L2","22.1","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"444","L2","22.15","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"445","L2","22.2","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"446","L2","22.25","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"447","L2","22.3","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"448","L2","22.35","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"449","L2","22.4","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"450","L2","22.45","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"451","L2","22.5","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"452","L2","22.55","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"453","L2","22.6","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"454","L2","22.65","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"455","L2","22.7","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"456","L2","22.75","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"457","L2","22.8","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"458","L2","22.85","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"459","L2","22.9","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"460","L2","22.95","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"461","L2","23","Calcarenite stratificata, spesso intensamente fratturata, talora presenza di livelli argillosi-sabbiosi.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"462","L2","23.05","Marna argillosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"463","L2","23.1","Marna argillosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"464","L2","23.15","Marna argillosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"465","L2","23.2","Marna argillosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"466","L2","23.25","Marna argillosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"467","L2","23.3","Marna argillosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"468","L2","23.35","Marna argillosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"469","L2","23.4","Marna argillosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"470","L2","23.45","Marna argillosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"471","L2","23.5","Marna argillosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"472","L2","23.55","Marna argillosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"473","L2","23.6","Marna argillosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"474","L2","23.65","Marna argillosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"475","L2","23.7","Marna argillosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"476","L2","23.75","Marna argillosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"477","L2","23.8","Marna argillosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"478","L2","23.85","Marna argillosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"479","L2","23.9","Marna argillosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"480","L2","23.95","Marna argillosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"481","L2","24","Marna argillosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"482","L2","24.05","Marna argillosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"483","L2","24.1","Marna argillosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"484","L2","24.15","Marna argillosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"485","L2","24.2","Marna argillosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"486","L2","24.25","Marna argillosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"487","L2","24.3","Marna argillosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"488","L2","24.35","Marna argillosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"489","L2","24.4","Marna argillosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"490","L2","24.45","Marna argillosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"491","L2","24.5","Marna argillosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"492","L2","24.55","Marna argillosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"493","L2","24.6","Marna argillosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"494","L2","24.65","Marna argillosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"495","L2","24.7","Marna argillosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"496","L2","24.75","Marna argillosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"497","L2","24.8","Marna argillosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"498","L2","24.85","Marna argillosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"499","L2","24.9","Marna argillosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"500","L2","24.95","Marna argillosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"501","L2","25","Marna argillosa grigio azzurra.","2b","1","Troncone","24.000",528658.189,4566481.29,588
+"502","L2","25","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"503","L2","25.05","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"504","L2","25.1","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"505","L2","25.15","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"506","L2","25.2","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"507","L2","25.25","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"508","L2","25.3","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"509","L2","25.35","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"510","L2","25.4","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"511","L2","25.45","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"512","L2","25.5","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"513","L2","25.55","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"514","L2","25.6","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"515","L2","25.65","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"516","L2","25.7","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"517","L2","25.75","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"518","L2","25.8","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"519","L2","25.85","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"520","L2","25.9","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"521","L2","25.95","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"522","L2","26","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"523","L2","26.05","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"524","L2","26.1","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"525","L2","26.15","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"526","L2","26.2","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"527","L2","26.25","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"528","L2","26.3","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"529","L2","26.35","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"530","L2","26.4","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"531","L2","26.45","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"532","L2","26.5","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"533","L2","26.55","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"534","L2","26.6","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"535","L2","26.65","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"536","L2","26.7","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"537","L2","26.75","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"538","L2","26.8","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"539","L2","26.85","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"540","L2","26.9","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"541","L2","26.95","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"542","L2","27","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"543","L2","27.05","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"544","L2","27.1","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"545","L2","27.15","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"546","L2","27.2","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"547","L2","27.25","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"548","L2","27.3","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"549","L2","27.35","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"550","L2","27.4","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"551","L2","27.45","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"552","L2","27.5","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"553","L2","27.55","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"554","L2","27.6","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"555","L2","27.65","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"556","L2","27.7","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"557","L2","27.75","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"558","L2","27.8","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"559","L2","27.85","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"560","L2","27.9","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"561","L2","27.95","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"562","L2","28","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"563","L2","28.05","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"564","L2","28.1","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"565","L2","28.15","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"566","L2","28.2","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"567","L2","28.25","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"568","L2","28.3","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"569","L2","28.35","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"570","L2","28.4","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"571","L2","28.45","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"572","L2","28.5","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"573","L2","28.55","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"574","L2","28.6","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"575","L2","28.65","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"576","L2","28.7","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"577","L2","28.75","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"578","L2","28.8","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"579","L2","28.85","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"580","L2","28.9","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"581","L2","28.95","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"582","L2","29","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"583","L2","29.05","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"584","L2","29.1","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"585","L2","29.15","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"586","L2","29.2","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"587","L2","29.25","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"588","L2","29.3","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"589","L2","29.35","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"590","L2","29.4","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"591","L2","29.45","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"592","L2","29.5","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"593","L2","29.55","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"594","L2","29.6","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"595","L2","29.65","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"596","L2","29.7","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"597","L2","29.75","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"598","L2","29.8","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"599","L2","29.85","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"600","L2","29.9","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"601","L2","29.95","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"602","L2","30","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"603","L2","30.05","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"604","L2","30.1","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"605","L2","30.15","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"606","L2","30.2","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"607","L2","30.25","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"608","L2","30.3","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"609","L2","30.35","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"610","L2","30.4","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"611","L2","30.45","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"612","L2","30.5","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"613","L2","30.55","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"614","L2","30.6","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"615","L2","30.65","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"616","L2","30.7","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"617","L2","30.75","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"618","L2","30.8","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"619","L2","30.85","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"620","L2","30.9","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"621","L2","30.95","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"622","L2","31","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"623","L2","31.05","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"624","L2","31.1","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"625","L2","31.15","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"626","L2","31.2","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"627","L2","31.25","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"628","L2","31.3","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"629","L2","31.35","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"630","L2","31.4","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"631","L2","31.45","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"632","L2","31.5","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"633","L2","31.55","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"634","L2","31.6","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"635","L2","31.65","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"636","L2","31.7","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"637","L2","31.75","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"638","L2","31.8","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"639","L2","31.85","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"640","L2","31.9","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"641","L2","31.95","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"642","L2","32","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"643","L2","32.05","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"644","L2","32.1","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"645","L2","32.15","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"646","L2","32.2","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"647","L2","32.25","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"648","L2","32.3","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"649","L2","32.35","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"650","L2","32.4","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"651","L2","32.45","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"652","L2","32.5","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"653","L2","32.55","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"654","L2","32.6","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"655","L2","32.65","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"656","L2","32.7","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"657","L2","32.75","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"658","L2","32.8","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"659","L2","32.85","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"660","L2","32.9","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"661","L2","32.95","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"662","L2","33","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"663","L2","33.05","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"664","L2","33.1","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"665","L2","33.15","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"666","L2","33.2","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"667","L2","33.25","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"668","L2","33.3","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"669","L2","33.35","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"670","L2","33.4","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"671","L2","33.45","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"672","L2","33.5","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"673","L2","33.55","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"674","L2","33.6","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"675","L2","33.65","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"676","L2","33.7","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"677","L2","33.75","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"678","L2","33.8","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"679","L2","33.85","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"680","L2","33.9","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"681","L2","33.95","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"682","L2","34","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"683","L2","34.05","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"684","L2","34.1","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"685","L2","34.15","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"686","L2","34.2","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"687","L2","34.25","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"688","L2","34.3","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"689","L2","34.35","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"690","L2","34.4","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"691","L2","34.45","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"692","L2","34.5","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"693","L2","34.55","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"694","L2","34.6","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"695","L2","34.65","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"696","L2","34.7","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"697","L2","34.75","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"698","L2","34.8","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"699","L2","34.85","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"700","L2","34.9","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"701","L2","34.95","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"702","L2","35","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"703","L2","35.05","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"704","L2","35.1","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"705","L2","35.15","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"706","L2","35.2","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"707","L2","35.25","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"708","L2","35.3","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"709","L2","35.35","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"710","L2","35.4","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"711","L2","35.45","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"712","L2","35.5","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"713","L2","35.55","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"714","L2","35.6","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"715","L2","35.65","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"716","L2","35.7","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"717","L2","35.75","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"718","L2","35.8","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"719","L2","35.85","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"720","L2","35.9","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"721","L2","35.95","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"722","L2","36","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"723","L2","36.05","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"724","L2","36.1","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"725","L2","36.15","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"726","L2","36.2","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"727","L2","36.25","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"728","L2","36.3","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"729","L2","36.35","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"730","L2","36.4","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"731","L2","36.45","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"732","L2","36.5","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"733","L2","36.55","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"734","L2","36.6","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"735","L2","36.65","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"736","L2","36.7","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"737","L2","36.75","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"738","L2","36.8","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"739","L2","36.85","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"740","L2","36.9","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"741","L2","36.95","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"742","L2","37","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"743","L2","37.05","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"744","L2","37.1","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"745","L2","37.15","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"746","L2","37.2","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"747","L2","37.25","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"748","L2","37.3","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"749","L2","37.35","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"750","L2","37.4","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"751","L2","37.45","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"752","L2","37.5","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"753","L2","37.55","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"754","L2","37.6","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"755","L2","37.65","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"756","L2","37.7","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"757","L2","37.75","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"758","L2","37.8","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"759","L2","37.85","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"760","L2","37.9","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"761","L2","37.95","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"762","L2","38","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"763","L2","38.05","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"764","L2","38.1","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"765","L2","38.15","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"766","L2","38.2","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"767","L2","38.25","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"768","L2","38.3","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"769","L2","38.35","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"770","L2","38.4","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"771","L2","38.45","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"772","L2","38.5","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"773","L2","38.55","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"774","L2","38.6","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"775","L2","38.65","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"776","L2","38.7","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"777","L2","38.75","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"778","L2","38.8","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"779","L2","38.85","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"780","L2","38.9","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"781","L2","38.95","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"782","L2","39","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"783","L2","39.05","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"784","L2","39.1","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"785","L2","39.15","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"786","L2","39.2","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"787","L2","39.25","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"788","L2","39.3","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"789","L2","39.35","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"790","L2","39.4","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"791","L2","39.45","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"792","L2","39.5","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"793","L2","39.55","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"794","L2","39.6","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"795","L2","39.65","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"796","L2","39.7","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"797","L2","39.75","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"798","L2","39.8","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"799","L2","39.85","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"800","L2","39.9","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"801","L2","39.95","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"802","L2","40","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"803","L2","40.05","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"804","L2","40.1","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"805","L2","40.15","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"806","L2","40.2","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"807","L2","40.25","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"808","L2","40.3","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"809","L2","40.35","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"810","L2","40.4","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"811","L2","40.45","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"812","L2","40.5","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"813","L2","40.55","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"814","L2","40.6","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"815","L2","40.65","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"816","L2","40.7","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"817","L2","40.75","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"818","L2","40.8","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"819","L2","40.85","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"820","L2","40.9","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"821","L2","40.95","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"822","L2","41","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"823","L2","41.05","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"824","L2","41.1","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"825","L2","41.15","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"826","L2","41.2","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"827","L2","41.25","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"828","L2","41.3","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"829","L2","41.35","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"830","L2","41.4","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"831","L2","41.45","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"832","L2","41.5","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"833","L2","41.55","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"834","L2","41.6","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"835","L2","41.65","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"836","L2","41.7","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"837","L2","41.75","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"838","L2","41.8","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"839","L2","41.85","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"840","L2","41.9","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"841","L2","41.95","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"842","L2","42","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"843","L2","42.05","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"844","L2","42.1","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"845","L2","42.15","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"846","L2","42.2","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"847","L2","42.25","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"848","L2","42.3","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"849","L2","42.35","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"850","L2","42.4","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"851","L2","42.45","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"852","L2","42.5","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"853","L2","42.55","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"854","L2","42.6","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"855","L2","42.65","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"856","L2","42.7","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"857","L2","42.75","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"858","L2","42.8","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"859","L2","42.85","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"860","L2","42.9","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"861","L2","42.95","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"862","L2","43","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"863","L2","43.05","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"864","L2","43.1","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"865","L2","43.15","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"866","L2","43.2","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"867","L2","43.25","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"868","L2","43.3","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"869","L2","43.35","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"870","L2","43.4","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"871","L2","43.45","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"872","L2","43.5","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"873","L2","43.55","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"874","L2","43.6","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"875","L2","43.65","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"876","L2","43.7","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"877","L2","43.75","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"878","L2","43.8","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"879","L2","43.85","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"880","L2","43.9","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"881","L2","43.95","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"882","L2","44","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"883","L2","44.05","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"884","L2","44.1","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"885","L2","44.15","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"886","L2","44.2","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"887","L2","44.25","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"888","L2","44.3","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"889","L2","44.35","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"890","L2","44.4","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"891","L2","44.45","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"892","L2","44.5","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"893","L2","44.55","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"894","L2","44.6","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"895","L2","44.65","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"896","L2","44.7","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"897","L2","44.75","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"898","L2","44.8","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"899","L2","44.85","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"900","L2","44.9","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"901","L2","44.95","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"902","L2","45","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"903","L2","45.05","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"904","L2","45.1","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"905","L2","45.15","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"906","L2","45.2","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"907","L2","45.25","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"908","L2","45.3","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"909","L2","45.35","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"910","L2","45.4","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"911","L2","45.45","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"912","L2","45.5","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"913","L2","45.55","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"914","L2","45.6","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"915","L2","45.65","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"916","L2","45.7","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"917","L2","45.75","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"918","L2","45.8","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"919","L2","45.85","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"920","L2","45.9","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"921","L2","45.95","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"922","L2","46","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"923","L2","46.05","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"924","L2","46.1","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"925","L2","46.15","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"926","L2","46.2","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"927","L2","46.25","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"928","L2","46.3","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"929","L2","46.35","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"930","L2","46.4","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"931","L2","46.45","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"932","L2","46.5","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"933","L2","46.55","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"934","L2","46.6","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"935","L2","46.65","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"936","L2","46.7","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"937","L2","46.75","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"938","L2","46.8","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"939","L2","46.85","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"940","L2","46.9","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"941","L2","46.95","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"942","L2","47","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"943","L2","47.05","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"944","L2","47.1","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"945","L2","47.15","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"946","L2","47.2","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"947","L2","47.25","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"948","L2","47.3","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"949","L2","47.35","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"950","L2","47.4","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"951","L2","47.45","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"952","L2","47.5","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"953","L2","47.55","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"954","L2","47.6","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"955","L2","47.65","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"956","L2","47.7","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"957","L2","47.75","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"958","L2","47.8","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"959","L2","47.85","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"960","L2","47.9","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"961","L2","47.95","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"962","L2","48","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"963","L2","48.05","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"964","L2","48.1","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"965","L2","48.15","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"966","L2","48.2","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"967","L2","48.25","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"968","L2","48.3","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"969","L2","48.35","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"970","L2","48.4","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"971","L2","48.45","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"972","L2","48.5","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"973","L2","48.55","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"974","L2","48.6","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"975","L2","48.65","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"976","L2","48.7","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"977","L2","48.75","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"978","L2","48.8","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"979","L2","48.85","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"980","L2","48.9","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"981","L2","48.95","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"982","L2","49","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"983","L2","49.05","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"984","L2","49.1","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"985","L2","49.15","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"986","L2","49.2","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"987","L2","49.25","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"988","L2","49.3","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"989","L2","49.35","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"990","L2","49.4","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"991","L2","49.45","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"992","L2","49.5","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"993","L2","49.55","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"994","L2","49.6","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"995","L2","49.65","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"996","L2","49.7","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"997","L2","49.75","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"998","L2","49.8","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"999","L2","49.85","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1000","L2","49.9","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1001","L2","49.95","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1002","L2","50","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1003","L2","50.05","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1004","L2","50.1","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1005","L2","50.15","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1006","L2","50.2","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1007","L2","50.25","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1008","L2","50.3","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1009","L2","50.35","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1010","L2","50.4","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1011","L2","50.45","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1012","L2","50.5","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1013","L2","50.55","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1014","L2","50.6","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1015","L2","50.65","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1016","L2","50.7","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1017","L2","50.75","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1018","L2","50.8","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1019","L2","50.85","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1020","L2","50.9","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1021","L2","50.95","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1022","L2","51","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1023","L2","51.05","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1024","L2","51.1","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1025","L2","51.15","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1026","L2","51.2","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1027","L2","51.25","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1028","L2","51.3","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1029","L2","51.35","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1030","L2","51.4","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1031","L2","51.45","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1032","L2","51.5","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1033","L2","51.55","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1034","L2","51.6","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1035","L2","51.65","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1036","L2","51.7","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1037","L2","51.75","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1038","L2","51.8","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1039","L2","51.85","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1040","L2","51.9","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1041","L2","51.95","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1042","L2","52","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1043","L2","52.05","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1044","L2","52.1","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1045","L2","52.15","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1046","L2","52.2","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1047","L2","52.25","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1048","L2","52.3","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1049","L2","52.35","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1050","L2","52.4","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1051","L2","52.45","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1052","L2","52.5","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1053","L2","52.55","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1054","L2","52.6","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1055","L2","52.65","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1056","L2","52.7","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1057","L2","52.75","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1058","L2","52.8","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1059","L2","52.85","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1060","L2","52.9","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1061","L2","52.95","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1062","L2","53","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1063","L2","53.05","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1064","L2","53.1","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1065","L2","53.15","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1066","L2","53.2","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1067","L2","53.25","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1068","L2","53.3","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1069","L2","53.35","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1070","L2","53.4","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1071","L2","53.45","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1072","L2","53.5","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1073","L2","53.55","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1074","L2","53.6","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1075","L2","53.65","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1076","L2","53.7","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1077","L2","53.75","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1078","L2","53.8","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1079","L2","53.85","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1080","L2","53.9","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1081","L2","53.95","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1082","L2","54","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1083","L2","54.05","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1084","L2","54.1","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1085","L2","54.15","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1086","L2","54.2","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1087","L2","54.25","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1088","L2","54.3","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1089","L2","54.35","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1090","L2","54.4","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1091","L2","54.45","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1092","L2","54.5","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1093","L2","54.55","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1094","L2","54.6","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1095","L2","54.65","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1096","L2","54.7","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1097","L2","54.75","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1098","L2","54.8","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1099","L2","54.85","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1100","L2","54.9","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1101","L2","54.95","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1102","L2","55","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1103","L2","55.05","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1104","L2","55.1","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1105","L2","55.15","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1106","L2","55.2","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1107","L2","55.25","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1108","L2","55.3","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1109","L2","55.35","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1110","L2","55.4","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1111","L2","55.45","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1112","L2","55.5","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1113","L2","55.55","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1114","L2","55.6","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1115","L2","55.65","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1116","L2","55.7","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1117","L2","55.75","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1118","L2","55.8","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1119","L2","55.85","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1120","L2","55.9","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1121","L2","55.95","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1122","L2","56","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1123","L2","56.05","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1124","L2","56.1","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1125","L2","56.15","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1126","L2","56.2","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1127","L2","56.25","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1128","L2","56.3","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1129","L2","56.35","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1130","L2","56.4","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1131","L2","56.45","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1132","L2","56.5","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1133","L2","56.55","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1134","L2","56.6","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1135","L2","56.65","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1136","L2","56.7","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1137","L2","56.75","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1138","L2","56.8","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1139","L2","56.85","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1140","L2","56.9","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1141","L2","56.95","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1142","L2","57","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1143","L2","57.05","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1144","L2","57.1","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1145","L2","57.15","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1146","L2","57.2","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1147","L2","57.25","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1148","L2","57.3","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1149","L2","57.35","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1150","L2","57.4","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1151","L2","57.45","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1152","L2","57.5","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1153","L2","57.55","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1154","L2","57.6","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1155","L2","57.65","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1156","L2","57.7","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1157","L2","57.75","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1158","L2","57.8","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1159","L2","57.85","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1160","L2","57.9","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1161","L2","57.95","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1162","L2","58","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1163","L2","58.05","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1164","L2","58.1","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1165","L2","58.15","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1166","L2","58.2","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1167","L2","58.25","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1168","L2","58.3","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1169","L2","58.35","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1170","L2","58.4","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1171","L2","58.45","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1172","L2","58.5","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1173","L2","58.55","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1174","L2","58.6","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1175","L2","58.65","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1176","L2","58.7","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1177","L2","58.75","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1178","L2","58.8","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1179","L2","58.85","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1180","L2","58.9","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1181","L2","58.95","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1182","L2","59","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1183","L2","59.05","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1184","L2","59.1","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1185","L2","59.15","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1186","L2","59.2","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1187","L2","59.25","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1188","L2","59.3","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1189","L2","59.35","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1190","L2","59.4","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1191","L2","59.45","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1192","L2","59.5","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1193","L2","59.55","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1194","L2","59.6","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1195","L2","59.65","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1196","L2","59.7","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1197","L2","59.75","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1198","L2","59.8","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1199","L2","59.85","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1200","L2","59.9","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1201","L2","59.95","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1202","L2","60","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1203","L2","60.05","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1204","L2","60.1","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1205","L2","60.15","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1206","L2","60.2","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1207","L2","60.25","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1208","L2","60.3","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1209","L2","60.35","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1210","L2","60.4","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1211","L2","60.45","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1212","L2","60.5","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1213","L2","60.55","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1214","L2","60.6","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1215","L2","60.65","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1216","L2","60.7","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1217","L2","60.75","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1218","L2","60.8","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1219","L2","60.85","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1220","L2","60.9","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1221","L2","60.95","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1222","L2","61","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1223","L2","61.05","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1224","L2","61.1","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1225","L2","61.15","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1226","L2","61.2","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1227","L2","61.25","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1228","L2","61.3","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1229","L2","61.35","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1230","L2","61.4","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1231","L2","61.45","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1232","L2","61.5","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1233","L2","61.55","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1234","L2","61.6","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1235","L2","61.65","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1236","L2","61.7","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1237","L2","61.75","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1238","L2","61.8","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1239","L2","61.85","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1240","L2","61.9","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1241","L2","61.95","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1242","L2","62","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1243","L2","62.05","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1244","L2","62.1","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1245","L2","62.15","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1246","L2","62.2","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1247","L2","62.25","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1248","L2","62.3","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1249","L2","62.35","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1250","L2","62.4","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1251","L2","62.45","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1252","L2","62.5","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1253","L2","62.55","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1254","L2","62.6","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1255","L2","62.65","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1256","L2","62.7","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1257","L2","62.75","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1258","L2","62.8","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1259","L2","62.85","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1260","L2","62.9","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1261","L2","62.95","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1262","L2","63","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1263","L2","63.05","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1264","L2","63.1","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1265","L2","63.15","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1266","L2","63.2","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1267","L2","63.25","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1268","L2","63.3","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1269","L2","63.35","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1270","L2","63.4","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1271","L2","63.45","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1272","L2","63.5","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1273","L2","63.55","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1274","L2","63.6","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1275","L2","63.65","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1276","L2","63.7","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1277","L2","63.75","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1278","L2","63.8","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1279","L2","63.85","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1280","L2","63.9","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1281","L2","63.95","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1282","L2","64","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1283","L2","64.05","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1284","L2","64.1","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1285","L2","64.15","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1286","L2","64.2","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1287","L2","64.25","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1288","L2","64.3","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1289","L2","64.35","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1290","L2","64.4","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1291","L2","64.45","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1292","L2","64.5","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1293","L2","64.55","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1294","L2","64.6","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1295","L2","64.65","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1296","L2","64.7","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1297","L2","64.75","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1298","L2","64.8","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1299","L2","64.85","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1300","L2","64.9","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1301","L2","64.95","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1302","L2","65","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1303","L2","65.05","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1304","L2","65.1","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1305","L2","65.15","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1306","L2","65.2","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1307","L2","65.25","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1308","L2","65.3","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1309","L2","65.35","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1310","L2","65.4","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1311","L2","65.45","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1312","L2","65.5","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1313","L2","65.55","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1314","L2","65.6","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1315","L2","65.65","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1316","L2","65.7","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1317","L2","65.75","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1318","L2","65.8","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1319","L2","65.85","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1320","L2","65.9","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1321","L2","65.95","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1322","L2","66","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1323","L2","66.05","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1324","L2","66.1","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1325","L2","66.15","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1326","L2","66.2","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1327","L2","66.25","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1328","L2","66.3","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1329","L2","66.35","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1330","L2","66.4","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1331","L2","66.45","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1332","L2","66.5","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1333","L2","66.55","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1334","L2","66.6","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1335","L2","66.65","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1336","L2","66.7","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1337","L2","66.75","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1338","L2","66.8","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1339","L2","66.85","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1340","L2","66.9","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1341","L2","66.95","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1342","L2","67","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1343","L2","67.05","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1344","L2","67.1","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1345","L2","67.15","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1346","L2","67.2","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1347","L2","67.25","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1348","L2","67.3","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1349","L2","67.35","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1350","L2","67.4","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1351","L2","67.45","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1352","L2","67.5","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1353","L2","67.55","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1354","L2","67.6","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1355","L2","67.65","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1356","L2","67.7","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1357","L2","67.75","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1358","L2","67.8","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1359","L2","67.85","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1360","L2","67.9","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1361","L2","67.95","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1362","L2","68","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1363","L2","68.05","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1364","L2","68.1","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1365","L2","68.15","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1366","L2","68.2","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1367","L2","68.25","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1368","L2","68.3","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1369","L2","68.35","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1370","L2","68.4","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1371","L2","68.45","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1372","L2","68.5","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1373","L2","68.55","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1374","L2","68.6","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1375","L2","68.65","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1376","L2","68.7","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1377","L2","68.75","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1378","L2","68.8","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1379","L2","68.85","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1380","L2","68.9","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1381","L2","68.95","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1382","L2","69","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1383","L2","69.05","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1384","L2","69.1","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1385","L2","69.15","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1386","L2","69.2","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1387","L2","69.25","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1388","L2","69.3","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1389","L2","69.35","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1390","L2","69.4","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1391","L2","69.45","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1392","L2","69.5","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1393","L2","69.55","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1394","L2","69.6","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1395","L2","69.65","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1396","L2","69.7","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1397","L2","69.75","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1398","L2","69.8","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1399","L2","69.85","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1400","L2","69.9","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1401","L2","69.95","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1402","L2","70","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1403","L2","70.05","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1404","L2","70.1","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1405","L2","70.15","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1406","L2","70.2","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1407","L2","70.25","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1408","L2","70.3","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1409","L2","70.35","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1410","L2","70.4","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1411","L2","70.45","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1412","L2","70.5","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1413","L2","70.55","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1414","L2","70.6","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1415","L2","70.65","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1416","L2","70.7","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1417","L2","70.75","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1418","L2","70.8","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1419","L2","70.85","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1420","L2","70.9","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1421","L2","70.95","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1422","L2","71","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1423","L2","71.05","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1424","L2","71.1","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1425","L2","71.15","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1426","L2","71.2","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1427","L2","71.25","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1428","L2","71.3","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1429","L2","71.35","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1430","L2","71.4","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1431","L2","71.45","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1432","L2","71.5","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1433","L2","71.55","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1434","L2","71.6","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1435","L2","71.65","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1436","L2","71.7","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1437","L2","71.75","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1438","L2","71.8","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1439","L2","71.85","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1440","L2","71.9","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1441","L2","71.95","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1442","L2","72","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1443","L2","72.05","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1444","L2","72.1","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1445","L2","72.15","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1446","L2","72.2","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1447","L2","72.25","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1448","L2","72.3","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1449","L2","72.35","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1450","L2","72.4","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1451","L2","72.45","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1452","L2","72.5","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1453","L2","72.55","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1454","L2","72.6","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1455","L2","72.65","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1456","L2","72.7","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1457","L2","72.75","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1458","L2","72.8","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1459","L2","72.85","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1460","L2","72.9","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1461","L2","72.95","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1462","L2","73","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1463","L2","73.05","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1464","L2","73.1","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1465","L2","73.15","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1466","L2","73.2","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1467","L2","73.25","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1468","L2","73.3","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1469","L2","73.35","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1470","L2","73.4","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1471","L2","73.45","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1472","L2","73.5","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1473","L2","73.55","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1474","L2","73.6","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1475","L2","73.65","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1476","L2","73.7","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1477","L2","73.75","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1478","L2","73.8","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1479","L2","73.85","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1480","L2","73.9","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1481","L2","73.95","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1482","L2","74","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1483","L2","74.05","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1484","L2","74.1","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1485","L2","74.15","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1486","L2","74.2","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1487","L2","74.25","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1488","L2","74.3","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1489","L2","74.35","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1490","L2","74.4","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1491","L2","74.45","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1492","L2","74.5","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1493","L2","74.55","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1494","L2","74.6","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1495","L2","74.65","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1496","L2","74.7","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1497","L2","74.75","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1498","L2","74.8","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1499","L2","74.85","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1500","L2","74.9","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1501","L2","74.95","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1502","L2","75","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1503","L2","75.05","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1504","L2","75.1","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1505","L2","75.15","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1506","L2","75.2","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1507","L2","75.25","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1508","L2","75.3","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1509","L2","75.35","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1510","L2","75.4","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1511","L2","75.45","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1512","L2","75.5","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1513","L2","75.55","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1514","L2","75.6","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1515","L2","75.65","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1516","L2","75.7","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1517","L2","75.75","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1518","L2","75.8","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1519","L2","75.85","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1520","L2","75.9","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1521","L2","75.95","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1522","L2","76","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1523","L2","76.05","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1524","L2","76.1","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1525","L2","76.15","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1526","L2","76.2","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1527","L2","76.25","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1528","L2","76.3","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1529","L2","76.35","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1530","L2","76.4","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1531","L2","76.45","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1532","L2","76.5","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1533","L2","76.55","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1534","L2","76.6","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1535","L2","76.65","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588
+"1536","L2","76.7","Marna argillosa grigio azzurra.","2b","0","Troncone","24.000",528658.189,4566481.29,588

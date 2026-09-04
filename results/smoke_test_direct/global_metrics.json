@@ -1,0 +1,109 @@
+{
+  "num_boreholes": 1,
+  "num_total_tokens": 48,
+  "num_valid_tokens": 26,
+  "num_eval_tokens": 26,
+  "accuracy": 0.19230769230769232,
+  "kappa": -0.018656716417910335,
+  "nll": 1.5238807948819342,
+  "brier": 0.767961025253249,
+  "ece": 0.11584534381444635,
+  "mean_confidence": 0.3081530361221387,
+  "mean_total_uncertainty": 1.6266988011506887,
+  "mean_aleatoric_uncertainty": 1.60737040409675,
+  "mean_epistemic_uncertainty": 0.019328397053938604,
+  "mean_total_uncertainty_correct": 1.6137437343597412,
+  "mean_total_uncertainty_error": 1.629783340862819,
+  "mean_epistemic_uncertainty_correct": 0.02175421714782712,
+  "mean_epistemic_uncertainty_error": 0.018750820841108004,
+  "error_auroc_total_uncertainty": 0.657142857142857,
+  "error_auprc_total_uncertainty": 0.9127229588501053,
+  "error_auroc_epistemic": 0.33333333333333326,
+  "error_auprc_epistemic": 0.777925454878948,
+  "confusion_matrix": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      4,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      12,
+      1,
+      7,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "accuracy_at_100pct_coverage": 0.19230769230769232,
+  "risk_at_100pct_coverage": 0.8076923076923077,
+  "accuracy_at_95pct_coverage": 0.2,
+  "risk_at_95pct_coverage": 0.8,
+  "accuracy_at_90pct_coverage": 0.20833333333333334,
+  "risk_at_90pct_coverage": 0.7916666666666666,
+  "accuracy_at_80pct_coverage": 0.23809523809523808,
+  "risk_at_80pct_coverage": 0.7619047619047619,
+  "accuracy_at_70pct_coverage": 0.2631578947368421,
+  "risk_at_70pct_coverage": 0.736842105263158,
+  "accuracy_at_50pct_coverage": 0.3076923076923077,
+  "risk_at_50pct_coverage": 0.6923076923076923,
+  "aurc": 0.7242238589747572,
+  "classwise": {
+    "Elu (4)": {
+      "support": 1,
+      "accuracy": 0.0,
+      "mean_confidence": 0.3011705577373504,
+      "mean_total_uncertainty": 1.632943630218506,
+      "mean_epistemic_uncertainty": 0.0142912864685058
+    },
+    "Debris (3)": {
+      "support": 5,
+      "accuracy": 0.8,
+      "mean_confidence": 0.3236961901187897,
+      "mean_total_uncertainty": 1.6133372068405152,
+      "mean_epistemic_uncertainty": 0.0174929618835449
+    },
+    "Transitional Flysch (2b)": {
+      "support": 20,
+      "accuracy": 0.05,
+      "mean_confidence": 0.3046163715422153,
+      "mean_total_uncertainty": 1.6297269582748413,
+      "mean_epistemic_uncertainty": 0.020039111375808667
+    }
+  }
+}

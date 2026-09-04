@@ -1,0 +1,1537 @@
+"","borehole","Depth","Description","Unit","Valid","campaign","DEPTH","x","y","z"
+"1","U3","0","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"2","U3","0.05","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"3","U3","0.1","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"4","U3","0.15","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"5","U3","0.2","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"6","U3","0.25","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"7","U3","0.3","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"8","U3","0.35","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"9","U3","0.4","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"10","U3","0.45","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"11","U3","0.5","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"12","U3","0.55","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"13","U3","0.6","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"14","U3","0.65","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"15","U3","0.7","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"16","U3","0.75","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"17","U3","0.8","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"18","U3","0.85","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"19","U3","0.9","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"20","U3","0.95","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"21","U3","1","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"22","U3","1.05","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"23","U3","1.1","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"24","U3","1.15","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"25","U3","1.2","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"26","U3","1.25","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"27","U3","1.3","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"28","U3","1.35","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"29","U3","1.4","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"30","U3","1.45","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"31","U3","1.5","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"32","U3","1.55","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"33","U3","1.6","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"34","U3","1.65","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"35","U3","1.7","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"36","U3","1.75","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"37","U3","1.8","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"38","U3","1.85","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"39","U3","1.9","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"40","U3","1.95","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"41","U3","2","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"42","U3","2.05","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"43","U3","2.1","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"44","U3","2.15","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"45","U3","2.2","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"46","U3","2.25","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"47","U3","2.3","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"48","U3","2.35","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"49","U3","2.4","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"50","U3","2.45","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"51","U3","2.5","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"52","U3","2.55","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"53","U3","2.6","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"54","U3","2.65","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"55","U3","2.7","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"56","U3","2.75","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"57","U3","2.8","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"58","U3","2.85","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"59","U3","2.9","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"60","U3","2.95","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"61","U3","3","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"62","U3","3.05","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"63","U3","3.1","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"64","U3","3.15","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"65","U3","3.2","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"66","U3","3.25","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"67","U3","3.3","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"68","U3","3.35","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"69","U3","3.4","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"70","U3","3.45","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"71","U3","3.5","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"72","U3","3.55","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"73","U3","3.6","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"74","U3","3.65","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"75","U3","3.7","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"76","U3","3.75","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"77","U3","3.8","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"78","U3","3.85","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"79","U3","3.9","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"80","U3","3.95","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"81","U3","4","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"82","U3","4.05","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"83","U3","4.1","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"84","U3","4.15","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"85","U3","4.2","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"86","U3","4.25","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"87","U3","4.3","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"88","U3","4.35","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"89","U3","4.4","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"90","U3","4.45","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"91","U3","4.5","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"92","U3","4.55","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"93","U3","4.6","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"94","U3","4.65","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"95","U3","4.7","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"96","U3","4.75","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"97","U3","4.8","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"98","U3","4.85","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"99","U3","4.9","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"100","U3","4.95","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"101","U3","5","Terreno.","T","1","Rampino","30",528329.4958,4565933.303,552
+"102","U3","5.05","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"103","U3","5.1","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"104","U3","5.15","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"105","U3","5.2","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"106","U3","5.25","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"107","U3","5.3","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"108","U3","5.35","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"109","U3","5.4","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"110","U3","5.45","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"111","U3","5.5","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"112","U3","5.55","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"113","U3","5.6","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"114","U3","5.65","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"115","U3","5.7","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"116","U3","5.75","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"117","U3","5.8","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"118","U3","5.85","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"119","U3","5.9","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"120","U3","5.95","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"121","U3","6","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"122","U3","6.05","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"123","U3","6.1","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"124","U3","6.15","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"125","U3","6.2","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"126","U3","6.25","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"127","U3","6.3","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"128","U3","6.35","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"129","U3","6.4","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"130","U3","6.45","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"131","U3","6.5","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"132","U3","6.55","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"133","U3","6.6","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"134","U3","6.65","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"135","U3","6.7","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"136","U3","6.75","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"137","U3","6.8","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"138","U3","6.85","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"139","U3","6.9","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"140","U3","6.95","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"141","U3","7","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"142","U3","7.05","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"143","U3","7.1","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"144","U3","7.15","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"145","U3","7.2","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"146","U3","7.25","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"147","U3","7.3","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"148","U3","7.35","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"149","U3","7.4","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"150","U3","7.45","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"151","U3","7.5","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"152","U3","7.55","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"153","U3","7.6","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"154","U3","7.65","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"155","U3","7.7","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"156","U3","7.75","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"157","U3","7.8","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"158","U3","7.85","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"159","U3","7.9","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"160","U3","7.95","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"161","U3","8","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"162","U3","8.05","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"163","U3","8.1","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"164","U3","8.15","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"165","U3","8.2","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"166","U3","8.25","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"167","U3","8.3","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"168","U3","8.35","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"169","U3","8.4","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"170","U3","8.45","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"171","U3","8.5","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"172","U3","8.55","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"173","U3","8.6","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"174","U3","8.65","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"175","U3","8.7","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"176","U3","8.75","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"177","U3","8.8","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"178","U3","8.85","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"179","U3","8.9","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"180","U3","8.95","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"181","U3","9","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"182","U3","9.05","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"183","U3","9.1","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"184","U3","9.15","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"185","U3","9.2","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"186","U3","9.25","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"187","U3","9.3","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"188","U3","9.35","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"189","U3","9.4","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"190","U3","9.45","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"191","U3","9.5","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"192","U3","9.55","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"193","U3","9.6","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"194","U3","9.65","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"195","U3","9.7","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"196","U3","9.75","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"197","U3","9.8","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"198","U3","9.85","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"199","U3","9.9","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"200","U3","9.95","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"201","U3","10","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"202","U3","10.05","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"203","U3","10.1","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"204","U3","10.15","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"205","U3","10.2","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"206","U3","10.25","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"207","U3","10.3","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"208","U3","10.35","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"209","U3","10.4","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"210","U3","10.45","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"211","U3","10.5","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"212","U3","10.55","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"213","U3","10.6","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"214","U3","10.65","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"215","U3","10.7","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"216","U3","10.75","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"217","U3","10.8","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"218","U3","10.85","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"219","U3","10.9","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"220","U3","10.95","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"221","U3","11","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"222","U3","11.05","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"223","U3","11.1","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"224","U3","11.15","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"225","U3","11.2","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"226","U3","11.25","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"227","U3","11.3","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"228","U3","11.35","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"229","U3","11.4","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"230","U3","11.45","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"231","U3","11.5","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"232","U3","11.55","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"233","U3","11.6","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"234","U3","11.65","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"235","U3","11.7","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"236","U3","11.75","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"237","U3","11.8","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"238","U3","11.85","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"239","U3","11.9","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"240","U3","11.95","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"241","U3","12","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"242","U3","12.05","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"243","U3","12.1","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"244","U3","12.15","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"245","U3","12.2","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"246","U3","12.25","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"247","U3","12.3","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"248","U3","12.35","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"249","U3","12.4","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"250","U3","12.45","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"251","U3","12.5","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"252","U3","12.55","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"253","U3","12.6","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"254","U3","12.65","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"255","U3","12.7","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"256","U3","12.75","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"257","U3","12.8","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"258","U3","12.85","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"259","U3","12.9","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"260","U3","12.95","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"261","U3","13","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"262","U3","13.05","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"263","U3","13.1","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"264","U3","13.15","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"265","U3","13.2","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"266","U3","13.25","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"267","U3","13.3","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"268","U3","13.35","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"269","U3","13.4","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"270","U3","13.45","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"271","U3","13.5","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"272","U3","13.55","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"273","U3","13.6","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"274","U3","13.65","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"275","U3","13.7","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"276","U3","13.75","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"277","U3","13.8","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"278","U3","13.85","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"279","U3","13.9","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"280","U3","13.95","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"281","U3","14","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"282","U3","14.05","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"283","U3","14.1","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"284","U3","14.15","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"285","U3","14.2","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"286","U3","14.25","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"287","U3","14.3","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"288","U3","14.35","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"289","U3","14.4","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"290","U3","14.45","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"291","U3","14.5","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"292","U3","14.55","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"293","U3","14.6","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"294","U3","14.65","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"295","U3","14.7","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"296","U3","14.75","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"297","U3","14.8","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"298","U3","14.85","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"299","U3","14.9","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"300","U3","14.95","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"301","U3","15","Argilla sabbiosa alternata a strati calcarenitici","3","1","Rampino","30",528329.4958,4565933.303,552
+"302","U3","15.05","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"303","U3","15.1","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"304","U3","15.15","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"305","U3","15.2","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"306","U3","15.25","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"307","U3","15.3","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"308","U3","15.35","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"309","U3","15.4","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"310","U3","15.45","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"311","U3","15.5","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"312","U3","15.55","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"313","U3","15.6","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"314","U3","15.65","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"315","U3","15.7","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"316","U3","15.75","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"317","U3","15.8","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"318","U3","15.85","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"319","U3","15.9","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"320","U3","15.95","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"321","U3","16","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"322","U3","16.05","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"323","U3","16.1","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"324","U3","16.15","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"325","U3","16.2","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"326","U3","16.25","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"327","U3","16.3","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"328","U3","16.35","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"329","U3","16.4","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"330","U3","16.45","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"331","U3","16.5","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"332","U3","16.55","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"333","U3","16.6","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"334","U3","16.65","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"335","U3","16.7","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"336","U3","16.75","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"337","U3","16.8","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"338","U3","16.85","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"339","U3","16.9","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"340","U3","16.95","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"341","U3","17","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"342","U3","17.05","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"343","U3","17.1","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"344","U3","17.15","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"345","U3","17.2","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"346","U3","17.25","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"347","U3","17.3","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"348","U3","17.35","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"349","U3","17.4","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"350","U3","17.45","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"351","U3","17.5","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"352","U3","17.55","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"353","U3","17.6","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"354","U3","17.65","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"355","U3","17.7","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"356","U3","17.75","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"357","U3","17.8","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"358","U3","17.85","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"359","U3","17.9","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"360","U3","17.95","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"361","U3","18","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"362","U3","18.05","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"363","U3","18.1","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"364","U3","18.15","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"365","U3","18.2","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"366","U3","18.25","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"367","U3","18.3","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"368","U3","18.35","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"369","U3","18.4","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"370","U3","18.45","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"371","U3","18.5","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"372","U3","18.55","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"373","U3","18.6","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"374","U3","18.65","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"375","U3","18.7","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"376","U3","18.75","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"377","U3","18.8","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"378","U3","18.85","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"379","U3","18.9","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"380","U3","18.95","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"381","U3","19","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"382","U3","19.05","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"383","U3","19.1","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"384","U3","19.15","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"385","U3","19.2","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"386","U3","19.25","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"387","U3","19.3","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"388","U3","19.35","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"389","U3","19.4","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"390","U3","19.45","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"391","U3","19.5","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"392","U3","19.55","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"393","U3","19.6","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"394","U3","19.65","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"395","U3","19.7","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"396","U3","19.75","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"397","U3","19.8","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"398","U3","19.85","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"399","U3","19.9","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"400","U3","19.95","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"401","U3","20","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"402","U3","20.05","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"403","U3","20.1","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"404","U3","20.15","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"405","U3","20.2","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"406","U3","20.25","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"407","U3","20.3","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"408","U3","20.35","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"409","U3","20.4","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"410","U3","20.45","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"411","U3","20.5","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"412","U3","20.55","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"413","U3","20.6","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"414","U3","20.65","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"415","U3","20.7","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"416","U3","20.75","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"417","U3","20.8","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"418","U3","20.85","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"419","U3","20.9","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"420","U3","20.95","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"421","U3","21","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"422","U3","21.05","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"423","U3","21.1","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"424","U3","21.15","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"425","U3","21.2","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"426","U3","21.25","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"427","U3","21.3","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"428","U3","21.35","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"429","U3","21.4","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"430","U3","21.45","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"431","U3","21.5","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"432","U3","21.55","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"433","U3","21.6","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"434","U3","21.65","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"435","U3","21.7","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"436","U3","21.75","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"437","U3","21.8","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"438","U3","21.85","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"439","U3","21.9","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"440","U3","21.95","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"441","U3","22","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"442","U3","22.05","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"443","U3","22.1","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"444","U3","22.15","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"445","U3","22.2","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"446","U3","22.25","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"447","U3","22.3","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"448","U3","22.35","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"449","U3","22.4","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"450","U3","22.45","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"451","U3","22.5","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"452","U3","22.55","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"453","U3","22.6","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"454","U3","22.65","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"455","U3","22.7","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"456","U3","22.75","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"457","U3","22.8","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"458","U3","22.85","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"459","U3","22.9","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"460","U3","22.95","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"461","U3","23","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"462","U3","23.05","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"463","U3","23.1","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"464","U3","23.15","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"465","U3","23.2","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"466","U3","23.25","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"467","U3","23.3","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"468","U3","23.35","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"469","U3","23.4","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"470","U3","23.45","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"471","U3","23.5","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"472","U3","23.55","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"473","U3","23.6","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"474","U3","23.65","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"475","U3","23.7","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"476","U3","23.75","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"477","U3","23.8","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"478","U3","23.85","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"479","U3","23.9","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"480","U3","23.95","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"481","U3","24","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"482","U3","24.05","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"483","U3","24.1","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"484","U3","24.15","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"485","U3","24.2","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"486","U3","24.25","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"487","U3","24.3","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"488","U3","24.35","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"489","U3","24.4","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"490","U3","24.45","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"491","U3","24.5","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"492","U3","24.55","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"493","U3","24.6","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"494","U3","24.65","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"495","U3","24.7","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"496","U3","24.75","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"497","U3","24.8","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"498","U3","24.85","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"499","U3","24.9","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"500","U3","24.95","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"501","U3","25","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"502","U3","25.05","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"503","U3","25.1","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"504","U3","25.15","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"505","U3","25.2","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"506","U3","25.25","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"507","U3","25.3","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"508","U3","25.35","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"509","U3","25.4","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"510","U3","25.45","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"511","U3","25.5","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"512","U3","25.55","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"513","U3","25.6","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"514","U3","25.65","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"515","U3","25.7","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"516","U3","25.75","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"517","U3","25.8","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"518","U3","25.85","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"519","U3","25.9","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"520","U3","25.95","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"521","U3","26","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"522","U3","26.05","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"523","U3","26.1","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"524","U3","26.15","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"525","U3","26.2","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"526","U3","26.25","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"527","U3","26.3","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"528","U3","26.35","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"529","U3","26.4","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"530","U3","26.45","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"531","U3","26.5","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"532","U3","26.55","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"533","U3","26.6","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"534","U3","26.65","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"535","U3","26.7","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"536","U3","26.75","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"537","U3","26.8","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"538","U3","26.85","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"539","U3","26.9","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"540","U3","26.95","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"541","U3","27","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"542","U3","27.05","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"543","U3","27.1","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"544","U3","27.15","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"545","U3","27.2","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"546","U3","27.25","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"547","U3","27.3","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"548","U3","27.35","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"549","U3","27.4","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"550","U3","27.45","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"551","U3","27.5","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"552","U3","27.55","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"553","U3","27.6","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"554","U3","27.65","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"555","U3","27.7","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"556","U3","27.75","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"557","U3","27.8","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"558","U3","27.85","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"559","U3","27.9","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"560","U3","27.95","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"561","U3","28","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"562","U3","28.05","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"563","U3","28.1","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"564","U3","28.15","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"565","U3","28.2","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"566","U3","28.25","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"567","U3","28.3","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"568","U3","28.35","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"569","U3","28.4","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"570","U3","28.45","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"571","U3","28.5","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"572","U3","28.55","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"573","U3","28.6","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"574","U3","28.65","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"575","U3","28.7","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"576","U3","28.75","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"577","U3","28.8","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"578","U3","28.85","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"579","U3","28.9","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"580","U3","28.95","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"581","U3","29","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"582","U3","29.05","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"583","U3","29.1","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"584","U3","29.15","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"585","U3","29.2","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"586","U3","29.25","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"587","U3","29.3","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"588","U3","29.35","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"589","U3","29.4","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"590","U3","29.45","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"591","U3","29.5","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"592","U3","29.55","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"593","U3","29.6","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"594","U3","29.65","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"595","U3","29.7","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"596","U3","29.75","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"597","U3","29.8","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"598","U3","29.85","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"599","U3","29.9","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"600","U3","29.95","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"601","U3","30","Argilla marnosa grigio azzurra","2b","1","Rampino","30",528329.4958,4565933.303,552
+"602","U3","30","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"603","U3","30.05","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"604","U3","30.1","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"605","U3","30.15","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"606","U3","30.2","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"607","U3","30.25","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"608","U3","30.3","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"609","U3","30.35","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"610","U3","30.4","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"611","U3","30.45","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"612","U3","30.5","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"613","U3","30.55","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"614","U3","30.6","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"615","U3","30.65","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"616","U3","30.7","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"617","U3","30.75","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"618","U3","30.8","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"619","U3","30.85","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"620","U3","30.9","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"621","U3","30.95","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"622","U3","31","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"623","U3","31.05","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"624","U3","31.1","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"625","U3","31.15","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"626","U3","31.2","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"627","U3","31.25","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"628","U3","31.3","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"629","U3","31.35","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"630","U3","31.4","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"631","U3","31.45","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"632","U3","31.5","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"633","U3","31.55","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"634","U3","31.6","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"635","U3","31.65","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"636","U3","31.7","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"637","U3","31.75","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"638","U3","31.8","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"639","U3","31.85","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"640","U3","31.9","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"641","U3","31.95","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"642","U3","32","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"643","U3","32.05","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"644","U3","32.1","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"645","U3","32.15","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"646","U3","32.2","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"647","U3","32.25","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"648","U3","32.3","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"649","U3","32.35","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"650","U3","32.4","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"651","U3","32.45","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"652","U3","32.5","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"653","U3","32.55","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"654","U3","32.6","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"655","U3","32.65","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"656","U3","32.7","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"657","U3","32.75","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"658","U3","32.8","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"659","U3","32.85","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"660","U3","32.9","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"661","U3","32.95","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"662","U3","33","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"663","U3","33.05","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"664","U3","33.1","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"665","U3","33.15","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"666","U3","33.2","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"667","U3","33.25","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"668","U3","33.3","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"669","U3","33.35","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"670","U3","33.4","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"671","U3","33.45","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"672","U3","33.5","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"673","U3","33.55","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"674","U3","33.6","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"675","U3","33.65","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"676","U3","33.7","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"677","U3","33.75","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"678","U3","33.8","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"679","U3","33.85","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"680","U3","33.9","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"681","U3","33.95","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"682","U3","34","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"683","U3","34.05","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"684","U3","34.1","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"685","U3","34.15","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"686","U3","34.2","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"687","U3","34.25","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"688","U3","34.3","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"689","U3","34.35","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"690","U3","34.4","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"691","U3","34.45","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"692","U3","34.5","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"693","U3","34.55","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"694","U3","34.6","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"695","U3","34.65","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"696","U3","34.7","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"697","U3","34.75","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"698","U3","34.8","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"699","U3","34.85","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"700","U3","34.9","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"701","U3","34.95","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"702","U3","35","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"703","U3","35.05","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"704","U3","35.1","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"705","U3","35.15","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"706","U3","35.2","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"707","U3","35.25","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"708","U3","35.3","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"709","U3","35.35","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"710","U3","35.4","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"711","U3","35.45","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"712","U3","35.5","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"713","U3","35.55","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"714","U3","35.6","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"715","U3","35.65","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"716","U3","35.7","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"717","U3","35.75","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"718","U3","35.8","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"719","U3","35.85","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"720","U3","35.9","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"721","U3","35.95","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"722","U3","36","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"723","U3","36.05","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"724","U3","36.1","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"725","U3","36.15","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"726","U3","36.2","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"727","U3","36.25","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"728","U3","36.3","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"729","U3","36.35","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"730","U3","36.4","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"731","U3","36.45","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"732","U3","36.5","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"733","U3","36.55","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"734","U3","36.6","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"735","U3","36.65","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"736","U3","36.7","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"737","U3","36.75","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"738","U3","36.8","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"739","U3","36.85","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"740","U3","36.9","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"741","U3","36.95","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"742","U3","37","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"743","U3","37.05","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"744","U3","37.1","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"745","U3","37.15","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"746","U3","37.2","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"747","U3","37.25","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"748","U3","37.3","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"749","U3","37.35","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"750","U3","37.4","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"751","U3","37.45","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"752","U3","37.5","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"753","U3","37.55","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"754","U3","37.6","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"755","U3","37.65","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"756","U3","37.7","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"757","U3","37.75","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"758","U3","37.8","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"759","U3","37.85","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"760","U3","37.9","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"761","U3","37.95","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"762","U3","38","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"763","U3","38.05","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"764","U3","38.1","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"765","U3","38.15","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"766","U3","38.2","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"767","U3","38.25","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"768","U3","38.3","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"769","U3","38.35","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"770","U3","38.4","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"771","U3","38.45","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"772","U3","38.5","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"773","U3","38.55","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"774","U3","38.6","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"775","U3","38.65","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"776","U3","38.7","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"777","U3","38.75","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"778","U3","38.8","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"779","U3","38.85","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"780","U3","38.9","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"781","U3","38.95","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"782","U3","39","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"783","U3","39.05","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"784","U3","39.1","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"785","U3","39.15","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"786","U3","39.2","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"787","U3","39.25","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"788","U3","39.3","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"789","U3","39.35","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"790","U3","39.4","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"791","U3","39.45","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"792","U3","39.5","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"793","U3","39.55","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"794","U3","39.6","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"795","U3","39.65","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"796","U3","39.7","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"797","U3","39.75","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"798","U3","39.8","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"799","U3","39.85","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"800","U3","39.9","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"801","U3","39.95","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"802","U3","40","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"803","U3","40.05","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"804","U3","40.1","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"805","U3","40.15","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"806","U3","40.2","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"807","U3","40.25","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"808","U3","40.3","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"809","U3","40.35","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"810","U3","40.4","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"811","U3","40.45","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"812","U3","40.5","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"813","U3","40.55","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"814","U3","40.6","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"815","U3","40.65","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"816","U3","40.7","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"817","U3","40.75","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"818","U3","40.8","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"819","U3","40.85","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"820","U3","40.9","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"821","U3","40.95","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"822","U3","41","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"823","U3","41.05","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"824","U3","41.1","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"825","U3","41.15","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"826","U3","41.2","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"827","U3","41.25","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"828","U3","41.3","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"829","U3","41.35","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"830","U3","41.4","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"831","U3","41.45","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"832","U3","41.5","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"833","U3","41.55","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"834","U3","41.6","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"835","U3","41.65","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"836","U3","41.7","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"837","U3","41.75","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"838","U3","41.8","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"839","U3","41.85","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"840","U3","41.9","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"841","U3","41.95","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"842","U3","42","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"843","U3","42.05","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"844","U3","42.1","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"845","U3","42.15","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"846","U3","42.2","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"847","U3","42.25","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"848","U3","42.3","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"849","U3","42.35","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"850","U3","42.4","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"851","U3","42.45","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"852","U3","42.5","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"853","U3","42.55","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"854","U3","42.6","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"855","U3","42.65","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"856","U3","42.7","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"857","U3","42.75","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"858","U3","42.8","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"859","U3","42.85","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"860","U3","42.9","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"861","U3","42.95","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"862","U3","43","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"863","U3","43.05","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"864","U3","43.1","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"865","U3","43.15","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"866","U3","43.2","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"867","U3","43.25","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"868","U3","43.3","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"869","U3","43.35","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"870","U3","43.4","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"871","U3","43.45","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"872","U3","43.5","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"873","U3","43.55","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"874","U3","43.6","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"875","U3","43.65","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"876","U3","43.7","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"877","U3","43.75","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"878","U3","43.8","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"879","U3","43.85","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"880","U3","43.9","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"881","U3","43.95","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"882","U3","44","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"883","U3","44.05","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"884","U3","44.1","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"885","U3","44.15","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"886","U3","44.2","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"887","U3","44.25","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"888","U3","44.3","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"889","U3","44.35","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"890","U3","44.4","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"891","U3","44.45","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"892","U3","44.5","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"893","U3","44.55","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"894","U3","44.6","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"895","U3","44.65","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"896","U3","44.7","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"897","U3","44.75","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"898","U3","44.8","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"899","U3","44.85","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"900","U3","44.9","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"901","U3","44.95","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"902","U3","45","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"903","U3","45.05","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"904","U3","45.1","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"905","U3","45.15","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"906","U3","45.2","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"907","U3","45.25","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"908","U3","45.3","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"909","U3","45.35","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"910","U3","45.4","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"911","U3","45.45","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"912","U3","45.5","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"913","U3","45.55","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"914","U3","45.6","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"915","U3","45.65","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"916","U3","45.7","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"917","U3","45.75","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"918","U3","45.8","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"919","U3","45.85","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"920","U3","45.9","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"921","U3","45.95","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"922","U3","46","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"923","U3","46.05","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"924","U3","46.1","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"925","U3","46.15","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"926","U3","46.2","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"927","U3","46.25","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"928","U3","46.3","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"929","U3","46.35","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"930","U3","46.4","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"931","U3","46.45","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"932","U3","46.5","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"933","U3","46.55","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"934","U3","46.6","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"935","U3","46.65","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"936","U3","46.7","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"937","U3","46.75","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"938","U3","46.8","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"939","U3","46.85","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"940","U3","46.9","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"941","U3","46.95","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"942","U3","47","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"943","U3","47.05","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"944","U3","47.1","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"945","U3","47.15","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"946","U3","47.2","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"947","U3","47.25","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"948","U3","47.3","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"949","U3","47.35","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"950","U3","47.4","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"951","U3","47.45","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"952","U3","47.5","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"953","U3","47.55","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"954","U3","47.6","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"955","U3","47.65","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"956","U3","47.7","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"957","U3","47.75","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"958","U3","47.8","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"959","U3","47.85","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"960","U3","47.9","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"961","U3","47.95","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"962","U3","48","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"963","U3","48.05","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"964","U3","48.1","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"965","U3","48.15","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"966","U3","48.2","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"967","U3","48.25","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"968","U3","48.3","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"969","U3","48.35","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"970","U3","48.4","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"971","U3","48.45","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"972","U3","48.5","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"973","U3","48.55","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"974","U3","48.6","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"975","U3","48.65","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"976","U3","48.7","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"977","U3","48.75","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"978","U3","48.8","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"979","U3","48.85","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"980","U3","48.9","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"981","U3","48.95","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"982","U3","49","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"983","U3","49.05","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"984","U3","49.1","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"985","U3","49.15","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"986","U3","49.2","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"987","U3","49.25","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"988","U3","49.3","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"989","U3","49.35","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"990","U3","49.4","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"991","U3","49.45","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"992","U3","49.5","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"993","U3","49.55","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"994","U3","49.6","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"995","U3","49.65","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"996","U3","49.7","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"997","U3","49.75","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"998","U3","49.8","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"999","U3","49.85","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1000","U3","49.9","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1001","U3","49.95","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1002","U3","50","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1003","U3","50.05","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1004","U3","50.1","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1005","U3","50.15","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1006","U3","50.2","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1007","U3","50.25","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1008","U3","50.3","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1009","U3","50.35","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1010","U3","50.4","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1011","U3","50.45","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1012","U3","50.5","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1013","U3","50.55","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1014","U3","50.6","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1015","U3","50.65","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1016","U3","50.7","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1017","U3","50.75","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1018","U3","50.8","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1019","U3","50.85","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1020","U3","50.9","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1021","U3","50.95","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1022","U3","51","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1023","U3","51.05","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1024","U3","51.1","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1025","U3","51.15","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1026","U3","51.2","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1027","U3","51.25","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1028","U3","51.3","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1029","U3","51.35","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1030","U3","51.4","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1031","U3","51.45","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1032","U3","51.5","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1033","U3","51.55","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1034","U3","51.6","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1035","U3","51.65","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1036","U3","51.7","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1037","U3","51.75","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1038","U3","51.8","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1039","U3","51.85","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1040","U3","51.9","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1041","U3","51.95","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1042","U3","52","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1043","U3","52.05","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1044","U3","52.1","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1045","U3","52.15","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1046","U3","52.2","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1047","U3","52.25","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1048","U3","52.3","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1049","U3","52.35","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1050","U3","52.4","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1051","U3","52.45","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1052","U3","52.5","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1053","U3","52.55","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1054","U3","52.6","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1055","U3","52.65","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1056","U3","52.7","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1057","U3","52.75","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1058","U3","52.8","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1059","U3","52.85","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1060","U3","52.9","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1061","U3","52.95","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1062","U3","53","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1063","U3","53.05","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1064","U3","53.1","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1065","U3","53.15","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1066","U3","53.2","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1067","U3","53.25","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1068","U3","53.3","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1069","U3","53.35","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1070","U3","53.4","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1071","U3","53.45","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1072","U3","53.5","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1073","U3","53.55","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1074","U3","53.6","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1075","U3","53.65","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1076","U3","53.7","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1077","U3","53.75","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1078","U3","53.8","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1079","U3","53.85","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1080","U3","53.9","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1081","U3","53.95","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1082","U3","54","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1083","U3","54.05","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1084","U3","54.1","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1085","U3","54.15","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1086","U3","54.2","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1087","U3","54.25","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1088","U3","54.3","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1089","U3","54.35","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1090","U3","54.4","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1091","U3","54.45","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1092","U3","54.5","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1093","U3","54.55","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1094","U3","54.6","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1095","U3","54.65","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1096","U3","54.7","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1097","U3","54.75","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1098","U3","54.8","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1099","U3","54.85","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1100","U3","54.9","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1101","U3","54.95","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1102","U3","55","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1103","U3","55.05","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1104","U3","55.1","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1105","U3","55.15","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1106","U3","55.2","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1107","U3","55.25","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1108","U3","55.3","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1109","U3","55.35","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1110","U3","55.4","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1111","U3","55.45","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1112","U3","55.5","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1113","U3","55.55","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1114","U3","55.6","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1115","U3","55.65","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1116","U3","55.7","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1117","U3","55.75","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1118","U3","55.8","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1119","U3","55.85","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1120","U3","55.9","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1121","U3","55.95","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1122","U3","56","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1123","U3","56.05","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1124","U3","56.1","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1125","U3","56.15","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1126","U3","56.2","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1127","U3","56.25","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1128","U3","56.3","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1129","U3","56.35","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1130","U3","56.4","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1131","U3","56.45","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1132","U3","56.5","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1133","U3","56.55","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1134","U3","56.6","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1135","U3","56.65","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1136","U3","56.7","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1137","U3","56.75","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1138","U3","56.8","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1139","U3","56.85","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1140","U3","56.9","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1141","U3","56.95","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1142","U3","57","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1143","U3","57.05","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1144","U3","57.1","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1145","U3","57.15","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1146","U3","57.2","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1147","U3","57.25","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1148","U3","57.3","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1149","U3","57.35","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1150","U3","57.4","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1151","U3","57.45","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1152","U3","57.5","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1153","U3","57.55","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1154","U3","57.6","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1155","U3","57.65","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1156","U3","57.7","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1157","U3","57.75","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1158","U3","57.8","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1159","U3","57.85","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1160","U3","57.9","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1161","U3","57.95","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1162","U3","58","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1163","U3","58.05","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1164","U3","58.1","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1165","U3","58.15","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1166","U3","58.2","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1167","U3","58.25","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1168","U3","58.3","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1169","U3","58.35","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1170","U3","58.4","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1171","U3","58.45","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1172","U3","58.5","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1173","U3","58.55","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1174","U3","58.6","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1175","U3","58.65","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1176","U3","58.7","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1177","U3","58.75","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1178","U3","58.8","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1179","U3","58.85","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1180","U3","58.9","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1181","U3","58.95","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1182","U3","59","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1183","U3","59.05","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1184","U3","59.1","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1185","U3","59.15","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1186","U3","59.2","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1187","U3","59.25","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1188","U3","59.3","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1189","U3","59.35","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1190","U3","59.4","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1191","U3","59.45","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1192","U3","59.5","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1193","U3","59.55","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1194","U3","59.6","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1195","U3","59.65","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1196","U3","59.7","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1197","U3","59.75","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1198","U3","59.8","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1199","U3","59.85","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1200","U3","59.9","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1201","U3","59.95","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1202","U3","60","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1203","U3","60.05","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1204","U3","60.1","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1205","U3","60.15","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1206","U3","60.2","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1207","U3","60.25","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1208","U3","60.3","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1209","U3","60.35","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1210","U3","60.4","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1211","U3","60.45","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1212","U3","60.5","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1213","U3","60.55","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1214","U3","60.6","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1215","U3","60.65","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1216","U3","60.7","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1217","U3","60.75","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1218","U3","60.8","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1219","U3","60.85","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1220","U3","60.9","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1221","U3","60.95","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1222","U3","61","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1223","U3","61.05","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1224","U3","61.1","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1225","U3","61.15","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1226","U3","61.2","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1227","U3","61.25","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1228","U3","61.3","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1229","U3","61.35","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1230","U3","61.4","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1231","U3","61.45","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1232","U3","61.5","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1233","U3","61.55","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1234","U3","61.6","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1235","U3","61.65","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1236","U3","61.7","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1237","U3","61.75","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1238","U3","61.8","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1239","U3","61.85","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1240","U3","61.9","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1241","U3","61.95","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1242","U3","62","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1243","U3","62.05","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1244","U3","62.1","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1245","U3","62.15","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1246","U3","62.2","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1247","U3","62.25","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1248","U3","62.3","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1249","U3","62.35","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1250","U3","62.4","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1251","U3","62.45","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1252","U3","62.5","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1253","U3","62.55","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1254","U3","62.6","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1255","U3","62.65","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1256","U3","62.7","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1257","U3","62.75","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1258","U3","62.8","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1259","U3","62.85","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1260","U3","62.9","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1261","U3","62.95","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1262","U3","63","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1263","U3","63.05","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1264","U3","63.1","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1265","U3","63.15","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1266","U3","63.2","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1267","U3","63.25","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1268","U3","63.3","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1269","U3","63.35","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1270","U3","63.4","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1271","U3","63.45","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1272","U3","63.5","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1273","U3","63.55","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1274","U3","63.6","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1275","U3","63.65","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1276","U3","63.7","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1277","U3","63.75","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1278","U3","63.8","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1279","U3","63.85","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1280","U3","63.9","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1281","U3","63.95","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1282","U3","64","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1283","U3","64.05","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1284","U3","64.1","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1285","U3","64.15","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1286","U3","64.2","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1287","U3","64.25","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1288","U3","64.3","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1289","U3","64.35","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1290","U3","64.4","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1291","U3","64.45","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1292","U3","64.5","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1293","U3","64.55","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1294","U3","64.6","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1295","U3","64.65","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1296","U3","64.7","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1297","U3","64.75","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1298","U3","64.8","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1299","U3","64.85","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1300","U3","64.9","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1301","U3","64.95","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1302","U3","65","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1303","U3","65.05","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1304","U3","65.1","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1305","U3","65.15","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1306","U3","65.2","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1307","U3","65.25","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1308","U3","65.3","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1309","U3","65.35","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1310","U3","65.4","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1311","U3","65.45","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1312","U3","65.5","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1313","U3","65.55","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1314","U3","65.6","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1315","U3","65.65","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1316","U3","65.7","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1317","U3","65.75","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1318","U3","65.8","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1319","U3","65.85","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1320","U3","65.9","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1321","U3","65.95","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1322","U3","66","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1323","U3","66.05","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1324","U3","66.1","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1325","U3","66.15","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1326","U3","66.2","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1327","U3","66.25","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1328","U3","66.3","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1329","U3","66.35","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1330","U3","66.4","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1331","U3","66.45","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1332","U3","66.5","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1333","U3","66.55","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1334","U3","66.6","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1335","U3","66.65","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1336","U3","66.7","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1337","U3","66.75","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1338","U3","66.8","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1339","U3","66.85","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1340","U3","66.9","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1341","U3","66.95","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1342","U3","67","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1343","U3","67.05","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1344","U3","67.1","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1345","U3","67.15","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1346","U3","67.2","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1347","U3","67.25","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1348","U3","67.3","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1349","U3","67.35","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1350","U3","67.4","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1351","U3","67.45","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1352","U3","67.5","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1353","U3","67.55","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1354","U3","67.6","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1355","U3","67.65","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1356","U3","67.7","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1357","U3","67.75","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1358","U3","67.8","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1359","U3","67.85","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1360","U3","67.9","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1361","U3","67.95","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1362","U3","68","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1363","U3","68.05","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1364","U3","68.1","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1365","U3","68.15","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1366","U3","68.2","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1367","U3","68.25","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1368","U3","68.3","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1369","U3","68.35","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1370","U3","68.4","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1371","U3","68.45","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1372","U3","68.5","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1373","U3","68.55","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1374","U3","68.6","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1375","U3","68.65","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1376","U3","68.7","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1377","U3","68.75","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1378","U3","68.8","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1379","U3","68.85","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1380","U3","68.9","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1381","U3","68.95","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1382","U3","69","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1383","U3","69.05","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1384","U3","69.1","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1385","U3","69.15","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1386","U3","69.2","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1387","U3","69.25","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1388","U3","69.3","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1389","U3","69.35","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1390","U3","69.4","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1391","U3","69.45","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1392","U3","69.5","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1393","U3","69.55","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1394","U3","69.6","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1395","U3","69.65","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1396","U3","69.7","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1397","U3","69.75","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1398","U3","69.8","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1399","U3","69.85","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1400","U3","69.9","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1401","U3","69.95","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1402","U3","70","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1403","U3","70.05","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1404","U3","70.1","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1405","U3","70.15","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1406","U3","70.2","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1407","U3","70.25","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1408","U3","70.3","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1409","U3","70.35","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1410","U3","70.4","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1411","U3","70.45","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1412","U3","70.5","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1413","U3","70.55","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1414","U3","70.6","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1415","U3","70.65","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1416","U3","70.7","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1417","U3","70.75","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1418","U3","70.8","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1419","U3","70.85","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1420","U3","70.9","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1421","U3","70.95","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1422","U3","71","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1423","U3","71.05","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1424","U3","71.1","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1425","U3","71.15","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1426","U3","71.2","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1427","U3","71.25","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1428","U3","71.3","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1429","U3","71.35","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1430","U3","71.4","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1431","U3","71.45","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1432","U3","71.5","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1433","U3","71.55","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1434","U3","71.6","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1435","U3","71.65","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1436","U3","71.7","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1437","U3","71.75","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1438","U3","71.8","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1439","U3","71.85","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1440","U3","71.9","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1441","U3","71.95","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1442","U3","72","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1443","U3","72.05","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1444","U3","72.1","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1445","U3","72.15","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1446","U3","72.2","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1447","U3","72.25","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1448","U3","72.3","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1449","U3","72.35","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1450","U3","72.4","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1451","U3","72.45","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1452","U3","72.5","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1453","U3","72.55","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1454","U3","72.6","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1455","U3","72.65","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1456","U3","72.7","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1457","U3","72.75","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1458","U3","72.8","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1459","U3","72.85","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1460","U3","72.9","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1461","U3","72.95","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1462","U3","73","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1463","U3","73.05","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1464","U3","73.1","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1465","U3","73.15","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1466","U3","73.2","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1467","U3","73.25","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1468","U3","73.3","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1469","U3","73.35","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1470","U3","73.4","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1471","U3","73.45","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1472","U3","73.5","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1473","U3","73.55","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1474","U3","73.6","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1475","U3","73.65","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1476","U3","73.7","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1477","U3","73.75","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1478","U3","73.8","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1479","U3","73.85","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1480","U3","73.9","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1481","U3","73.95","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1482","U3","74","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1483","U3","74.05","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1484","U3","74.1","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1485","U3","74.15","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1486","U3","74.2","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1487","U3","74.25","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1488","U3","74.3","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1489","U3","74.35","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1490","U3","74.4","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1491","U3","74.45","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1492","U3","74.5","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1493","U3","74.55","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1494","U3","74.6","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1495","U3","74.65","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1496","U3","74.7","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1497","U3","74.75","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1498","U3","74.8","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1499","U3","74.85","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1500","U3","74.9","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1501","U3","74.95","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1502","U3","75","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1503","U3","75.05","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1504","U3","75.1","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1505","U3","75.15","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1506","U3","75.2","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1507","U3","75.25","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1508","U3","75.3","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1509","U3","75.35","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1510","U3","75.4","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1511","U3","75.45","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1512","U3","75.5","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1513","U3","75.55","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1514","U3","75.6","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1515","U3","75.65","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1516","U3","75.7","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1517","U3","75.75","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1518","U3","75.8","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1519","U3","75.85","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1520","U3","75.9","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1521","U3","75.95","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1522","U3","76","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1523","U3","76.05","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1524","U3","76.1","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1525","U3","76.15","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1526","U3","76.2","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1527","U3","76.25","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1528","U3","76.3","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1529","U3","76.35","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1530","U3","76.4","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1531","U3","76.45","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1532","U3","76.5","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1533","U3","76.55","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1534","U3","76.6","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1535","U3","76.65","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552
+"1536","U3","76.7","Argilla marnosa grigio azzurra","2b","0","Rampino","30",528329.4958,4565933.303,552

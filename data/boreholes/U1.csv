@@ -1,0 +1,1537 @@
+"","borehole","Depth","Description","Unit","Valid","campaign","DEPTH","x","y","z"
+"1","U1","0","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"2","U1","0.05","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"3","U1","0.1","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"4","U1","0.15","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"5","U1","0.2","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"6","U1","0.25","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"7","U1","0.3","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"8","U1","0.35","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"9","U1","0.4","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"10","U1","0.45","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"11","U1","0.5","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"12","U1","0.55","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"13","U1","0.6","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"14","U1","0.65","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"15","U1","0.7","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"16","U1","0.75","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"17","U1","0.8","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"18","U1","0.85","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"19","U1","0.9","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"20","U1","0.95","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"21","U1","1","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"22","U1","1.05","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"23","U1","1.1","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"24","U1","1.15","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"25","U1","1.2","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"26","U1","1.25","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"27","U1","1.3","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"28","U1","1.35","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"29","U1","1.4","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"30","U1","1.45","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"31","U1","1.5","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"32","U1","1.55","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"33","U1","1.6","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"34","U1","1.65","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"35","U1","1.7","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"36","U1","1.75","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"37","U1","1.8","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"38","U1","1.85","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"39","U1","1.9","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"40","U1","1.95","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"41","U1","2","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"42","U1","2.05","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"43","U1","2.1","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"44","U1","2.15","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"45","U1","2.2","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"46","U1","2.25","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"47","U1","2.3","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"48","U1","2.35","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"49","U1","2.4","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"50","U1","2.45","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"51","U1","2.5","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"52","U1","2.55","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"53","U1","2.6","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"54","U1","2.65","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"55","U1","2.7","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"56","U1","2.75","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"57","U1","2.8","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"58","U1","2.85","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"59","U1","2.9","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"60","U1","2.95","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"61","U1","3","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"62","U1","3.05","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"63","U1","3.1","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"64","U1","3.15","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"65","U1","3.2","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"66","U1","3.25","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"67","U1","3.3","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"68","U1","3.35","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"69","U1","3.4","Terreno.","Riporto","1","Rampino","30",528312.1931,4565943.181,556
+"70","U1","3.45","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"71","U1","3.5","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"72","U1","3.55","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"73","U1","3.6","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"74","U1","3.65","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"75","U1","3.7","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"76","U1","3.75","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"77","U1","3.8","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"78","U1","3.85","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"79","U1","3.9","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"80","U1","3.95","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"81","U1","4","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"82","U1","4.05","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"83","U1","4.1","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"84","U1","4.15","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"85","U1","4.2","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"86","U1","4.25","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"87","U1","4.3","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"88","U1","4.35","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"89","U1","4.4","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"90","U1","4.45","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"91","U1","4.5","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"92","U1","4.55","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"93","U1","4.6","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"94","U1","4.65","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"95","U1","4.7","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"96","U1","4.75","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"97","U1","4.8","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"98","U1","4.85","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"99","U1","4.9","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"100","U1","4.95","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"101","U1","5","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"102","U1","5.05","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"103","U1","5.1","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"104","U1","5.15","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"105","U1","5.2","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"106","U1","5.25","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"107","U1","5.3","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"108","U1","5.35","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"109","U1","5.4","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"110","U1","5.45","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"111","U1","5.5","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"112","U1","5.55","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"113","U1","5.6","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"114","U1","5.65","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"115","U1","5.7","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"116","U1","5.75","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"117","U1","5.8","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"118","U1","5.85","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"119","U1","5.9","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"120","U1","5.95","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"121","U1","6","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"122","U1","6.05","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"123","U1","6.1","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"124","U1","6.15","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"125","U1","6.2","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"126","U1","6.25","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"127","U1","6.3","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"128","U1","6.35","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"129","U1","6.4","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"130","U1","6.45","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"131","U1","6.5","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"132","U1","6.55","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"133","U1","6.6","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"134","U1","6.65","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"135","U1","6.7","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"136","U1","6.75","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"137","U1","6.8","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"138","U1","6.85","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"139","U1","6.9","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"140","U1","6.95","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"141","U1","7","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"142","U1","7.05","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"143","U1","7.1","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"144","U1","7.15","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"145","U1","7.2","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"146","U1","7.25","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"147","U1","7.3","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"148","U1","7.35","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"149","U1","7.4","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"150","U1","7.45","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"151","U1","7.5","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"152","U1","7.55","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"153","U1","7.6","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"154","U1","7.65","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"155","U1","7.7","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"156","U1","7.75","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"157","U1","7.8","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"158","U1","7.85","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"159","U1","7.9","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"160","U1","7.95","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"161","U1","8","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"162","U1","8.05","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"163","U1","8.1","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"164","U1","8.15","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"165","U1","8.2","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"166","U1","8.25","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"167","U1","8.3","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"168","U1","8.35","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"169","U1","8.4","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"170","U1","8.45","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"171","U1","8.5","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"172","U1","8.55","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"173","U1","8.6","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"174","U1","8.65","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"175","U1","8.7","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"176","U1","8.75","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"177","U1","8.8","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"178","U1","8.85","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"179","U1","8.9","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"180","U1","8.95","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"181","U1","9","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"182","U1","9.05","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"183","U1","9.1","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"184","U1","9.15","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"185","U1","9.2","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"186","U1","9.25","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"187","U1","9.3","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"188","U1","9.35","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"189","U1","9.4","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"190","U1","9.45","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"191","U1","9.5","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"192","U1","9.55","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"193","U1","9.6","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"194","U1","9.65","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"195","U1","9.7","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"196","U1","9.75","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"197","U1","9.8","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"198","U1","9.85","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"199","U1","9.9","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"200","U1","9.95","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"201","U1","10","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"202","U1","10.05","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"203","U1","10.1","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"204","U1","10.15","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"205","U1","10.2","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"206","U1","10.25","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"207","U1","10.3","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"208","U1","10.35","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"209","U1","10.4","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"210","U1","10.45","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"211","U1","10.5","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"212","U1","10.55","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"213","U1","10.6","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"214","U1","10.65","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"215","U1","10.7","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"216","U1","10.75","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"217","U1","10.8","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"218","U1","10.85","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"219","U1","10.9","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"220","U1","10.95","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"221","U1","11","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"222","U1","11.05","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"223","U1","11.1","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"224","U1","11.15","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"225","U1","11.2","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"226","U1","11.25","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"227","U1","11.3","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"228","U1","11.35","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"229","U1","11.4","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"230","U1","11.45","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"231","U1","11.5","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"232","U1","11.55","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"233","U1","11.6","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"234","U1","11.65","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"235","U1","11.7","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"236","U1","11.75","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"237","U1","11.8","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"238","U1","11.85","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"239","U1","11.9","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"240","U1","11.95","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"241","U1","12","Terreno di riporto.","T","1","Rampino","30",528312.1931,4565943.181,556
+"242","U1","12.05","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"243","U1","12.1","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"244","U1","12.15","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"245","U1","12.2","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"246","U1","12.25","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"247","U1","12.3","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"248","U1","12.35","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"249","U1","12.4","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"250","U1","12.45","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"251","U1","12.5","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"252","U1","12.55","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"253","U1","12.6","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"254","U1","12.65","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"255","U1","12.7","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"256","U1","12.75","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"257","U1","12.8","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"258","U1","12.85","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"259","U1","12.9","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"260","U1","12.95","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"261","U1","13","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"262","U1","13.05","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"263","U1","13.1","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"264","U1","13.15","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"265","U1","13.2","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"266","U1","13.25","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"267","U1","13.3","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"268","U1","13.35","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"269","U1","13.4","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"270","U1","13.45","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"271","U1","13.5","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"272","U1","13.55","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"273","U1","13.6","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"274","U1","13.65","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"275","U1","13.7","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"276","U1","13.75","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"277","U1","13.8","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"278","U1","13.85","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"279","U1","13.9","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"280","U1","13.95","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"281","U1","14","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"282","U1","14.05","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"283","U1","14.1","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"284","U1","14.15","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"285","U1","14.2","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"286","U1","14.25","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"287","U1","14.3","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"288","U1","14.35","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"289","U1","14.4","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"290","U1","14.45","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"291","U1","14.5","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"292","U1","14.55","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"293","U1","14.6","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"294","U1","14.65","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"295","U1","14.7","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"296","U1","14.75","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"297","U1","14.8","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"298","U1","14.85","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"299","U1","14.9","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"300","U1","14.95","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"301","U1","15","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"302","U1","15.05","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"303","U1","15.1","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"304","U1","15.15","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"305","U1","15.2","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"306","U1","15.25","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"307","U1","15.3","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"308","U1","15.35","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"309","U1","15.4","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"310","U1","15.45","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"311","U1","15.5","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"312","U1","15.55","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"313","U1","15.6","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"314","U1","15.65","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"315","U1","15.7","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"316","U1","15.75","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"317","U1","15.8","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"318","U1","15.85","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"319","U1","15.9","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"320","U1","15.95","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"321","U1","16","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"322","U1","16.05","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"323","U1","16.1","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"324","U1","16.15","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"325","U1","16.2","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"326","U1","16.25","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"327","U1","16.3","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"328","U1","16.35","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"329","U1","16.4","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"330","U1","16.45","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"331","U1","16.5","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"332","U1","16.55","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"333","U1","16.6","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"334","U1","16.65","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"335","U1","16.7","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"336","U1","16.75","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"337","U1","16.8","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"338","U1","16.85","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"339","U1","16.9","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"340","U1","16.95","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"341","U1","17","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"342","U1","17.05","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"343","U1","17.1","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"344","U1","17.15","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"345","U1","17.2","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"346","U1","17.25","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"347","U1","17.3","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"348","U1","17.35","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"349","U1","17.4","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"350","U1","17.45","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"351","U1","17.5","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"352","U1","17.55","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"353","U1","17.6","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"354","U1","17.65","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"355","U1","17.7","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"356","U1","17.75","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"357","U1","17.8","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"358","U1","17.85","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"359","U1","17.9","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"360","U1","17.95","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"361","U1","18","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"362","U1","18.05","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"363","U1","18.1","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"364","U1","18.15","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"365","U1","18.2","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"366","U1","18.25","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"367","U1","18.3","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"368","U1","18.35","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"369","U1","18.4","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"370","U1","18.45","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"371","U1","18.5","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"372","U1","18.55","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"373","U1","18.6","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"374","U1","18.65","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"375","U1","18.7","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"376","U1","18.75","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"377","U1","18.8","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"378","U1","18.85","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"379","U1","18.9","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"380","U1","18.95","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"381","U1","19","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"382","U1","19.05","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"383","U1","19.1","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"384","U1","19.15","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"385","U1","19.2","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"386","U1","19.25","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"387","U1","19.3","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"388","U1","19.35","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"389","U1","19.4","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"390","U1","19.45","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"391","U1","19.5","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"392","U1","19.55","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"393","U1","19.6","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"394","U1","19.65","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"395","U1","19.7","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"396","U1","19.75","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"397","U1","19.8","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"398","U1","19.85","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"399","U1","19.9","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"400","U1","19.95","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"401","U1","20","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"402","U1","20.05","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"403","U1","20.1","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"404","U1","20.15","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"405","U1","20.2","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"406","U1","20.25","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"407","U1","20.3","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"408","U1","20.35","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"409","U1","20.4","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"410","U1","20.45","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"411","U1","20.5","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"412","U1","20.55","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"413","U1","20.6","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"414","U1","20.65","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"415","U1","20.7","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"416","U1","20.75","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"417","U1","20.8","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"418","U1","20.85","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"419","U1","20.9","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"420","U1","20.95","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"421","U1","21","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"422","U1","21.05","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"423","U1","21.1","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"424","U1","21.15","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"425","U1","21.2","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"426","U1","21.25","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"427","U1","21.3","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"428","U1","21.35","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"429","U1","21.4","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"430","U1","21.45","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"431","U1","21.5","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"432","U1","21.55","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"433","U1","21.6","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"434","U1","21.65","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"435","U1","21.7","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"436","U1","21.75","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"437","U1","21.8","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"438","U1","21.85","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"439","U1","21.9","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"440","U1","21.95","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"441","U1","22","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"442","U1","22.05","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"443","U1","22.1","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"444","U1","22.15","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"445","U1","22.2","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"446","U1","22.25","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"447","U1","22.3","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"448","U1","22.35","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"449","U1","22.4","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"450","U1","22.45","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"451","U1","22.5","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"452","U1","22.55","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"453","U1","22.6","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"454","U1","22.65","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"455","U1","22.7","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"456","U1","22.75","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"457","U1","22.8","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"458","U1","22.85","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"459","U1","22.9","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"460","U1","22.95","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"461","U1","23","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"462","U1","23.05","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"463","U1","23.1","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"464","U1","23.15","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"465","U1","23.2","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"466","U1","23.25","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"467","U1","23.3","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"468","U1","23.35","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"469","U1","23.4","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"470","U1","23.45","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"471","U1","23.5","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"472","U1","23.55","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"473","U1","23.6","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"474","U1","23.65","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"475","U1","23.7","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"476","U1","23.75","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"477","U1","23.8","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"478","U1","23.85","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"479","U1","23.9","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"480","U1","23.95","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"481","U1","24","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"482","U1","24.05","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"483","U1","24.1","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"484","U1","24.15","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"485","U1","24.2","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"486","U1","24.25","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"487","U1","24.3","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"488","U1","24.35","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"489","U1","24.4","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"490","U1","24.45","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"491","U1","24.5","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"492","U1","24.55","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"493","U1","24.6","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"494","U1","24.65","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"495","U1","24.7","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"496","U1","24.75","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"497","U1","24.8","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"498","U1","24.85","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"499","U1","24.9","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"500","U1","24.95","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"501","U1","25","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"502","U1","25.05","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"503","U1","25.1","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"504","U1","25.15","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"505","U1","25.2","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"506","U1","25.25","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"507","U1","25.3","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"508","U1","25.35","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"509","U1","25.4","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"510","U1","25.45","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"511","U1","25.5","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"512","U1","25.55","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"513","U1","25.6","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"514","U1","25.65","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"515","U1","25.7","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"516","U1","25.75","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"517","U1","25.8","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"518","U1","25.85","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"519","U1","25.9","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"520","U1","25.95","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"521","U1","26","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"522","U1","26.05","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"523","U1","26.1","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"524","U1","26.15","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"525","U1","26.2","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"526","U1","26.25","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"527","U1","26.3","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"528","U1","26.35","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"529","U1","26.4","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"530","U1","26.45","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"531","U1","26.5","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"532","U1","26.55","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"533","U1","26.6","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"534","U1","26.65","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"535","U1","26.7","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"536","U1","26.75","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"537","U1","26.8","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"538","U1","26.85","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"539","U1","26.9","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"540","U1","26.95","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"541","U1","27","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"542","U1","27.05","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"543","U1","27.1","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"544","U1","27.15","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"545","U1","27.2","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"546","U1","27.25","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"547","U1","27.3","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"548","U1","27.35","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"549","U1","27.4","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"550","U1","27.45","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"551","U1","27.5","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"552","U1","27.55","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"553","U1","27.6","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"554","U1","27.65","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"555","U1","27.7","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"556","U1","27.75","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"557","U1","27.8","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"558","U1","27.85","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"559","U1","27.9","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"560","U1","27.95","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"561","U1","28","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"562","U1","28.05","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"563","U1","28.1","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"564","U1","28.15","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"565","U1","28.2","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"566","U1","28.25","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"567","U1","28.3","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"568","U1","28.35","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"569","U1","28.4","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"570","U1","28.45","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"571","U1","28.5","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"572","U1","28.55","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"573","U1","28.6","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"574","U1","28.65","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"575","U1","28.7","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"576","U1","28.75","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"577","U1","28.8","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"578","U1","28.85","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"579","U1","28.9","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"580","U1","28.95","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"581","U1","29","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"582","U1","29.05","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"583","U1","29.1","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"584","U1","29.15","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"585","U1","29.2","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"586","U1","29.25","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"587","U1","29.3","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"588","U1","29.35","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"589","U1","29.4","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"590","U1","29.45","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"591","U1","29.5","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"592","U1","29.55","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"593","U1","29.6","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"594","U1","29.65","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"595","U1","29.7","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"596","U1","29.75","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"597","U1","29.8","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"598","U1","29.85","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"599","U1","29.9","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"600","U1","29.95","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"601","U1","30","Argilla sabbiosa alternata a strati calcarenitici","2b","1","Rampino","30",528312.1931,4565943.181,556
+"602","U1","30","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"603","U1","30.05","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"604","U1","30.1","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"605","U1","30.15","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"606","U1","30.2","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"607","U1","30.25","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"608","U1","30.3","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"609","U1","30.35","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"610","U1","30.4","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"611","U1","30.45","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"612","U1","30.5","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"613","U1","30.55","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"614","U1","30.6","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"615","U1","30.65","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"616","U1","30.7","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"617","U1","30.75","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"618","U1","30.8","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"619","U1","30.85","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"620","U1","30.9","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"621","U1","30.95","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"622","U1","31","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"623","U1","31.05","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"624","U1","31.1","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"625","U1","31.15","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"626","U1","31.2","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"627","U1","31.25","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"628","U1","31.3","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"629","U1","31.35","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"630","U1","31.4","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"631","U1","31.45","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"632","U1","31.5","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"633","U1","31.55","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"634","U1","31.6","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"635","U1","31.65","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"636","U1","31.7","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"637","U1","31.75","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"638","U1","31.8","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"639","U1","31.85","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"640","U1","31.9","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"641","U1","31.95","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"642","U1","32","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"643","U1","32.05","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"644","U1","32.1","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"645","U1","32.15","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"646","U1","32.2","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"647","U1","32.25","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"648","U1","32.3","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"649","U1","32.35","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"650","U1","32.4","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"651","U1","32.45","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"652","U1","32.5","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"653","U1","32.55","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"654","U1","32.6","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"655","U1","32.65","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"656","U1","32.7","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"657","U1","32.75","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"658","U1","32.8","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"659","U1","32.85","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"660","U1","32.9","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"661","U1","32.95","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"662","U1","33","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"663","U1","33.05","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"664","U1","33.1","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"665","U1","33.15","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"666","U1","33.2","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"667","U1","33.25","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"668","U1","33.3","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"669","U1","33.35","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"670","U1","33.4","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"671","U1","33.45","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"672","U1","33.5","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"673","U1","33.55","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"674","U1","33.6","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"675","U1","33.65","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"676","U1","33.7","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"677","U1","33.75","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"678","U1","33.8","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"679","U1","33.85","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"680","U1","33.9","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"681","U1","33.95","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"682","U1","34","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"683","U1","34.05","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"684","U1","34.1","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"685","U1","34.15","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"686","U1","34.2","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"687","U1","34.25","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"688","U1","34.3","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"689","U1","34.35","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"690","U1","34.4","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"691","U1","34.45","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"692","U1","34.5","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"693","U1","34.55","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"694","U1","34.6","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"695","U1","34.65","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"696","U1","34.7","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"697","U1","34.75","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"698","U1","34.8","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"699","U1","34.85","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"700","U1","34.9","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"701","U1","34.95","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"702","U1","35","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"703","U1","35.05","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"704","U1","35.1","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"705","U1","35.15","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"706","U1","35.2","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"707","U1","35.25","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"708","U1","35.3","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"709","U1","35.35","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"710","U1","35.4","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"711","U1","35.45","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"712","U1","35.5","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"713","U1","35.55","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"714","U1","35.6","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"715","U1","35.65","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"716","U1","35.7","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"717","U1","35.75","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"718","U1","35.8","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"719","U1","35.85","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"720","U1","35.9","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"721","U1","35.95","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"722","U1","36","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"723","U1","36.05","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"724","U1","36.1","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"725","U1","36.15","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"726","U1","36.2","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"727","U1","36.25","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"728","U1","36.3","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"729","U1","36.35","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"730","U1","36.4","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"731","U1","36.45","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"732","U1","36.5","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"733","U1","36.55","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"734","U1","36.6","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"735","U1","36.65","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"736","U1","36.7","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"737","U1","36.75","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"738","U1","36.8","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"739","U1","36.85","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"740","U1","36.9","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"741","U1","36.95","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"742","U1","37","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"743","U1","37.05","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"744","U1","37.1","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"745","U1","37.15","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"746","U1","37.2","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"747","U1","37.25","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"748","U1","37.3","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"749","U1","37.35","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"750","U1","37.4","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"751","U1","37.45","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"752","U1","37.5","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"753","U1","37.55","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"754","U1","37.6","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"755","U1","37.65","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"756","U1","37.7","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"757","U1","37.75","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"758","U1","37.8","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"759","U1","37.85","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"760","U1","37.9","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"761","U1","37.95","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"762","U1","38","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"763","U1","38.05","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"764","U1","38.1","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"765","U1","38.15","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"766","U1","38.2","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"767","U1","38.25","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"768","U1","38.3","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"769","U1","38.35","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"770","U1","38.4","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"771","U1","38.45","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"772","U1","38.5","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"773","U1","38.55","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"774","U1","38.6","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"775","U1","38.65","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"776","U1","38.7","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"777","U1","38.75","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"778","U1","38.8","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"779","U1","38.85","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"780","U1","38.9","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"781","U1","38.95","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"782","U1","39","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"783","U1","39.05","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"784","U1","39.1","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"785","U1","39.15","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"786","U1","39.2","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"787","U1","39.25","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"788","U1","39.3","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"789","U1","39.35","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"790","U1","39.4","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"791","U1","39.45","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"792","U1","39.5","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"793","U1","39.55","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"794","U1","39.6","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"795","U1","39.65","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"796","U1","39.7","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"797","U1","39.75","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"798","U1","39.8","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"799","U1","39.85","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"800","U1","39.9","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"801","U1","39.95","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"802","U1","40","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"803","U1","40.05","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"804","U1","40.1","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"805","U1","40.15","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"806","U1","40.2","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"807","U1","40.25","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"808","U1","40.3","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"809","U1","40.35","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"810","U1","40.4","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"811","U1","40.45","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"812","U1","40.5","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"813","U1","40.55","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"814","U1","40.6","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"815","U1","40.65","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"816","U1","40.7","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"817","U1","40.75","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"818","U1","40.8","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"819","U1","40.85","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"820","U1","40.9","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"821","U1","40.95","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"822","U1","41","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"823","U1","41.05","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"824","U1","41.1","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"825","U1","41.15","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"826","U1","41.2","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"827","U1","41.25","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"828","U1","41.3","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"829","U1","41.35","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"830","U1","41.4","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"831","U1","41.45","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"832","U1","41.5","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"833","U1","41.55","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"834","U1","41.6","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"835","U1","41.65","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"836","U1","41.7","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"837","U1","41.75","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"838","U1","41.8","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"839","U1","41.85","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"840","U1","41.9","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"841","U1","41.95","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"842","U1","42","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"843","U1","42.05","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"844","U1","42.1","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"845","U1","42.15","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"846","U1","42.2","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"847","U1","42.25","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"848","U1","42.3","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"849","U1","42.35","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"850","U1","42.4","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"851","U1","42.45","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"852","U1","42.5","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"853","U1","42.55","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"854","U1","42.6","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"855","U1","42.65","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"856","U1","42.7","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"857","U1","42.75","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"858","U1","42.8","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"859","U1","42.85","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"860","U1","42.9","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"861","U1","42.95","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"862","U1","43","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"863","U1","43.05","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"864","U1","43.1","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"865","U1","43.15","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"866","U1","43.2","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"867","U1","43.25","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"868","U1","43.3","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"869","U1","43.35","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"870","U1","43.4","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"871","U1","43.45","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"872","U1","43.5","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"873","U1","43.55","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"874","U1","43.6","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"875","U1","43.65","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"876","U1","43.7","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"877","U1","43.75","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"878","U1","43.8","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"879","U1","43.85","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"880","U1","43.9","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"881","U1","43.95","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"882","U1","44","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"883","U1","44.05","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"884","U1","44.1","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"885","U1","44.15","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"886","U1","44.2","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"887","U1","44.25","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"888","U1","44.3","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"889","U1","44.35","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"890","U1","44.4","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"891","U1","44.45","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"892","U1","44.5","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"893","U1","44.55","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"894","U1","44.6","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"895","U1","44.65","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"896","U1","44.7","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"897","U1","44.75","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"898","U1","44.8","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"899","U1","44.85","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"900","U1","44.9","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"901","U1","44.95","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"902","U1","45","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"903","U1","45.05","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"904","U1","45.1","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"905","U1","45.15","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"906","U1","45.2","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"907","U1","45.25","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"908","U1","45.3","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"909","U1","45.35","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"910","U1","45.4","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"911","U1","45.45","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"912","U1","45.5","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"913","U1","45.55","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"914","U1","45.6","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"915","U1","45.65","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"916","U1","45.7","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"917","U1","45.75","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"918","U1","45.8","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"919","U1","45.85","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"920","U1","45.9","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"921","U1","45.95","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"922","U1","46","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"923","U1","46.05","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"924","U1","46.1","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"925","U1","46.15","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"926","U1","46.2","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"927","U1","46.25","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"928","U1","46.3","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"929","U1","46.35","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"930","U1","46.4","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"931","U1","46.45","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"932","U1","46.5","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"933","U1","46.55","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"934","U1","46.6","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"935","U1","46.65","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"936","U1","46.7","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"937","U1","46.75","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"938","U1","46.8","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"939","U1","46.85","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"940","U1","46.9","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"941","U1","46.95","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"942","U1","47","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"943","U1","47.05","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"944","U1","47.1","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"945","U1","47.15","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"946","U1","47.2","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"947","U1","47.25","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"948","U1","47.3","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"949","U1","47.35","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"950","U1","47.4","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"951","U1","47.45","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"952","U1","47.5","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"953","U1","47.55","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"954","U1","47.6","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"955","U1","47.65","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"956","U1","47.7","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"957","U1","47.75","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"958","U1","47.8","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"959","U1","47.85","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"960","U1","47.9","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"961","U1","47.95","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"962","U1","48","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"963","U1","48.05","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"964","U1","48.1","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"965","U1","48.15","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"966","U1","48.2","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"967","U1","48.25","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"968","U1","48.3","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"969","U1","48.35","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"970","U1","48.4","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"971","U1","48.45","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"972","U1","48.5","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"973","U1","48.55","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"974","U1","48.6","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"975","U1","48.65","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"976","U1","48.7","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"977","U1","48.75","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"978","U1","48.8","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"979","U1","48.85","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"980","U1","48.9","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"981","U1","48.95","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"982","U1","49","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"983","U1","49.05","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"984","U1","49.1","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"985","U1","49.15","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"986","U1","49.2","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"987","U1","49.25","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"988","U1","49.3","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"989","U1","49.35","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"990","U1","49.4","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"991","U1","49.45","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"992","U1","49.5","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"993","U1","49.55","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"994","U1","49.6","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"995","U1","49.65","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"996","U1","49.7","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"997","U1","49.75","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"998","U1","49.8","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"999","U1","49.85","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1000","U1","49.9","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1001","U1","49.95","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1002","U1","50","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1003","U1","50.05","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1004","U1","50.1","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1005","U1","50.15","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1006","U1","50.2","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1007","U1","50.25","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1008","U1","50.3","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1009","U1","50.35","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1010","U1","50.4","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1011","U1","50.45","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1012","U1","50.5","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1013","U1","50.55","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1014","U1","50.6","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1015","U1","50.65","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1016","U1","50.7","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1017","U1","50.75","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1018","U1","50.8","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1019","U1","50.85","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1020","U1","50.9","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1021","U1","50.95","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1022","U1","51","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1023","U1","51.05","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1024","U1","51.1","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1025","U1","51.15","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1026","U1","51.2","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1027","U1","51.25","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1028","U1","51.3","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1029","U1","51.35","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1030","U1","51.4","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1031","U1","51.45","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1032","U1","51.5","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1033","U1","51.55","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1034","U1","51.6","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1035","U1","51.65","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1036","U1","51.7","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1037","U1","51.75","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1038","U1","51.8","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1039","U1","51.85","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1040","U1","51.9","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1041","U1","51.95","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1042","U1","52","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1043","U1","52.05","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1044","U1","52.1","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1045","U1","52.15","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1046","U1","52.2","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1047","U1","52.25","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1048","U1","52.3","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1049","U1","52.35","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1050","U1","52.4","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1051","U1","52.45","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1052","U1","52.5","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1053","U1","52.55","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1054","U1","52.6","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1055","U1","52.65","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1056","U1","52.7","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1057","U1","52.75","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1058","U1","52.8","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1059","U1","52.85","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1060","U1","52.9","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1061","U1","52.95","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1062","U1","53","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1063","U1","53.05","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1064","U1","53.1","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1065","U1","53.15","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1066","U1","53.2","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1067","U1","53.25","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1068","U1","53.3","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1069","U1","53.35","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1070","U1","53.4","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1071","U1","53.45","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1072","U1","53.5","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1073","U1","53.55","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1074","U1","53.6","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1075","U1","53.65","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1076","U1","53.7","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1077","U1","53.75","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1078","U1","53.8","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1079","U1","53.85","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1080","U1","53.9","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1081","U1","53.95","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1082","U1","54","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1083","U1","54.05","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1084","U1","54.1","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1085","U1","54.15","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1086","U1","54.2","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1087","U1","54.25","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1088","U1","54.3","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1089","U1","54.35","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1090","U1","54.4","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1091","U1","54.45","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1092","U1","54.5","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1093","U1","54.55","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1094","U1","54.6","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1095","U1","54.65","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1096","U1","54.7","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1097","U1","54.75","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1098","U1","54.8","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1099","U1","54.85","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1100","U1","54.9","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1101","U1","54.95","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1102","U1","55","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1103","U1","55.05","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1104","U1","55.1","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1105","U1","55.15","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1106","U1","55.2","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1107","U1","55.25","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1108","U1","55.3","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1109","U1","55.35","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1110","U1","55.4","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1111","U1","55.45","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1112","U1","55.5","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1113","U1","55.55","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1114","U1","55.6","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1115","U1","55.65","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1116","U1","55.7","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1117","U1","55.75","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1118","U1","55.8","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1119","U1","55.85","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1120","U1","55.9","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1121","U1","55.95","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1122","U1","56","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1123","U1","56.05","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1124","U1","56.1","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1125","U1","56.15","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1126","U1","56.2","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1127","U1","56.25","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1128","U1","56.3","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1129","U1","56.35","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1130","U1","56.4","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1131","U1","56.45","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1132","U1","56.5","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1133","U1","56.55","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1134","U1","56.6","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1135","U1","56.65","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1136","U1","56.7","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1137","U1","56.75","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1138","U1","56.8","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1139","U1","56.85","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1140","U1","56.9","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1141","U1","56.95","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1142","U1","57","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1143","U1","57.05","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1144","U1","57.1","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1145","U1","57.15","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1146","U1","57.2","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1147","U1","57.25","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1148","U1","57.3","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1149","U1","57.35","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1150","U1","57.4","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1151","U1","57.45","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1152","U1","57.5","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1153","U1","57.55","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1154","U1","57.6","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1155","U1","57.65","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1156","U1","57.7","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1157","U1","57.75","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1158","U1","57.8","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1159","U1","57.85","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1160","U1","57.9","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1161","U1","57.95","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1162","U1","58","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1163","U1","58.05","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1164","U1","58.1","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1165","U1","58.15","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1166","U1","58.2","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1167","U1","58.25","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1168","U1","58.3","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1169","U1","58.35","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1170","U1","58.4","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1171","U1","58.45","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1172","U1","58.5","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1173","U1","58.55","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1174","U1","58.6","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1175","U1","58.65","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1176","U1","58.7","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1177","U1","58.75","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1178","U1","58.8","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1179","U1","58.85","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1180","U1","58.9","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1181","U1","58.95","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1182","U1","59","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1183","U1","59.05","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1184","U1","59.1","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1185","U1","59.15","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1186","U1","59.2","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1187","U1","59.25","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1188","U1","59.3","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1189","U1","59.35","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1190","U1","59.4","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1191","U1","59.45","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1192","U1","59.5","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1193","U1","59.55","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1194","U1","59.6","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1195","U1","59.65","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1196","U1","59.7","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1197","U1","59.75","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1198","U1","59.8","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1199","U1","59.85","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1200","U1","59.9","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1201","U1","59.95","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1202","U1","60","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1203","U1","60.05","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1204","U1","60.1","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1205","U1","60.15","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1206","U1","60.2","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1207","U1","60.25","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1208","U1","60.3","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1209","U1","60.35","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1210","U1","60.4","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1211","U1","60.45","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1212","U1","60.5","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1213","U1","60.55","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1214","U1","60.6","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1215","U1","60.65","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1216","U1","60.7","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1217","U1","60.75","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1218","U1","60.8","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1219","U1","60.85","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1220","U1","60.9","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1221","U1","60.95","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1222","U1","61","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1223","U1","61.05","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1224","U1","61.1","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1225","U1","61.15","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1226","U1","61.2","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1227","U1","61.25","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1228","U1","61.3","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1229","U1","61.35","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1230","U1","61.4","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1231","U1","61.45","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1232","U1","61.5","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1233","U1","61.55","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1234","U1","61.6","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1235","U1","61.65","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1236","U1","61.7","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1237","U1","61.75","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1238","U1","61.8","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1239","U1","61.85","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1240","U1","61.9","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1241","U1","61.95","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1242","U1","62","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1243","U1","62.05","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1244","U1","62.1","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1245","U1","62.15","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1246","U1","62.2","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1247","U1","62.25","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1248","U1","62.3","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1249","U1","62.35","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1250","U1","62.4","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1251","U1","62.45","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1252","U1","62.5","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1253","U1","62.55","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1254","U1","62.6","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1255","U1","62.65","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1256","U1","62.7","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1257","U1","62.75","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1258","U1","62.8","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1259","U1","62.85","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1260","U1","62.9","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1261","U1","62.95","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1262","U1","63","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1263","U1","63.05","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1264","U1","63.1","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1265","U1","63.15","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1266","U1","63.2","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1267","U1","63.25","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1268","U1","63.3","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1269","U1","63.35","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1270","U1","63.4","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1271","U1","63.45","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1272","U1","63.5","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1273","U1","63.55","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1274","U1","63.6","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1275","U1","63.65","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1276","U1","63.7","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1277","U1","63.75","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1278","U1","63.8","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1279","U1","63.85","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1280","U1","63.9","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1281","U1","63.95","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1282","U1","64","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1283","U1","64.05","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1284","U1","64.1","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1285","U1","64.15","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1286","U1","64.2","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1287","U1","64.25","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1288","U1","64.3","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1289","U1","64.35","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1290","U1","64.4","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1291","U1","64.45","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1292","U1","64.5","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1293","U1","64.55","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1294","U1","64.6","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1295","U1","64.65","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1296","U1","64.7","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1297","U1","64.75","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1298","U1","64.8","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1299","U1","64.85","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1300","U1","64.9","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1301","U1","64.95","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1302","U1","65","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1303","U1","65.05","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1304","U1","65.1","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1305","U1","65.15","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1306","U1","65.2","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1307","U1","65.25","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1308","U1","65.3","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1309","U1","65.35","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1310","U1","65.4","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1311","U1","65.45","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1312","U1","65.5","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1313","U1","65.55","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1314","U1","65.6","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1315","U1","65.65","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1316","U1","65.7","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1317","U1","65.75","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1318","U1","65.8","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1319","U1","65.85","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1320","U1","65.9","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1321","U1","65.95","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1322","U1","66","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1323","U1","66.05","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1324","U1","66.1","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1325","U1","66.15","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1326","U1","66.2","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1327","U1","66.25","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1328","U1","66.3","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1329","U1","66.35","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1330","U1","66.4","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1331","U1","66.45","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1332","U1","66.5","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1333","U1","66.55","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1334","U1","66.6","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1335","U1","66.65","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1336","U1","66.7","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1337","U1","66.75","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1338","U1","66.8","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1339","U1","66.85","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1340","U1","66.9","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1341","U1","66.95","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1342","U1","67","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1343","U1","67.05","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1344","U1","67.1","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1345","U1","67.15","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1346","U1","67.2","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1347","U1","67.25","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1348","U1","67.3","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1349","U1","67.35","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1350","U1","67.4","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1351","U1","67.45","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1352","U1","67.5","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1353","U1","67.55","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1354","U1","67.6","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1355","U1","67.65","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1356","U1","67.7","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1357","U1","67.75","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1358","U1","67.8","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1359","U1","67.85","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1360","U1","67.9","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1361","U1","67.95","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1362","U1","68","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1363","U1","68.05","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1364","U1","68.1","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1365","U1","68.15","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1366","U1","68.2","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1367","U1","68.25","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1368","U1","68.3","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1369","U1","68.35","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1370","U1","68.4","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1371","U1","68.45","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1372","U1","68.5","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1373","U1","68.55","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1374","U1","68.6","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1375","U1","68.65","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1376","U1","68.7","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1377","U1","68.75","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1378","U1","68.8","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1379","U1","68.85","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1380","U1","68.9","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1381","U1","68.95","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1382","U1","69","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1383","U1","69.05","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1384","U1","69.1","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1385","U1","69.15","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1386","U1","69.2","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1387","U1","69.25","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1388","U1","69.3","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1389","U1","69.35","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1390","U1","69.4","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1391","U1","69.45","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1392","U1","69.5","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1393","U1","69.55","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1394","U1","69.6","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1395","U1","69.65","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1396","U1","69.7","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1397","U1","69.75","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1398","U1","69.8","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1399","U1","69.85","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1400","U1","69.9","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1401","U1","69.95","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1402","U1","70","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1403","U1","70.05","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1404","U1","70.1","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1405","U1","70.15","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1406","U1","70.2","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1407","U1","70.25","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1408","U1","70.3","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1409","U1","70.35","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1410","U1","70.4","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1411","U1","70.45","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1412","U1","70.5","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1413","U1","70.55","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1414","U1","70.6","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1415","U1","70.65","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1416","U1","70.7","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1417","U1","70.75","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1418","U1","70.8","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1419","U1","70.85","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1420","U1","70.9","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1421","U1","70.95","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1422","U1","71","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1423","U1","71.05","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1424","U1","71.1","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1425","U1","71.15","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1426","U1","71.2","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1427","U1","71.25","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1428","U1","71.3","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1429","U1","71.35","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1430","U1","71.4","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1431","U1","71.45","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1432","U1","71.5","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1433","U1","71.55","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1434","U1","71.6","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1435","U1","71.65","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1436","U1","71.7","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1437","U1","71.75","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1438","U1","71.8","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1439","U1","71.85","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1440","U1","71.9","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1441","U1","71.95","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1442","U1","72","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1443","U1","72.05","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1444","U1","72.1","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1445","U1","72.15","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1446","U1","72.2","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1447","U1","72.25","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1448","U1","72.3","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1449","U1","72.35","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1450","U1","72.4","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1451","U1","72.45","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1452","U1","72.5","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1453","U1","72.55","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1454","U1","72.6","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1455","U1","72.65","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1456","U1","72.7","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1457","U1","72.75","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1458","U1","72.8","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1459","U1","72.85","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1460","U1","72.9","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1461","U1","72.95","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1462","U1","73","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1463","U1","73.05","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1464","U1","73.1","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1465","U1","73.15","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1466","U1","73.2","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1467","U1","73.25","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1468","U1","73.3","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1469","U1","73.35","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1470","U1","73.4","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1471","U1","73.45","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1472","U1","73.5","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1473","U1","73.55","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1474","U1","73.6","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1475","U1","73.65","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1476","U1","73.7","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1477","U1","73.75","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1478","U1","73.8","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1479","U1","73.85","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1480","U1","73.9","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1481","U1","73.95","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1482","U1","74","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1483","U1","74.05","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1484","U1","74.1","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1485","U1","74.15","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1486","U1","74.2","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1487","U1","74.25","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1488","U1","74.3","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1489","U1","74.35","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1490","U1","74.4","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1491","U1","74.45","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1492","U1","74.5","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1493","U1","74.55","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1494","U1","74.6","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1495","U1","74.65","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1496","U1","74.7","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1497","U1","74.75","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1498","U1","74.8","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1499","U1","74.85","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1500","U1","74.9","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1501","U1","74.95","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1502","U1","75","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1503","U1","75.05","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1504","U1","75.1","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1505","U1","75.15","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1506","U1","75.2","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1507","U1","75.25","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1508","U1","75.3","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1509","U1","75.35","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1510","U1","75.4","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1511","U1","75.45","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1512","U1","75.5","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1513","U1","75.55","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1514","U1","75.6","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1515","U1","75.65","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1516","U1","75.7","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1517","U1","75.75","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1518","U1","75.8","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1519","U1","75.85","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1520","U1","75.9","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1521","U1","75.95","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1522","U1","76","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1523","U1","76.05","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1524","U1","76.1","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1525","U1","76.15","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1526","U1","76.2","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1527","U1","76.25","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1528","U1","76.3","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1529","U1","76.35","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1530","U1","76.4","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1531","U1","76.45","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1532","U1","76.5","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1533","U1","76.55","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1534","U1","76.6","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1535","U1","76.65","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
+"1536","U1","76.7","Argilla sabbiosa alternata a strati calcarenitici","2b","0","Rampino","30",528312.1931,4565943.181,556
