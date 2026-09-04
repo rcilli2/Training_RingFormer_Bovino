@@ -17,6 +17,22 @@ COLORS = {
     "LLLA": "#c94b45",
     "TabICLv2 (hidden)": "#76559b",
 }
+CLASS_COLORS = {
+    0: "#2b8c3b",
+    1: "#f4e7a1",
+    2: "#f4a623",
+    3: "#ef9474",
+    4: "#8f79c6",
+    5: "#4f86c6",
+}
+CLASS_NAMES = {
+    0: "Topsoil",
+    1: "Elu (4)",
+    2: "Debris (3)",
+    3: "Transitional Flysch (2b)",
+    4: "Clay Flysch (2a)",
+    5: "Fyr Flysch (1)",
+}
 
 
 def load_predictions(name: str) -> pd.DataFrame:
@@ -103,3 +119,90 @@ def load_buffer_metrics() -> pd.DataFrame:
 
 def load_perturbation_metrics() -> pd.DataFrame:
     return pd.read_csv(DATA / "feature_perturbation_all_methods.csv")
+
+
+def borehole_summary(frame: pd.DataFrame) -> pd.DataFrame:
+    """Aggregate token predictions to one spatial record per borehole."""
+    return (
+        frame.groupby("borehole", as_index=False)
+        .agg(
+            x=("x", "median"),
+            y=("y", "median"),
+            accuracy=("correct", "mean"),
+            confidence=("confidence", "mean"),
+            predictive_entropy=("total_uncertainty", "mean"),
+            epistemic_proxy=("epistemic_uncertainty", "mean"),
+            intervals=("depth", "size"),
+            max_depth=("depth", "max"),
+        )
+    )
+
+
+def plot_borehole_profile(frame: pd.DataFrame, borehole: str) -> tuple[plt.Figure, np.ndarray]:
+    """Plot observed/predicted units, probabilities, and uncertainty with depth."""
+    profile = frame.loc[frame["borehole"].astype(str) == str(borehole)].sort_values("depth").copy()
+    if profile.empty:
+        available = ", ".join(sorted(frame["borehole"].astype(str).unique())[:12])
+        raise KeyError(f"Unknown borehole {borehole!r}. Examples: {available}")
+
+    depth = profile["depth"].to_numpy()
+    true_ids = profile["true_class_id"].astype(int).to_numpy()
+    pred_ids = profile["pred_class_id"].astype(int).to_numpy()
+    probability_columns = [f"prob_class_{index}" for index in range(6)]
+    probabilities = profile[probability_columns].to_numpy()
+    class_names = CLASS_NAMES.copy()
+    class_names.update(dict(profile[["true_class_id", "true_class_name"]].drop_duplicates().values))
+    class_names.update(dict(profile[["pred_class_id", "pred_class_name"]].drop_duplicates().values))
+
+    fig, axes = plt.subplots(
+        1, 4, figsize=(13.5, 7), sharey=True, constrained_layout=True,
+        gridspec_kw={"width_ratios": [0.8, 0.8, 2.5, 1.8]},
+    )
+    for axis, values, title in zip(axes[:2], [true_ids, pred_ids], ["Observed", "Predicted"]):
+        for row, value in enumerate(values):
+            lower = depth[row - 1] / 2 + depth[row] / 2 if row else max(0, depth[row] - 0.8)
+            upper = depth[row] / 2 + depth[row + 1] / 2 if row + 1 < len(depth) else depth[row] + 0.8
+            axis.axhspan(lower, upper, color=CLASS_COLORS.get(value, "#bdbdbd"))
+        axis.set(title=title, xticks=[])
+
+    cumulative = np.zeros(len(profile))
+    for class_id in range(6):
+        upper = cumulative + probabilities[:, class_id]
+        axes[2].fill_betweenx(depth, cumulative, upper, color=CLASS_COLORS[class_id], alpha=0.9,
+                              label=class_names.get(class_id, f"Class {class_id}"))
+        cumulative = upper
+    axes[2].set(title="Class probabilities", xlabel="Probability", xlim=(0, 1))
+    axes[2].legend(loc="upper center", bbox_to_anchor=(0.5, -0.08), ncol=2, fontsize=8)
+
+    axes[3].plot(profile["confidence"], depth, color="#24476b", label="Confidence")
+    axes[3].plot(profile["total_uncertainty"], depth, color="#d95f3d", label="Predictive entropy")
+    axes[3].plot(profile["epistemic_uncertainty"], depth, color="#76559b", label="MI / epistemic proxy")
+    axes[3].set(title="Confidence and uncertainty", xlabel="Score")
+    axes[3].legend(fontsize=8)
+    for axis in axes:
+        axis.grid(alpha=0.18)
+    axes[0].invert_yaxis()
+    axes[0].set_ylabel("Depth (m)")
+    fig.suptitle(f"Borehole {borehole}: held-out prediction profile", fontweight="bold")
+    return fig, axes
+
+
+def plot_spatial_boreholes(frame: pd.DataFrame) -> tuple[plt.Figure, np.ndarray]:
+    """Map held-out boreholes by predictive performance and uncertainty."""
+    summary = borehole_summary(frame)
+    fig, axes = plt.subplots(1, 3, figsize=(15, 4.8), constrained_layout=True)
+    specifications = [
+        ("accuracy", "Held-out accuracy", "viridis", 0, 1),
+        ("predictive_entropy", "Mean predictive entropy", "magma", None, None),
+        ("epistemic_proxy", "Mean MI / epistemic proxy", "magma", None, None),
+    ]
+    for axis, (column, title, cmap, lower, upper) in zip(axes, specifications):
+        points = axis.scatter(summary["x"], summary["y"], c=summary[column], cmap=cmap,
+                              vmin=lower, vmax=upper, s=35 + summary["intervals"],
+                              edgecolor="white", linewidth=0.5)
+        axis.set(title=title, xlabel="X", ylabel="Y", aspect="equal")
+        axis.ticklabel_format(style="plain", useOffset=False)
+        axis.grid(alpha=0.18)
+        fig.colorbar(points, ax=axis, shrink=0.82)
+    fig.suptitle("Spatial distribution of held-out borehole results", fontweight="bold")
+    return fig, axes

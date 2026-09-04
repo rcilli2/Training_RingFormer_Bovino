@@ -14,6 +14,8 @@ The training now provides two complementary routes:
 - `01_results_explorer.ipynb` reproduces the principal protocol comparison from packaged predictions without training.
 - `02_uq_method_comparison.ipynb` compares calibration and confidence-based error detection across five UQ methods.
 - `03_distribution_shift.ipynb` examines spatial exclusion buffers and synthetic feature perturbations.
+- `04_borehole_prediction_profiles.ipynb` aligns observed and predicted units, probabilities, and uncertainty along depth.
+- `05_spatial_borehole_distribution.ipynb` maps held-out accuracy and uncertainty across borehole locations.
 
 The conceptual chapters in `text/` explain the dataset, architecture, validation protocols, uncertainty methods, metrics, and limitations.
 
