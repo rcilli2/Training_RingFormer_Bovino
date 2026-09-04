@@ -10,6 +10,22 @@ Portable JupyterLab reproduction of the MiniLM PCA16 + XYZ/depth MiniTransformer
 
 The project uses Python 3.12 and a reproducible `uv.lock`. PyTorch is explicitly installed as the CPU build to avoid CUDA/driver DLL issues on workshop machines.
 
+## Optional NVIDIA CUDA support
+
+The default environment is CPU-only. On a machine with a compatible NVIDIA driver, run:
+
+```powershell
+training\setup_cuda.bat
+```
+
+The default CUDA wheel is `cu126`. Pass another PyTorch wheel tag when required by the driver, for example `training\setup_cuda.bat cu128`. The launcher replaces only the local PyTorch installation, then runs `verify_torch.py --expect cuda`. It does not modify `uv.lock`.
+
+To return to the portable CPU environment:
+
+```powershell
+uv sync --reinstall
+```
+
 ## Running the experiments
 
 ```powershell
