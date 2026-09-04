@@ -17,6 +17,34 @@ COLORS = {
     "LLLA": "#c94b45",
     "TabICLv2 (hidden)": "#76559b",
 }
+UQ_METHODS = ["MC dropout", "Deep Ensemble", "Subsample Ensemble", "LLLA", "TabICLv2: hidden"]
+METHOD_COLORS = {
+    "MC dropout": "#24476b",
+    "Deep Ensemble": "#e68632",
+    "Subsample Ensemble": "#3f9560",
+    "LLLA": "#c94b45",
+    "TabICLv2: hidden": "#76559b",
+}
+FEATURE_CONFIGS = [
+    "Depth only",
+    "Embeddings + depth: PCA 16",
+    "XYZ + depth",
+    "Embeddings + XYZ + depth: PCA 8",
+    "Embeddings + XYZ + depth: PCA 16",
+    "Embeddings + XYZ + depth: PCA 32",
+    "Embeddings + XYZ + depth: PCA 64",
+    "Embeddings + XYZ + depth: native",
+]
+FEATURE_LABELS = [
+    "Depth",
+    "Text PCA16\n+ depth",
+    "XYZ\n+ depth",
+    "XYZ + text\nPCA8",
+    "XYZ + text\nPCA16",
+    "XYZ + text\nPCA32",
+    "XYZ + text\nPCA64",
+    "XYZ + text\nnative",
+]
 CLASS_COLORS = {
     0: "#2b8c3b",
     1: "#f4e7a1",
@@ -119,6 +147,164 @@ def load_buffer_metrics() -> pd.DataFrame:
 
 def load_perturbation_metrics() -> pd.DataFrame:
     return pd.read_csv(DATA / "feature_perturbation_all_methods.csv")
+
+
+def load_representation_metrics(protocol: str) -> pd.DataFrame:
+    """Load the controlled feature benchmark for LOBO or LOCO."""
+    key = protocol.strip().lower()
+    if key not in {"lobo", "loco"}:
+        raise ValueError("protocol must be 'lobo' or 'loco'")
+    return pd.read_csv(DATA / f"representation_{key}_metrics.csv")
+
+
+def representation_summary(protocol: str) -> pd.DataFrame:
+    """Average the controlled benchmark across embedding models and selected UQ methods."""
+    frame = load_representation_metrics(protocol)
+    frame = frame[frame["uq_method"].isin(UQ_METHODS) & frame["configuration"].isin(FEATURE_CONFIGS)]
+    return (
+        frame.groupby("configuration", as_index=False)
+        .agg(
+            runs=("accuracy", "size"),
+            accuracy=("accuracy", "mean"),
+            accuracy_std=("accuracy", "std"),
+            kappa=("kappa", "mean"),
+            error_auroc_confidence=("error_auroc_confidence_complement", "mean"),
+            error_auroc_entropy=("error_auroc_total_uncertainty", "mean"),
+            error_auroc_mi=("error_auroc_epistemic", "mean"),
+        )
+        .set_index("configuration")
+        .reindex(FEATURE_CONFIGS)
+        .reset_index()
+    )
+
+
+def plot_feature_representation_comparison() -> tuple[plt.Figure, np.ndarray]:
+    """Compare predictive performance across controlled input sets under LOBO and LOCO."""
+    fig, axes = plt.subplots(2, 2, figsize=(15, 9), sharex=True, constrained_layout=True)
+    for row, protocol in enumerate(["lobo", "loco"]):
+        frame = load_representation_metrics(protocol)
+        frame = frame[frame["uq_method"].isin(UQ_METHODS) & frame["configuration"].isin(FEATURE_CONFIGS)]
+        for method in UQ_METHODS:
+            method_frame = frame[frame["uq_method"] == method]
+            grouped = method_frame.groupby("configuration")[["accuracy", "kappa"]].mean().reindex(FEATURE_CONFIGS)
+            for col, metric in enumerate(["accuracy", "kappa"]):
+                axes[row, col].plot(
+                    range(len(FEATURE_CONFIGS)), grouped[metric], marker="o", linewidth=1.8,
+                    color=METHOD_COLORS[method], label=method,
+                )
+        axes[row, 0].set_ylabel(f"{protocol.upper()} score")
+        axes[row, 0].set_title("Overall accuracy", fontweight="bold")
+        axes[row, 1].set_title("Cohen's kappa", fontweight="bold")
+        for axis in axes[row]:
+            axis.set_ylim(0.2, 0.85)
+            axis.grid(alpha=0.22)
+    for axis in axes[-1]:
+        axis.set_xticks(range(len(FEATURE_CONFIGS)), FEATURE_LABELS, rotation=28, ha="right")
+    axes[0, 1].legend(fontsize=8, ncol=2, loc="lower right")
+    fig.suptitle("What do coordinates and text contribute?", fontweight="bold")
+    return fig, axes
+
+
+def plot_lobo_loco_transfer() -> tuple[plt.Figure, plt.Axes]:
+    """Match PCA16 results by embedding and method across validation protocols."""
+    config = "Embeddings + XYZ + depth: PCA 16"
+    lobo = load_representation_metrics("lobo")
+    loco = load_representation_metrics("loco")
+    keys = ["embedding", "uq_method"]
+    lobo = lobo[(lobo.configuration == config) & lobo.uq_method.isin(UQ_METHODS)].groupby(keys, as_index=False).accuracy.mean()
+    loco = loco[(loco.configuration == config) & loco.uq_method.isin(UQ_METHODS)].groupby(keys, as_index=False).accuracy.mean()
+    matched = lobo.merge(loco, on=keys, suffixes=("_lobo", "_loco"))
+    fig, axis = plt.subplots(figsize=(7, 6), constrained_layout=True)
+    for method in UQ_METHODS:
+        group = matched[matched.uq_method == method]
+        axis.scatter(group.accuracy_lobo, group.accuracy_loco, s=50, alpha=0.8,
+                     color=METHOD_COLORS[method], label=method)
+    lower = min(matched.accuracy_lobo.min(), matched.accuracy_loco.min()) - 0.02
+    upper = max(matched.accuracy_lobo.max(), matched.accuracy_loco.max()) + 0.02
+    axis.plot([lower, upper], [lower, upper], "--", color="#68717a", label="Equal performance")
+    axis.set(xlabel="LOBO accuracy", ylabel="LOCO accuracy", xlim=(lower, upper), ylim=(lower, upper))
+    axis.set_title("The unseen-campaign test is harder", fontweight="bold")
+    axis.grid(alpha=0.22)
+    axis.legend(fontsize=8)
+    return fig, axis
+
+
+def uq_benchmark_summary(protocol: str, configuration: str = "Embeddings + XYZ + depth: PCA 16") -> pd.DataFrame:
+    """Average predictive and error-detection metrics over embedding models."""
+    frame = load_representation_metrics(protocol)
+    frame = frame[(frame.configuration == configuration) & frame.uq_method.isin(UQ_METHODS)]
+    return (
+        frame.groupby("uq_method", as_index=False)
+        .agg(
+            embedding_models=("embedding", "nunique"),
+            accuracy=("accuracy", "mean"),
+            kappa=("kappa", "mean"),
+            error_auroc_confidence=("error_auroc_confidence_complement", "mean"),
+            error_auroc_entropy=("error_auroc_total_uncertainty", "mean"),
+            error_auroc_mi=("error_auroc_epistemic", "mean"),
+            error_auprc_confidence=("error_auprc_confidence_complement", "mean"),
+            error_auprc_entropy=("error_auprc_total_uncertainty", "mean"),
+            error_auprc_mi=("error_auprc_epistemic", "mean"),
+            ece=("ece", "mean"),
+        )
+        .set_index("uq_method")
+        .reindex(UQ_METHODS)
+        .reset_index()
+    )
+
+
+def plot_uq_benchmark() -> tuple[plt.Figure, np.ndarray]:
+    """Compare three error scores under LOBO and unseen-campaign validation."""
+    metrics = ["error_auroc_confidence", "error_auroc_entropy", "error_auroc_mi"]
+    titles = ["1 - confidence", "Predictive entropy", "MI / epistemic proxy"]
+    fig, axes = plt.subplots(2, 3, figsize=(15, 8), sharey=True, constrained_layout=True)
+    for row, protocol in enumerate(["lobo", "loco"]):
+        summary = uq_benchmark_summary(protocol)
+        for col, (metric, title) in enumerate(zip(metrics, titles)):
+            axis = axes[row, col]
+            axis.bar(range(len(summary)), summary[metric], color=[METHOD_COLORS[m] for m in summary.uq_method])
+            axis.axhline(0.5, linestyle="--", color="#68717a", linewidth=1)
+            axis.set_ylim(0.45, 0.82)
+            axis.set_title(title, fontweight="bold")
+            axis.grid(axis="y", alpha=0.22)
+            if col == 0:
+                axis.set_ylabel(f"{protocol.upper()} Error AUROC")
+            axis.set_xticks(range(len(summary)), [m.replace("TabICLv2: ", "TabICLv2\n") for m in summary.uq_method],
+                            rotation=28, ha="right")
+    fig.suptitle("Can uncertainty rank incorrect predictions?", fontweight="bold")
+    return fig, axes
+
+
+def plot_buffer_method_comparison() -> tuple[plt.Figure, np.ndarray]:
+    """Show performance and uncertainty as local spatial support is removed."""
+    frame = load_buffer_metrics()
+    method_names = {
+        "mc_dropout": "MC dropout",
+        "deep_ensemble": "Deep Ensemble",
+        "subsample_ensemble": "Subsample Ensemble",
+        "llla": "LLLA",
+        "tabicl_hidden": "TabICLv2: hidden",
+    }
+    frame = frame[frame.method.isin(method_names)].copy()
+    frame["display_method"] = frame.method.map(method_names)
+    panels = [
+        ("accuracy", "Overall accuracy"),
+        ("mean_confidence", "Mean confidence"),
+        ("mean_total_uncertainty", "Predictive entropy"),
+        ("mean_epistemic_uncertainty", "MI / epistemic proxy"),
+        ("error_auroc_total_uncertainty", "Error AUROC: entropy"),
+    ]
+    fig, axes = plt.subplots(2, 3, figsize=(15, 8), constrained_layout=True)
+    for axis, (metric, title) in zip(axes.flat, panels):
+        for method in UQ_METHODS:
+            group = frame[frame.display_method == method].sort_values("buffer_m")
+            axis.plot(group.buffer_m, group[metric], marker="o", color=METHOD_COLORS[method], label=method)
+        axis.set(title=title, xlabel="Exclusion buffer (m)")
+        axis.grid(alpha=0.22)
+    axes[1, 2].axis("off")
+    axes[0, 2].legend(fontsize=8)
+    fig.suptitle("What happens when nearby boreholes are removed?", fontweight="bold")
+    return fig, axes
 
 
 def borehole_summary(frame: pd.DataFrame) -> pd.DataFrame:

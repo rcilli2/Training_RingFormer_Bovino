@@ -1,4 +1,4 @@
-% BOVINO: uncertainty-aware sequence labelling
+% BOVINO: saved-results training
 
 This training explains and reproduces lithological sequence labelling from borehole descriptions, coordinates, and depth.
 
@@ -8,7 +8,9 @@ This training explains and reproduces lithological sequence labelling from boreh
 1. [Validation and distribution shift](04_validation_and_shift.md)
 1. [Uncertainty quantification](05_uncertainty_quantification.md)
 1. [Metrics](06_metrics.md)
-1. [Results and limitations](07_results_and_limitations.md)
-1. [Reproducibility](08_reproducibility.md)
+1. [Controlled representation experiments](07_results_and_limitations.md)
+1. [Decreasing spatial support](08_spatial_support_experiment.md)
+1. [Interpretation and limitations](09_interpretation_and_limitations.md)
+1. [Reproducibility](10_reproducibility.md)
 
-Run the smoke test before launching the complete LOBO or leave-one-campaign-out workflows.
+Open the notebooks in numerical order. They use packaged predictions and do not import PyTorch or train models; use the Full Reproduction package for new runs.
