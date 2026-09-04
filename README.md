@@ -6,7 +6,16 @@ Portable JupyterLab reproduction of the MiniLM PCA16 + XYZ/depth MiniTransformer
 
 1. Install [uv](https://docs.astral.sh/uv/getting-started/installation/).
 2. Run [`training/start.bat`](training/start.bat).
-3. Open `notebooks/00_full_reproduction.ipynb` in JupyterLab.
+3. Open the notebooks in numerical order in JupyterLab.
+
+The training now provides two complementary routes:
+
+- `00_full_reproduction.ipynb` validates PyTorch and launches new smoke, LOBO, or LOCO runs.
+- `01_results_explorer.ipynb` reproduces the principal protocol comparison from packaged predictions without training.
+- `02_uq_method_comparison.ipynb` compares calibration and confidence-based error detection across five UQ methods.
+- `03_distribution_shift.ipynb` examines spatial exclusion buffers and synthetic feature perturbations.
+
+The conceptual chapters in `text/` explain the dataset, architecture, validation protocols, uncertainty methods, metrics, and limitations.
 
 The project uses Python 3.12 and a reproducible `uv.lock`. PyTorch is explicitly installed as the CPU build to avoid CUDA/driver DLL issues on workshop machines.
 
@@ -41,6 +50,7 @@ The smoke test runs one fold for two epochs. The complete 95-fold LOBO run is co
 
 - `src/`: training code and MiniTransformer implementation.
 - `data/`: borehole tables and cached MiniLM embeddings.
-- `notebooks/`: interactive workflow.
+- `notebooks/`: full reproduction and saved-results analysis workflows.
 - `results/`: supplied reference output and locally generated runs.
+- `text/`: self-contained background chapters for the RING training interface.
 - `training/`: JupyterLab launcher compatible with the RING training template.
