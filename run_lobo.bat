@@ -3,7 +3,7 @@ setlocal
 cd /d "%~dp0"
 set "DEVICE=%~1"
 if "%DEVICE%"=="" set "DEVICE=cpu"
-".venv\Scripts\python.exe" -u scripts\train_sequence_labelling_uq.py ^
+uv run --no-sync python -u src\scripts\train_sequence_labelling_uq.py ^
   --data-glob "data\boreholes\*.csv" --output-dir "results\lobo_mc_dropout" ^
   --embedding-cache "data\embedding_cache_minilm.npz" --embedding-model all-MiniLM-L6-v2 ^
   --embedding-pca-dim 16 --epochs 300 --batch-size 95 --learning-rate 3e-4 ^

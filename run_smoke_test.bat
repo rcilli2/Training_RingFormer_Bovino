@@ -3,7 +3,7 @@ setlocal
 cd /d "%~dp0"
 set "DEVICE=%~1"
 if "%DEVICE%"=="" set "DEVICE=cpu"
-".venv\Scripts\python.exe" -u scripts\train_sequence_labelling_uq.py ^
+uv run --no-sync python -u src\scripts\train_sequence_labelling_uq.py ^
   --data-glob "data\boreholes\*.csv" ^
   --output-dir "results\smoke_test" ^
   --embedding-cache "data\embedding_cache_minilm.npz" ^

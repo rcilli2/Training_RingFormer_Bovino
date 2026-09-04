@@ -1,0 +1,11 @@
+.venv/
+.uv-cache/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.jupyter/
+html/
+*.log
+results/lobo_*/
+results/loco_*/
+results/smoke_test/

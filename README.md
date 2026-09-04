@@ -1,20 +1,30 @@
 # BOVINO Full Reproduction
 
-This package reruns the principal MiniLM PCA16 + XYZ/depth Transformer experiment with MC Dropout. It includes the 95 harmonized borehole tables and a precomputed MiniLM embedding cache, so the default run does not need to download the embedding model.
+Portable JupyterLab reproduction of the MiniLM PCA16 + XYZ/depth MiniTransformer experiment with MC Dropout uncertainty estimation. The package includes 95 harmonized borehole tables and a precomputed MiniLM embedding cache, so the default workflow does not download an embedding model.
 
-## Recommended installation order
+## Quick start on Windows
 
-1. Install a fresh Python 3.11 virtual environment with `setup_cpu.bat` or `setup_cuda.bat`.
-2. Run `verify_torch.py` before starting training.
-3. Run `run_lobo.bat` for leave-one-borehole-out validation.
-4. Run `run_loco.bat` for leave-one-campaign-out validation.
+1. Install [uv](https://docs.astral.sh/uv/getting-started/installation/).
+2. Run [`training/start.bat`](training/start.bat).
+3. Open `notebooks/00_full_reproduction.ipynb` in JupyterLab.
 
-The CPU setup deliberately installs PyTorch separately from the remaining dependencies. This avoids silently receiving an incompatible CUDA build on a machine without a working CUDA runtime.
+The project uses Python 3.12 and a reproducible `uv.lock`. PyTorch is explicitly installed as the CPU build to avoid CUDA/driver DLL issues on workshop machines.
 
-## Runtime expectations
+## Running the experiments
 
-The full 95-fold LOBO experiment is computationally expensive on CPU. For an installation smoke test, run `run_smoke_test.bat`, which evaluates only one fold and 2 epochs. Output is written under `results/`.
+```powershell
+uv run python verify_torch.py --expect cpu
+run_smoke_test.bat
+run_lobo.bat
+run_loco.bat
+```
 
-## PyTorch troubleshooting
+The smoke test runs one fold for two epochs. The complete 95-fold LOBO run is computationally expensive on CPU. Generated LOBO, LOCO, and smoke-test outputs are ignored by Git; the supplied reference smoke-test outputs remain in `results/smoke_test_direct/`.
 
-If `verify_torch.py` fails, do not start training. Delete `.venv` and rerun the appropriate setup script. The Results Explorer package remains usable because it does not depend on PyTorch.
+## Project layout
+
+- `src/`: training code and MiniTransformer implementation.
+- `data/`: borehole tables and cached MiniLM embeddings.
+- `notebooks/`: interactive workflow.
+- `results/`: supplied reference output and locally generated runs.
+- `training/`: JupyterLab launcher compatible with the RING training template.
