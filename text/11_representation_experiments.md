@@ -1,8 +1,14 @@
-% 7 - Controlled representation experiments
+% 11 - Controlled representation experiments
 
 # What do coordinates and descriptions contribute?
 
 The representation study changes the input features while preserving the target, architecture, and validation protocol. It combines 14 sentence-embedding models with five uncertainty strategies and multiple PCA dimensions. The purpose is not to find one lucky embedding, but to determine whether the same feature conclusion survives many modelling choices.
+
+## Where the plotted results come from
+
+Training_01_Representations_LOBO_and_LOCO.ipynb reads representation_lobo_metrics.csv and representation_loco_metrics.csv. These are saved run-level metrics from the controlled studies.
+
+The summary selects the five UQ methods and feature configurations, then averages the available run metrics within each feature configuration. The curves separate methods and average across embedding models. These are averages of stored metrics, not one confusion matrix pooled across all models.
 
 ## Depth, text, and spatial position
 
@@ -18,6 +24,8 @@ For MiniLM specifically, the gain is larger and appears for every selected metho
 
 ## Why compare LOBO and unseen campaigns?
 
-In LOBO, native and PCA-compressed embeddings perform similarly. Under unseen campaigns, native embeddings fall below the spatial baseline, while 8 to 32 PCA components retain a modest improvement. PCA appears to regularize campaign-specific linguistic variation rather than merely accelerate computation.
+In LOBO, native and PCA-compressed embeddings perform similarly. Under unseen campaigns, native embeddings fall below the spatial baseline, while 8 to 32 PCA components retain a modest improvement. In this comparison, compression improves held-out classification performance; the experiment does not identify which semantic properties the retained components represent.
 
 The benchmark cells share observations and validation folds. Agreement across models is robust descriptive evidence, not a collection of independent statistical replicates.
+
+Next: [Decreasing spatial support](12_spatial_support.md).

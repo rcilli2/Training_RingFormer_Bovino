@@ -1,16 +1,24 @@
-% BOVINO: saved-results training
+% BOVINO: geological classification and uncertainty
 
-This training explains and reproduces lithological sequence labelling from borehole descriptions, coordinates, and depth.
+# From borehole descriptions to reliable predictions
 
-1. [Problem and dataset](01_problem_and_dataset.md)
-1. [Inputs and text embeddings](02_inputs_and_embeddings.md)
-1. [RingFormer architecture](03_ringformer_architecture.md)
-1. [Validation and distribution shift](04_validation_and_shift.md)
-1. [Uncertainty quantification](05_uncertainty_quantification.md)
-1. [Metrics](06_metrics.md)
-1. [Controlled representation experiments](07_results_and_limitations.md)
-1. [Decreasing spatial support](08_spatial_support_experiment.md)
-1. [Interpretation and limitations](09_interpretation_and_limitations.md)
-1. [Reproducibility](10_reproducibility.md)
+The chapters follow the full reasoning of the study: represent geological observations, learn from the vertical sequence, and test whether uncertainty remains useful when prediction becomes difficult.
 
-Open the notebooks in numerical order. They use packaged predictions and do not import PyTorch or train models; use the Full Reproduction package for new runs.
+1. [The geological question](01_geological_question.md)
+2. [Boreholes and learning data](02_learning_dataset.md)
+3. [Text embeddings and Sentence-BERT](03_text_features.md)
+4. [PCA](04_pca_explained.md)
+5. [Attention and Transformer families](05_attention_explained.md)
+6. [The BOVINO network, backpropagation and Adam](06_bovino_network.md)
+7. [Validation and distribution shift](07_validation_and_shift.md)
+8. [Probabilities, entropy and mutual information](08_probabilities_and_uncertainty.md)
+9. [Five uncertainty strategies](09_uncertainty_methods.md)
+10. [Accuracy, calibration and error detection](10_reliability_metrics.md)
+11. [Controlled representation experiments](11_representation_experiments.md)
+12. [Decreasing spatial support](12_spatial_support.md)
+13. [Interpretation and limitations](13_interpretation.md)
+14. [Reproducing the figures](14_reproduction.md)
+
+The first six chapters introduce the representations and learning machinery. Chapters 7-10 explain validation and uncertainty metrics before the experimental results. The final chapters connect those concepts to saved figures and reproduction.
+
+The Training notebooks use packaged results; the Full package also supplies the training entry point. Chapter 14 identifies the evidence used by each notebook.
